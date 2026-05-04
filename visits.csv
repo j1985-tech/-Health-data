@@ -1,0 +1,9 @@
+visit_id,patient_id,visit_date,diagnosis_code,hospital
+101,1,2024/01/12,I10,General Hospital
+102,2,12-02-2024,E11,City Care
+103,1,2024-01-12,I10,General Hospital
+104,3,2024-03-01,,Metro Hospital
+105,4,2024/02/20,J45,City Care
+106,5,2024-02-30,E66,General Hospital
+107,6,2024-01-25,I20,Metro Hospital
+108,7,2024/13/01,E11,City Care

@@ -1,0 +1,8 @@
+patient_id,name,age,gender,city
+1,John Doe,45.0,M,New York
+2,Mary Jane,,F,Los Angeles
+3,Sam Smith,-3.0,M,Chicago
+4,Anna Lee,29.0,Female,Los Angeles
+5,Chris Brown,200.0,M,Houston
+6,David Kim,34.0,,Chicago
+7,Sara Ali,27.0,F,Los Angeles

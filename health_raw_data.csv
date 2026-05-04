@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Visit_Date,Diagnosis_Code,Billing_Amount,Hospital,City
+101,John Doe,45.0,M,2024/01/12,I10,200.0,General Hospital,New York
+102,Mary Jane,,F,12-02-2024,E11,350.0,City Care,Los Angeles
+103,John Doe,45.0,Male,2024-01-12,I10,200.0,General Hospital,New York
+104,Sam Smith,-5.0,M,2024-03-01,,-50.0,Metro Hospital,Chicago
+105,Anna Lee,29.0,Female,2024/02/20,J45,500.0,City Care,Los Angeles
+106,Chris Brown,200.0,M,2024-02-30,E66,700.0,General Hospital,Houston
+107,David Kim,34.0,,2024-01-25,I20,,Metro Hospital,Chicago
+108,Sara Ali,27.0,F,2024/13/01,E11,300.0,City Care,Los Angeles
+109,Michael Scott,40.0,M,2024-02-10,I10,100000.0,General Hospital,New York
+101,John Doe,45.0,M,2024/01/12,I10,200.0,General Hospital,New York
