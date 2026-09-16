@@ -1,0 +1,1001 @@
+﻿Data_Source,Date_ID,Day_of_Week,Event_Type,Event_Date,Fiscal_Year,Holiday_Flag,Invalid_Date_Flag,Last_Updated,Quarter,Reference_ID
+Billing System,7,Wednesday,Follow-up,2019-07-31 00:00:00,2019,No_Flag,false,2019-08-16 00:00:00,3,VIS00480
+Billing System,20,Wednesday,Procedure,2022-08-31 00:00:00,2022,No_Flag,false,2022-09-03 00:00:00,3,PAT00109
+Billing System,36,Saturday,Discharge,2019-03-09 00:00:00,2019,No_Flag,false,2019-03-17 00:00:00,1,VIS00699
+Billing System,40,Friday,Admission,2024-08-09 00:00:00,2024,No_Flag,false,2024-08-26 00:00:00,3,CLM00958
+Billing System,53,Wednesday,Lab Result,1900-01-01 00:00:00,2021,Holiday,true,2021-07-11 00:00:00,2,PAT00670
+Billing System,57,Saturday,Procedure,2020-04-18 00:00:00,2020,No_Flag,false,2020-04-19 00:00:00,2,PAT00402
+Billing System,62,Sunday,Admission,1900-01-01 00:00:00,2023,Weekend,true,2023-07-17 00:00:00,3,PAT00072
+Billing System,64,Monday,Admission,2020-08-03 00:00:00,2020,Weekend,false,2020-08-16 00:00:00,3,PAT00860
+Billing System,65,Friday,Admission,2019-08-03 00:00:00,2019,Business Day,false,2019-03-09 00:00:00,1,VIS00258
+Billing System,69,Saturday,Discharge,2023-01-14 00:00:00,2023,Weekend,false,2023-02-03 00:00:00,1,CLM00783
+Billing System,83,Monday,Procedure,2022-01-03 00:00:00,2022,Weekend,false,1900-01-01 00:00:00,1,PAT00132
+Billing System,86,Monday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-05-21 00:00:00,2,PAT00616
+Billing System,89,Monday,Follow-up,2020-04-20 00:00:00,2020,No_Flag,false,2020-05-02 00:00:00,2,VIS00755
+Billing System,91,Saturday,Claim Submission,2022-02-19 00:00:00,2022,No_Flag,false,2022-02-28 00:00:00,1,VIS00478
+Billing System,92,Tuesday,Follow-up,1900-01-01 00:00:00,2022,No_Flag,true,2022-08-10 00:00:00,3,PAT00545
+Billing System,98,Monday,Unknown,2018-01-29 00:00:00,2018,Holiday,false,2018-02-13 00:00:00,0,CLM00610
+Billing System,105,Tuesday,Procedure,2018-06-26 00:00:00,2018,No_Flag,false,2018-06-28 00:00:00,2,PAT00971
+Billing System,113,Monday,Admission,2019-10-21 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,4,PAT00683
+Billing System,118,Thursday,Procedure,2022-06-23 00:00:00,2022,Holiday,false,2022-07-23 00:00:00,2,CLM00634
+Billing System,132,Wednesday,Admission,2018-11-21 00:00:00,1900,Holiday,false,2018-12-05 00:00:00,4,CLM00457
+Billing System,135,Sunday,Admission,2019-03-03 00:00:00,2019,Business Day,false,2019-03-26 00:00:00,1,CLM00152
+Billing System,140,Thursday,Procedure,2020-11-19 00:00:00,2020,No_Flag,false,2020-11-24 00:00:00,4,PAT00013
+Billing System,155,Friday,Lab Result,2021-01-01 00:00:00,2021,No_Flag,false,2021-05-14 00:00:00,2,CLM00100
+Billing System,162,Monday,Claim Submission,1900-01-01 00:00:00,2019,Holiday,true,2019-07-19 00:00:00,3,VIS00976
+Billing System,164,Monday,Procedure,2018-03-05 00:00:00,2018,No_Flag,false,2018-03-30 00:00:00,1,CLM00964
+Billing System,178,Wednesday,Lab Result,2018-11-21 00:00:00,2018,No_Flag,false,1900-01-01 00:00:00,4,VIS00408
+Billing System,186,Wednesday,Lab Result,2021-07-04 00:00:00,2021,Weekend,false,2021-04-09 00:00:00,2,PAT00637
+Billing System,222,Wednesday,Procedure,2021-02-24 00:00:00,2021,No_Flag,false,1900-01-01 00:00:00,1,CLM00799
+Billing System,223,Friday,Admission,1900-01-01 00:00:00,2024,Weekend,true,2024-04-05 00:00:00,2,CLM00785
+Billing System,234,Thursday,Follow-up,2019-10-24 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,4,PAT00626
+Billing System,237,Friday,Lab Result,2022-07-15 00:00:00,2022,Holiday,false,2022-07-20 00:00:00,3,PAT00940
+Billing System,241,Tuesday,Discharge,2018-05-08 00:00:00,2018,Weekend,false,2018-05-29 00:00:00,2,CLM00211
+Billing System,252,Wednesday,Follow-up,2021-10-02 00:00:00,2021,No_Flag,false,1900-01-01 00:00:00,1,PAT00492
+Billing System,271,Monday,Claim Submission,1900-01-01 00:00:00,2024,Business Day,true,2024-09-23 00:00:00,3,PAT00646
+Billing System,281,Friday,Admission,1900-01-01 00:00:00,1900,No_Flag,true,2024-07-06 00:00:00,2,PAT00657
+Billing System,290,Tuesday,Admission,1900-01-01 00:00:00,2018,No_Flag,true,2018-11-07 00:00:00,4,VIS00286
+Billing System,292,No_Day,Lab Result,1900-01-01 00:00:00,2024,No_Flag,true,2024-11-24 00:00:00,4,PAT00683
+Billing System,301,Saturday,Admission,2019-11-16 00:00:00,2019,No_Flag,false,2019-12-02 00:00:00,4,VIS00974
+Billing System,307,Saturday,Admission,2023-11-04 00:00:00,2023,No_Flag,false,2023-11-16 00:00:00,4,PAT00937
+Billing System,312,No_Day,Lab Result,2024-07-04 00:00:00,2024,No_Flag,false,2024-07-30 00:00:00,3,VIS00260
+Billing System,314,Monday,Lab Result,2018-01-01 00:00:00,2018,No_Flag,false,1900-01-01 00:00:00,1,PAT00085
+Billing System,316,Saturday,Lab Result,2024-05-18 00:00:00,2024,Business Day,false,2024-06-14 00:00:00,2,VIS00014
+Billing System,318,Friday,Follow-up,2020-09-04 00:00:00,2020,Business Day,false,1900-01-01 00:00:00,3,CLM00446
+Billing System,320,Wednesday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-10-11 00:00:00,3,CLM00679
+Billing System,321,Monday,Follow-up,2024-01-22 00:00:00,2024,No_Flag,false,2024-01-22 00:00:00,0,CLM00840
+Billing System,331,Thursday,Follow-up,2018-06-14 00:00:00,2018,No_Flag,false,2018-06-15 00:00:00,2,PAT00776
+Billing System,342,Saturday,Procedure,1900-01-01 00:00:00,2022,Weekend,true,2022-06-22 00:00:00,2,VIS00084
+Billing System,344,Thursday,Lab Result,2023-08-17 00:00:00,2023,No_Flag,false,2023-09-16 00:00:00,3,CLM00043
+Billing System,346,Saturday,Follow-up,2022-01-01 00:00:00,2022,No_Flag,false,2022-10-24 00:00:00,4,CLM00024
+Billing System,348,Thursday,Discharge,1900-01-01 00:00:00,2018,No_Flag,true,2018-04-09 00:00:00,1,VIS00216
+Billing System,349,Sunday,Unknown,2021-08-29 00:00:00,2021,Business Day,false,2021-09-01 00:00:00,3,PAT00043
+Billing System,351,Wednesday,Discharge,2024-03-13 00:00:00,2024,No_Flag,false,2024-03-24 00:00:00,1,VIS00436
+Billing System,352,Saturday,Lab Result,2024-05-10 00:00:00,1900,No_Flag,false,2024-10-27 00:00:00,0,CLM00957
+Billing System,353,Monday,Lab Result,2022-08-29 00:00:00,2022,Business Day,false,2022-09-10 00:00:00,3,CLM00719
+Billing System,357,Thursday,Admission,2022-10-13 00:00:00,2022,No_Flag,false,2022-10-25 00:00:00,4,CLM00741
+Billing System,362,Friday,Lab Result,2020-05-15 00:00:00,2020,Business Day,false,2020-06-04 00:00:00,2,VIS00575
+Billing System,368,Friday,Admission,1900-01-01 00:00:00,2024,No_Flag,true,2024-09-23 00:00:00,3,PAT00869
+Billing System,374,Wednesday,Lab Result,1900-01-01 00:00:00,2024,Weekend,true,2024-10-14 00:00:00,4,CLM00116
+Billing System,386,Tuesday,Claim Submission,2024-08-10 00:00:00,2024,No_Flag,false,2024-10-08 00:00:00,4,CLM00803
+Billing System,392,Saturday,Claim Submission,2024-06-29 00:00:00,2024,Business Day,false,2024-06-30 00:00:00,2,CLM00229
+Billing System,407,Saturday,Claim Submission,2018-05-26 00:00:00,2018,No_Flag,false,2018-06-15 00:00:00,2,PAT00478
+Billing System,413,Friday,Unknown,1900-01-01 00:00:00,2019,Weekend,true,2019-11-30 00:00:00,4,CLM00241
+Billing System,416,Sunday,Claim Submission,1900-01-01 00:00:00,2023,Holiday,true,2023-08-01 00:00:00,3,PAT00240
+Billing System,417,Friday,Procedure,2018-07-20 00:00:00,2018,No_Flag,false,2018-08-06 00:00:00,3,VIS00054
+Billing System,419,Sunday,Discharge,2020-01-12 00:00:00,2020,No_Flag,false,2020-01-19 00:00:00,1,VIS00422
+Billing System,420,Tuesday,Discharge,2019-10-01 00:00:00,2019,No_Flag,false,2019-10-15 00:00:00,4,VIS00709
+Billing System,427,Friday,Unknown,2021-12-31 00:00:00,2021,No_Flag,false,2022-01-29 00:00:00,4,VIS00270
+Billing System,439,Saturday,Claim Submission,2024-01-01 00:00:00,2024,Holiday,false,1900-01-01 00:00:00,1,CLM00754
+Billing System,443,Thursday,Admission,2022-03-03 00:00:00,2022,Business Day,false,1900-01-01 00:00:00,1,VIS00629
+Billing System,448,Friday,Lab Result,1900-01-01 00:00:00,2021,Holiday,true,2021-10-01 00:00:00,4,CLM00413
+Billing System,461,Thursday,Follow-up,2022-12-15 00:00:00,2022,No_Flag,false,2023-01-04 00:00:00,4,VIS00562
+Billing System,482,Tuesday,Admission,2022-02-01 00:00:00,2022,No_Flag,false,2022-02-01 00:00:00,1,VIS00998
+Billing System,536,Wednesday,Lab Result,1900-01-01 00:00:00,2020,No_Flag,true,1900-01-01 00:00:00,2,CLM00326
+Billing System,539,Sunday,Admission,2020-02-16 00:00:00,2020,No_Flag,false,2020-03-09 00:00:00,0,CLM00040
+Billing System,545,Wednesday,Claim Submission,2020-01-01 00:00:00,1900,Weekend,false,2020-06-06 00:00:00,2,CLM00629
+Billing System,550,Sunday,Lab Result,2022-03-07 00:00:00,2022,Holiday,false,2022-07-19 00:00:00,3,CLM00540
+Billing System,570,Saturday,Follow-up,2019-03-09 00:00:00,2019,No_Flag,false,2019-03-24 00:00:00,0,PAT00734
+Billing System,574,Thursday,Admission,1900-01-01 00:00:00,2022,No_Flag,true,2022-06-15 00:00:00,2,VIS00185
+Billing System,575,Sunday,Follow-up,2022-09-18 00:00:00,1900,Business Day,false,2022-09-20 00:00:00,3,PAT00049
+Billing System,580,Sunday,Procedure,2021-07-03 00:00:00,2021,No_Flag,false,2021-04-05 00:00:00,1,VIS00837
+Billing System,581,Wednesday,Follow-up,2023-05-17 00:00:00,2023,No_Flag,false,2023-06-07 00:00:00,2,PAT00872
+Billing System,583,No_Day,Claim Submission,2021-12-09 00:00:00,2021,Holiday,false,1900-01-01 00:00:00,3,PAT00666
+Billing System,597,Saturday,Procedure,2019-01-19 00:00:00,2019,No_Flag,false,2019-01-23 00:00:00,1,PAT00340
+Billing System,601,Saturday,Lab Result,2024-08-10 00:00:00,2024,No_Flag,false,2024-08-29 00:00:00,3,PAT00176
+Billing System,602,Monday,Discharge,1900-01-01 00:00:00,2019,Holiday,true,2019-09-09 00:00:00,0,CLM00538
+Billing System,604,Monday,Unknown,2020-12-14 00:00:00,2020,Weekend,false,1900-01-01 00:00:00,4,PAT00710
+Billing System,609,Monday,Lab Result,1900-01-01 00:00:00,2019,Business Day,true,2019-08-08 00:00:00,3,CLM00925
+Billing System,610,Sunday,Discharge,1900-01-01 00:00:00,2024,Holiday,true,2024-08-02 00:00:00,3,PAT00621
+Billing System,628,Wednesday,Follow-up,2019-07-31 00:00:00,2019,No_Flag,false,2019-08-09 00:00:00,3,CLM00813
+Billing System,639,Saturday,Follow-up,2024-07-06 00:00:00,2024,No_Flag,false,2024-07-29 00:00:00,3,CLM00618
+Billing System,642,Tuesday,Discharge,2023-04-25 00:00:00,2023,No_Flag,false,2023-04-26 00:00:00,2,VIS00922
+Billing System,651,Saturday,Admission,2020-02-01 00:00:00,2020,Weekend,false,2020-02-25 00:00:00,1,CLM00715
+Billing System,652,Monday,Procedure,1900-01-01 00:00:00,2021,Business Day,true,2021-03-10 00:00:00,1,CLM00405
+Billing System,658,Saturday,Admission,2021-02-20 00:00:00,2021,No_Flag,false,2021-02-22 00:00:00,1,VIS00961
+Billing System,669,Tuesday,Claim Submission,2019-06-04 00:00:00,2019,Business Day,false,2019-06-04 00:00:00,2,VIS00936
+Billing System,675,Saturday,Claim Submission,2023-11-18 00:00:00,2023,Business Day,false,2023-11-25 00:00:00,4,CLM00414
+Billing System,702,Tuesday,Claim Submission,2022-05-03 00:00:00,1900,Holiday,false,2022-05-06 00:00:00,2,CLM00256
+Billing System,706,Sunday,Admission,1900-01-01 00:00:00,2023,No_Flag,true,2024-01-10 00:00:00,4,CLM00075
+Billing System,713,Saturday,Discharge,2023-06-10 00:00:00,2023,No_Flag,false,2023-06-22 00:00:00,2,PAT00360
+Billing System,716,Monday,Procedure,2019-05-06 00:00:00,2019,No_Flag,false,2019-05-08 00:00:00,2,PAT00632
+Billing System,718,Sunday,Follow-up,2019-07-04 00:00:00,1900,No_Flag,false,2019-04-18 00:00:00,2,PAT00825
+Billing System,734,Friday,Unknown,1900-01-01 00:00:00,2023,Holiday,true,2023-09-17 00:00:00,3,VIS00492
+Billing System,740,Friday,Unknown,2020-09-18 00:00:00,2020,No_Flag,false,2020-10-08 00:00:00,3,PAT00641
+Billing System,745,Tuesday,Lab Result,1900-01-01 00:00:00,2024,Business Day,true,2024-05-01 00:00:00,2,PAT00850
+Billing System,750,Saturday,Claim Submission,2020-01-11 00:00:00,2020,Business Day,false,2020-01-26 00:00:00,1,PAT00861
+Billing System,757,Saturday,Discharge,1900-01-01 00:00:00,2021,Weekend,true,2021-10-20 00:00:00,3,CLM00403
+Billing System,762,Friday,Unknown,2023-03-17 00:00:00,2023,Holiday,false,2023-04-01 00:00:00,1,CLM00658
+Billing System,764,Wednesday,Procedure,2024-01-01 00:00:00,2024,No_Flag,false,2024-07-16 00:00:00,2,CLM00854
+Billing System,768,Wednesday,Follow-up,2019-07-31 00:00:00,2019,No_Flag,false,2019-08-17 00:00:00,3,PAT00873
+Billing System,769,Thursday,Admission,2023-12-01 00:00:00,2023,Holiday,false,2023-02-06 00:00:00,1,PAT00993
+Billing System,779,Sunday,Claim Submission,2020-05-03 00:00:00,2020,Weekend,false,2020-05-10 00:00:00,2,CLM00074
+Billing System,787,Monday,Procedure,2023-10-16 00:00:00,2023,Business Day,false,2023-11-15 00:00:00,4,VIS00061
+Billing System,790,Thursday,Admission,1900-01-01 00:00:00,2021,No_Flag,true,2021-06-29 00:00:00,2,PAT00929
+Billing System,792,Sunday,Unknown,2019-10-06 00:00:00,2019,No_Flag,false,2019-10-15 00:00:00,4,PAT00431
+Billing System,797,Tuesday,Discharge,2023-01-03 00:00:00,2023,Weekend,false,2023-01-20 00:00:00,1,PAT00039
+Billing System,807,Tuesday,Discharge,2023-01-24 00:00:00,2023,Holiday,false,2023-02-12 00:00:00,1,CLM00855
+Billing System,809,Sunday,Admission,2024-07-28 00:00:00,2024,Business Day,false,2024-08-22 00:00:00,3,VIS00477
+Billing System,815,Friday,Unknown,1900-01-01 00:00:00,2024,Holiday,true,2024-11-19 00:00:00,4,CLM00749
+Billing System,817,Friday,Discharge,2019-03-22 00:00:00,2019,Weekend,false,2019-04-04 00:00:00,1,CLM00830
+Billing System,831,Thursday,Admission,2021-02-12 00:00:00,2021,No_Flag,false,2021-12-13 00:00:00,4,PAT00402
+Billing System,832,Thursday,Lab Result,2020-06-18 00:00:00,2020,No_Flag,false,2020-06-21 00:00:00,2,CLM00538
+Billing System,835,Thursday,Procedure,2018-08-16 00:00:00,2018,Weekend,false,2018-08-16 00:00:00,3,CLM00328
+Billing System,840,Monday,Procedure,2024-11-18 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,4,VIS00723
+Billing System,847,Wednesday,Admission,1900-01-01 00:00:00,2022,Weekend,true,2022-09-27 00:00:00,3,CLM00240
+Billing System,851,Sunday,Follow-up,2022-06-05 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,2,VIS00113
+Billing System,855,Saturday,Discharge,2021-01-09 00:00:00,2021,No_Flag,false,2021-02-04 00:00:00,1,VIS00180
+Billing System,867,Sunday,Discharge,2019-02-17 00:00:00,2019,Weekend,false,2019-02-28 00:00:00,1,CLM00475
+Billing System,874,Monday,Discharge,1900-01-01 00:00:00,1900,Weekend,true,2020-12-01 00:00:00,4,VIS00356
+Billing System,879,Tuesday,Claim Submission,2024-07-30 00:00:00,2024,Weekend,false,2024-08-10 00:00:00,3,VIS00294
+Billing System,881,Tuesday,Lab Result,1900-01-01 00:00:00,1900,Business Day,true,2019-04-23 00:00:00,2,VIS00835
+Billing System,882,Wednesday,Admission,2020-10-28 00:00:00,2020,Weekend,false,2020-11-27 00:00:00,4,CLM00962
+Billing System,887,Tuesday,Unknown,2023-07-18 00:00:00,2023,No_Flag,false,1900-01-01 00:00:00,3,VIS00600
+Billing System,893,Tuesday,Claim Submission,2022-04-19 00:00:00,2022,Business Day,false,2022-04-30 00:00:00,2,PAT00436
+Billing System,902,Monday,Follow-up,2022-12-26 00:00:00,2022,No_Flag,false,2023-01-07 00:00:00,4,PAT00647
+Billing System,914,Friday,Claim Submission,2020-07-31 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,3,CLM00052
+Billing System,917,Wednesday,Claim Submission,1900-01-01 00:00:00,2022,No_Flag,true,2022-11-29 00:00:00,4,CLM00432
+Billing System,932,Thursday,Discharge,2020-06-02 00:00:00,2020,Holiday,false,2020-02-28 00:00:00,1,PAT00514
+Billing System,935,Tuesday,Procedure,2023-12-26 00:00:00,2023,Holiday,false,2024-01-18 00:00:00,4,PAT00079
+Billing System,956,Friday,Claim Submission,1900-01-01 00:00:00,2024,Holiday,true,2024-12-20 00:00:00,4,PAT00151
+Billing System,964,Saturday,Admission,1900-01-01 00:00:00,2024,Holiday,true,2024-10-26 00:00:00,4,PAT00876
+Billing System,966,Wednesday,Procedure,1900-01-01 00:00:00,2023,Holiday,true,2023-06-14 00:00:00,2,CLM00451
+Billing System,969,Tuesday,Admission,2023-06-20 00:00:00,2023,No_Flag,false,2023-07-05 00:00:00,0,CLM00874
+Billing System,985,Monday,Follow-up,2023-01-01 00:00:00,2023,No_Flag,false,2023-04-03 00:00:00,0,CLM00366
+Billing System,988,Monday,Unknown,1900-01-01 00:00:00,2023,No_Flag,true,2023-08-23 00:00:00,3,CLM00014
+Billing System,994,Tuesday,Discharge,1900-01-01 00:00:00,2020,No_Flag,true,2020-05-28 00:00:00,2,CLM00786
+Billing System,1000,Tuesday,Admission,2018-07-24 00:00:00,2018,Weekend,false,2018-08-07 00:00:00,3,PAT00640
+EHR,5,Friday,Discharge,2021-09-03 00:00:00,2021,Business Day,false,2021-09-27 00:00:00,3,PAT00592
+EHR,12,Thursday,Admission,2020-03-05 00:00:00,2020,Weekend,false,2020-03-22 00:00:00,0,CLM00795
+EHR,18,Wednesday,Unknown,2024-07-24 00:00:00,2024,Business Day,false,2024-07-28 00:00:00,3,VIS00447
+EHR,29,Saturday,Admission,2021-10-02 00:00:00,2021,No_Flag,false,2021-10-25 00:00:00,4,PAT00664
+EHR,34,Tuesday,Unknown,2024-10-22 00:00:00,2024,No_Flag,false,2024-11-17 00:00:00,4,CLM00351
+EHR,39,Wednesday,Lab Result,2019-03-20 00:00:00,2019,Business Day,false,2019-04-19 00:00:00,1,PAT00516
+EHR,42,Friday,Lab Result,2022-05-27 00:00:00,1900,No_Flag,false,2022-06-20 00:00:00,2,PAT00779
+EHR,44,Sunday,Admission,2024-03-31 00:00:00,2024,No_Flag,false,2024-04-21 00:00:00,1,PAT00955
+EHR,48,Friday,Procedure,2024-10-04 00:00:00,2024,Holiday,false,2024-10-30 00:00:00,4,CLM00593
+EHR,52,Tuesday,Claim Submission,1900-01-01 00:00:00,2024,Weekend,true,2024-08-01 00:00:00,3,CLM00746
+EHR,55,Tuesday,Follow-up,2020-05-12 00:00:00,2020,No_Flag,false,2020-05-22 00:00:00,2,CLM00378
+EHR,56,Sunday,Claim Submission,2023-01-08 00:00:00,2023,No_Flag,false,2023-01-20 00:00:00,1,VIS00689
+EHR,59,Sunday,Discharge,2023-10-15 00:00:00,2023,No_Flag,false,2023-11-12 00:00:00,4,VIS00161
+EHR,68,Monday,Procedure,2022-06-27 00:00:00,2022,No_Flag,false,2022-07-20 00:00:00,2,PAT00197
+EHR,73,Sunday,Claim Submission,2019-10-13 00:00:00,2019,Holiday,false,2019-11-05 00:00:00,4,PAT00307
+EHR,100,Friday,Lab Result,2018-10-19 00:00:00,2018,Holiday,false,2018-11-12 00:00:00,4,CLM00940
+EHR,111,Sunday,Discharge,2021-03-07 00:00:00,2021,No_Flag,false,2021-03-10 00:00:00,1,PAT00912
+EHR,123,Sunday,Admission,2018-01-01 00:00:00,2018,No_Flag,false,2018-08-01 00:00:00,3,CLM00470
+EHR,138,Monday,Claim Submission,2024-02-05 00:00:00,2024,No_Flag,false,2024-02-13 00:00:00,1,CLM00332
+EHR,147,Monday,Follow-up,2024-07-15 00:00:00,2024,Business Day,false,2024-07-15 00:00:00,3,CLM00682
+EHR,149,No_Day,Claim Submission,2019-05-29 00:00:00,2019,No_Flag,false,2019-06-19 00:00:00,2,VIS00021
+EHR,154,Sunday,Procedure,2024-10-20 00:00:00,2024,Holiday,false,2024-11-16 00:00:00,4,CLM00874
+EHR,175,Wednesday,Procedure,1900-01-01 00:00:00,2022,No_Flag,true,2022-03-29 00:00:00,1,PAT00886
+EHR,183,Tuesday,Discharge,2019-08-20 00:00:00,2019,Business Day,false,1900-01-01 00:00:00,3,VIS00321
+EHR,187,No_Day,Claim Submission,1900-01-01 00:00:00,2023,No_Flag,true,2023-08-24 00:00:00,0,PAT00907
+EHR,192,Friday,Follow-up,1900-01-01 00:00:00,2024,Holiday,true,2024-09-19 00:00:00,3,VIS00476
+EHR,201,Monday,Lab Result,2024-07-15 00:00:00,2024,Holiday,false,2024-07-17 00:00:00,3,VIS00952
+EHR,205,Wednesday,Claim Submission,2023-04-05 00:00:00,2023,No_Flag,false,1900-01-01 00:00:00,2,PAT00866
+EHR,206,Tuesday,Lab Result,2021-03-09 00:00:00,2021,Business Day,false,2021-03-23 00:00:00,1,VIS00907
+EHR,216,Sunday,Claim Submission,2019-07-14 00:00:00,2019,Business Day,false,2019-07-14 00:00:00,3,CLM00375
+EHR,219,Sunday,Procedure,2022-09-10 00:00:00,2022,Weekend,false,2022-10-23 00:00:00,4,CLM00902
+EHR,228,Wednesday,Admission,2019-12-11 00:00:00,2019,No_Flag,false,2020-01-03 00:00:00,4,PAT00380
+EHR,236,Wednesday,Admission,2023-10-18 00:00:00,1900,No_Flag,false,2023-10-22 00:00:00,4,PAT00371
+EHR,239,Thursday,Discharge,1900-01-01 00:00:00,2024,No_Flag,true,2024-10-01 00:00:00,3,VIS00461
+EHR,240,Saturday,Procedure,2024-06-01 00:00:00,1900,No_Flag,false,2024-06-23 00:00:00,2,CLM00996
+EHR,242,Sunday,Lab Result,1900-01-01 00:00:00,2019,Business Day,true,1900-01-01 00:00:00,1,PAT00818
+EHR,243,Thursday,Admission,2018-08-16 00:00:00,2018,No_Flag,false,2018-09-10 00:00:00,3,VIS00656
+EHR,244,No_Day,Follow-up,1900-01-01 00:00:00,2019,Weekend,true,2019-12-27 00:00:00,4,VIS00911
+EHR,245,Wednesday,Claim Submission,2018-02-07 00:00:00,2018,No_Flag,false,2018-02-21 00:00:00,1,PAT00276
+EHR,247,Sunday,Lab Result,2021-01-17 00:00:00,2021,No_Flag,false,2021-01-17 00:00:00,1,PAT00750
+EHR,262,Sunday,Admission,2020-03-29 00:00:00,2020,Holiday,false,2020-03-31 00:00:00,1,VIS00155
+EHR,263,Monday,Claim Submission,2023-09-25 00:00:00,2023,Business Day,false,2023-09-29 00:00:00,3,CLM00108
+EHR,264,Thursday,Claim Submission,2020-01-23 00:00:00,2020,Holiday,false,2020-02-08 00:00:00,1,CLM00548
+EHR,265,Thursday,Follow-up,2023-06-04 00:00:00,2023,No_Flag,false,2023-04-06 00:00:00,2,VIS00653
+EHR,268,Thursday,Procedure,2021-12-02 00:00:00,2021,No_Flag,false,2021-12-26 00:00:00,4,CLM00455
+EHR,277,Sunday,Claim Submission,2023-01-01 00:00:00,2023,No_Flag,false,2023-01-22 00:00:00,1,CLM00078
+EHR,279,Sunday,Admission,2023-05-07 00:00:00,2023,Holiday,false,2023-06-05 00:00:00,2,PAT00831
+EHR,285,Monday,Admission,2020-02-10 00:00:00,2020,Business Day,false,2020-02-17 00:00:00,1,CLM00165
+EHR,287,Sunday,Procedure,2020-03-22 00:00:00,2020,No_Flag,false,2020-04-05 00:00:00,1,VIS00104
+EHR,302,Thursday,Discharge,2019-08-15 00:00:00,2019,No_Flag,false,2019-09-12 00:00:00,3,PAT00779
+EHR,308,No_Day,Lab Result,2018-01-03 00:00:00,2018,Business Day,false,2018-03-19 00:00:00,1,PAT00682
+EHR,309,Sunday,Lab Result,2022-11-13 00:00:00,2022,No_Flag,false,2022-12-04 00:00:00,4,CLM00480
+EHR,328,Sunday,Discharge,2022-02-20 00:00:00,2022,No_Flag,false,2022-03-08 00:00:00,1,CLM00211
+EHR,341,Tuesday,Claim Submission,2022-07-12 00:00:00,2022,No_Flag,false,2022-07-14 00:00:00,3,VIS00610
+EHR,343,Monday,Follow-up,2023-10-16 00:00:00,2023,No_Flag,false,2023-11-11 00:00:00,4,CLM00251
+EHR,361,Monday,Admission,2019-12-08 00:00:00,2019,No_Flag,false,2019-09-02 00:00:00,3,CLM00395
+EHR,369,Tuesday,Discharge,2024-10-12 00:00:00,2024,Business Day,false,2025-01-04 00:00:00,4,CLM00989
+EHR,370,Tuesday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,1900-01-01 00:00:00,4,PAT00390
+EHR,375,Monday,Discharge,2023-02-13 00:00:00,2023,Business Day,false,2023-02-21 00:00:00,1,VIS00827
+EHR,376,Thursday,Claim Submission,2022-01-20 00:00:00,2022,Business Day,false,2022-01-20 00:00:00,1,CLM00158
+EHR,379,No_Day,Follow-up,2020-02-25 00:00:00,2020,No_Flag,false,2020-03-14 00:00:00,0,VIS00993
+EHR,382,Thursday,Claim Submission,2024-05-09 00:00:00,2024,Business Day,false,2024-05-26 00:00:00,2,VIS00148
+EHR,385,Monday,Lab Result,2022-03-21 00:00:00,2022,Business Day,false,1900-01-01 00:00:00,1,VIS00136
+EHR,394,Saturday,Discharge,2024-09-14 00:00:00,2024,No_Flag,false,2024-10-09 00:00:00,3,VIS00474
+EHR,396,Friday,Lab Result,2018-07-09 00:00:00,2018,Holiday,false,2018-09-12 00:00:00,3,CLM00914
+EHR,399,Wednesday,Unknown,2020-08-05 00:00:00,2020,Business Day,false,2020-08-19 00:00:00,3,CLM00923
+EHR,401,Monday,Lab Result,2021-02-01 00:00:00,2021,Holiday,false,2021-02-14 00:00:00,1,VIS00325
+EHR,403,Saturday,Lab Result,2018-05-26 00:00:00,1900,No_Flag,false,1900-01-01 00:00:00,2,VIS00103
+EHR,404,Wednesday,Discharge,2021-12-01 00:00:00,2021,No_Flag,false,2021-12-12 00:00:00,4,PAT00963
+EHR,432,Sunday,Claim Submission,2024-05-19 00:00:00,1900,No_Flag,false,2024-06-10 00:00:00,2,VIS00337
+EHR,433,Monday,Claim Submission,2018-05-28 00:00:00,2018,No_Flag,false,2018-06-14 00:00:00,2,CLM00516
+EHR,435,Tuesday,Discharge,2021-02-09 00:00:00,2021,Holiday,false,1900-01-01 00:00:00,1,VIS00008
+EHR,450,Tuesday,Discharge,2022-04-12 00:00:00,2022,No_Flag,false,2022-04-22 00:00:00,2,CLM00569
+EHR,454,Wednesday,Claim Submission,1900-01-01 00:00:00,1900,No_Flag,true,2021-06-08 00:00:00,2,CLM00090
+EHR,455,Thursday,Follow-up,2023-06-08 00:00:00,2023,No_Flag,false,2023-06-16 00:00:00,2,VIS00927
+EHR,456,Saturday,Discharge,2024-08-10 00:00:00,2024,No_Flag,false,2024-08-30 00:00:00,3,PAT00790
+EHR,457,Monday,Lab Result,2018-07-09 00:00:00,2018,No_Flag,false,2018-07-16 00:00:00,3,PAT00179
+EHR,460,Saturday,Claim Submission,2022-07-09 00:00:00,1900,Business Day,false,2022-07-29 00:00:00,3,CLM00702
+EHR,476,Wednesday,Procedure,1900-01-01 00:00:00,2023,Weekend,true,2023-11-22 00:00:00,4,VIS00881
+EHR,480,Friday,Lab Result,2022-01-28 00:00:00,2022,No_Flag,false,2022-02-25 00:00:00,1,CLM00190
+EHR,490,Saturday,Discharge,2020-09-05 00:00:00,2020,Business Day,false,2020-09-26 00:00:00,3,CLM00029
+EHR,494,Thursday,Procedure,2018-02-15 00:00:00,2018,No_Flag,false,2018-02-15 00:00:00,1,CLM00325
+EHR,506,Monday,Admission,2022-11-14 00:00:00,2022,Weekend,false,2022-11-23 00:00:00,4,PAT00602
+EHR,509,Thursday,Discharge,1900-01-01 00:00:00,2021,Weekend,true,2021-07-08 00:00:00,2,CLM00162
+EHR,512,Saturday,Follow-up,2021-07-08 00:00:00,2021,No_Flag,false,2021-08-23 00:00:00,3,VIS00981
+EHR,521,Sunday,Procedure,2024-07-14 00:00:00,2024,Business Day,false,2024-07-31 00:00:00,3,CLM00825
+EHR,527,Saturday,Admission,2021-05-29 00:00:00,2021,No_Flag,false,2021-06-05 00:00:00,2,CLM00293
+EHR,530,Tuesday,Unknown,2020-11-03 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,4,VIS00908
+EHR,542,Thursday,Unknown,1900-01-01 00:00:00,2020,Weekend,true,2020-10-16 00:00:00,0,PAT00706
+EHR,546,Monday,Admission,2019-10-14 00:00:00,2019,No_Flag,false,2019-11-04 00:00:00,4,CLM00323
+EHR,549,Friday,Lab Result,1900-01-01 00:00:00,2019,Holiday,true,2019-07-05 00:00:00,3,PAT00029
+EHR,551,Thursday,Admission,2021-09-30 00:00:00,2021,No_Flag,false,2021-10-01 00:00:00,3,CLM00981
+EHR,553,Sunday,Lab Result,2024-11-02 00:00:00,2024,No_Flag,false,2024-03-12 00:00:00,1,PAT00319
+EHR,556,Wednesday,Procedure,2019-07-24 00:00:00,2019,Business Day,false,2019-08-06 00:00:00,3,VIS00634
+EHR,571,Sunday,Discharge,2019-11-17 00:00:00,2019,Holiday,false,2019-11-26 00:00:00,4,VIS00412
+EHR,576,Tuesday,Unknown,1900-01-01 00:00:00,2021,No_Flag,true,2021-01-14 00:00:00,1,CLM00292
+EHR,582,Friday,Admission,2018-03-09 00:00:00,2018,No_Flag,false,2018-03-25 00:00:00,1,PAT00164
+EHR,590,Friday,Admission,2023-12-22 00:00:00,2023,No_Flag,false,2024-01-14 00:00:00,4,CLM00225
+EHR,594,Sunday,Follow-up,2024-09-22 00:00:00,1900,No_Flag,false,2024-10-08 00:00:00,3,PAT00474
+EHR,598,Monday,Lab Result,1900-01-01 00:00:00,2023,Weekend,true,2023-04-21 00:00:00,2,CLM00127
+EHR,603,Thursday,Discharge,2019-05-30 00:00:00,2019,No_Flag,false,2019-06-07 00:00:00,2,VIS00773
+EHR,605,Sunday,Lab Result,1900-01-01 00:00:00,2022,No_Flag,true,2022-03-22 00:00:00,1,PAT00492
+EHR,606,Sunday,Admission,1900-01-01 00:00:00,2024,Weekend,true,2024-07-21 00:00:00,3,PAT00252
+EHR,607,Sunday,Follow-up,2024-06-02 00:00:00,2024,No_Flag,false,2024-06-27 00:00:00,2,CLM00403
+EHR,608,Thursday,Lab Result,2018-08-09 00:00:00,2018,No_Flag,false,2018-09-06 00:00:00,0,PAT00335
+EHR,612,Wednesday,Procedure,1900-01-01 00:00:00,2020,Weekend,true,2020-04-08 00:00:00,2,PAT00580
+EHR,613,Tuesday,Claim Submission,1900-01-01 00:00:00,2019,Business Day,true,2019-05-01 00:00:00,2,CLM00095
+EHR,615,Wednesday,Discharge,2021-05-05 00:00:00,2021,Business Day,false,2021-05-30 00:00:00,2,PAT00364
+EHR,619,Wednesday,Discharge,2020-01-15 00:00:00,2020,Weekend,false,2020-01-16 00:00:00,1,CLM00704
+EHR,623,Saturday,Procedure,2022-02-26 00:00:00,2022,No_Flag,false,2022-03-20 00:00:00,1,PAT00548
+EHR,637,Thursday,Lab Result,2018-07-19 00:00:00,2018,Business Day,false,2018-07-30 00:00:00,0,CLM00171
+EHR,641,No_Day,Discharge,2019-07-03 00:00:00,2019,No_Flag,false,2019-07-28 00:00:00,3,VIS00452
+EHR,655,Wednesday,Lab Result,2022-11-16 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,4,PAT00546
+EHR,662,Friday,Procedure,2018-06-22 00:00:00,1900,No_Flag,false,2018-07-18 00:00:00,2,VIS00539
+EHR,664,Monday,Procedure,2018-03-26 00:00:00,2018,Business Day,false,2018-04-12 00:00:00,0,VIS00294
+EHR,667,Tuesday,Unknown,2019-06-04 00:00:00,2019,No_Flag,false,2019-06-23 00:00:00,2,CLM00792
+EHR,671,Friday,Claim Submission,2018-01-26 00:00:00,2018,No_Flag,false,1900-01-01 00:00:00,1,VIS00237
+EHR,682,Friday,Admission,1900-01-01 00:00:00,2020,Business Day,true,2020-09-05 00:00:00,3,PAT00886
+EHR,689,Friday,Lab Result,2020-03-01 00:00:00,2020,No_Flag,false,2020-01-17 00:00:00,1,CLM00930
+EHR,696,No_Day,Admission,2021-01-19 00:00:00,2021,Weekend,false,2021-02-10 00:00:00,1,PAT00290
+EHR,698,Monday,Admission,2019-11-02 00:00:00,2019,Holiday,false,2019-02-24 00:00:00,1,VIS00813
+EHR,701,Saturday,Follow-up,1900-01-01 00:00:00,2019,Holiday,true,2019-09-30 00:00:00,3,VIS00193
+EHR,704,Thursday,Discharge,2023-01-26 00:00:00,2023,Weekend,false,2023-01-31 00:00:00,1,VIS00889
+EHR,709,Saturday,Discharge,1900-01-01 00:00:00,2023,Holiday,true,2023-12-11 00:00:00,4,PAT00359
+EHR,722,Thursday,Claim Submission,1900-01-01 00:00:00,2021,No_Flag,true,2021-05-13 00:00:00,2,VIS00264
+EHR,724,Saturday,Claim Submission,2020-01-11 00:00:00,2020,Holiday,false,2020-01-26 00:00:00,1,PAT00385
+EHR,728,Tuesday,Unknown,1900-01-01 00:00:00,2018,Business Day,true,2019-01-05 00:00:00,4,VIS00834
+EHR,732,Saturday,Discharge,1900-01-01 00:00:00,2020,No_Flag,true,2020-12-13 00:00:00,4,PAT00169
+EHR,748,Tuesday,Admission,1900-01-01 00:00:00,2024,Business Day,true,2024-12-12 00:00:00,4,VIS00123
+EHR,755,Tuesday,Discharge,1900-01-01 00:00:00,2023,No_Flag,true,1900-01-01 00:00:00,2,CLM00820
+EHR,760,Monday,Procedure,2020-11-23 00:00:00,2020,Holiday,false,2020-12-01 00:00:00,4,PAT00381
+EHR,766,Thursday,Admission,2018-03-22 00:00:00,2018,No_Flag,false,2018-04-16 00:00:00,1,CLM00705
+EHR,767,Friday,Procedure,2019-07-05 00:00:00,2019,No_Flag,false,2019-07-21 00:00:00,3,PAT00680
+EHR,777,Sunday,Claim Submission,2022-03-27 00:00:00,2022,No_Flag,false,2022-03-31 00:00:00,1,PAT00462
+EHR,780,Saturday,Lab Result,2019-06-08 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,2,PAT00222
+EHR,789,Monday,Lab Result,2021-04-19 00:00:00,2021,No_Flag,false,2021-05-06 00:00:00,2,PAT00707
+EHR,801,Saturday,Follow-up,1900-01-01 00:00:00,2020,Holiday,true,2020-10-09 00:00:00,3,PAT00587
+EHR,808,Thursday,Discharge,1900-01-01 00:00:00,2024,No_Flag,true,2024-05-16 00:00:00,2,VIS00873
+EHR,833,Friday,Admission,1900-01-01 00:00:00,2023,Weekend,true,2023-03-11 00:00:00,1,VIS00816
+EHR,844,Tuesday,Claim Submission,2020-11-24 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,4,PAT00594
+EHR,849,Sunday,Admission,2018-11-18 00:00:00,2018,No_Flag,false,2018-11-26 00:00:00,4,VIS00134
+EHR,850,Wednesday,Lab Result,2020-01-01 00:00:00,2020,No_Flag,false,2020-06-22 00:00:00,2,VIS00951
+EHR,861,Thursday,Procedure,2023-03-16 00:00:00,2023,No_Flag,false,2023-03-30 00:00:00,1,PAT00896
+EHR,862,Sunday,Claim Submission,2018-05-13 00:00:00,1900,Business Day,false,2018-05-26 00:00:00,2,VIS00164
+EHR,864,Monday,Claim Submission,1900-01-01 00:00:00,2024,Holiday,true,2024-12-16 00:00:00,4,VIS00592
+EHR,868,Saturday,Admission,2020-02-15 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,1,CLM00694
+EHR,869,Thursday,Follow-up,2019-12-19 00:00:00,2019,No_Flag,false,2019-12-20 00:00:00,4,VIS00631
+EHR,871,Sunday,Lab Result,2022-10-30 00:00:00,2022,Business Day,false,2022-11-02 00:00:00,4,CLM00497
+EHR,872,Thursday,Admission,2023-10-05 00:00:00,2023,Business Day,false,2023-10-14 00:00:00,4,CLM00576
+EHR,891,Saturday,Admission,2023-08-12 00:00:00,2023,Weekend,false,2023-09-11 00:00:00,0,PAT00784
+EHR,904,Sunday,Procedure,2018-01-01 00:00:00,2018,Holiday,false,2018-03-09 00:00:00,1,PAT00481
+EHR,905,Thursday,Discharge,2020-02-27 00:00:00,2020,No_Flag,false,2020-03-06 00:00:00,1,CLM00600
+EHR,911,Monday,Lab Result,1900-01-01 00:00:00,2021,No_Flag,true,2021-08-17 00:00:00,3,VIS00758
+EHR,929,Friday,Follow-up,2023-10-03 00:00:00,2023,No_Flag,false,2023-04-07 00:00:00,1,VIS00012
+EHR,933,Sunday,Discharge,2022-07-03 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,3,CLM00779
+EHR,939,Friday,Admission,1900-01-01 00:00:00,2022,Weekend,true,1900-01-01 00:00:00,2,PAT00929
+EHR,941,Saturday,Admission,2021-04-24 00:00:00,1900,No_Flag,false,2021-04-30 00:00:00,2,VIS00521
+EHR,944,Tuesday,Lab Result,2023-08-15 00:00:00,2023,No_Flag,false,2023-08-23 00:00:00,3,VIS00650
+EHR,972,Tuesday,Claim Submission,2024-12-17 00:00:00,2024,Weekend,false,2025-01-07 00:00:00,4,VIS00828
+EHR,973,Monday,Follow-up,2022-07-18 00:00:00,2022,Business Day,false,2022-07-31 00:00:00,3,VIS00198
+EHR,979,Tuesday,Discharge,2020-01-14 00:00:00,2020,Weekend,false,2020-01-23 00:00:00,1,CLM00700
+EHR,980,Monday,Claim Submission,1900-01-01 00:00:00,2023,Holiday,true,2023-08-22 00:00:00,3,PAT00081
+EHR,984,Saturday,Claim Submission,2022-03-12 00:00:00,2022,Weekend,false,2022-04-05 00:00:00,1,VIS00721
+EHR,991,Monday,Procedure,2018-12-31 00:00:00,1900,Holiday,false,2019-01-17 00:00:00,4,VIS01000
+EHR,998,Tuesday,Follow-up,2023-06-06 00:00:00,2023,No_Flag,false,1900-01-01 00:00:00,2,CLM00950
+Import,10,Friday,Unknown,2021-12-17 00:00:00,2021,No_Flag,false,2022-01-06 00:00:00,4,VIS00234
+Import,23,Wednesday,Unknown,1900-01-01 00:00:00,2019,Holiday,true,1900-01-01 00:00:00,1,CLM00975
+Import,26,Wednesday,Admission,2023-12-27 00:00:00,2023,Business Day,false,1900-01-01 00:00:00,4,PAT00176
+Import,45,Friday,Claim Submission,2021-09-24 00:00:00,2021,Weekend,false,2021-10-04 00:00:00,3,CLM00190
+Import,76,Saturday,Follow-up,2018-08-11 00:00:00,2018,Weekend,false,2018-09-02 00:00:00,3,VIS00407
+Import,77,Thursday,Discharge,1900-01-01 00:00:00,2022,Weekend,true,2022-02-14 00:00:00,1,VIS00406
+Import,96,Sunday,Admission,1900-01-01 00:00:00,2019,Holiday,true,2019-04-23 00:00:00,2,PAT00507
+Import,103,Wednesday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-08-20 00:00:00,3,VIS00680
+Import,108,Sunday,Lab Result,2023-01-01 00:00:00,2023,No_Flag,false,1900-01-01 00:00:00,1,VIS00691
+Import,116,Saturday,Admission,2024-06-15 00:00:00,2024,No_Flag,false,2024-07-08 00:00:00,2,VIS00034
+Import,120,Saturday,Lab Result,2020-05-16 00:00:00,2020,Weekend,false,2020-06-04 00:00:00,2,PAT00882
+Import,130,Thursday,Procedure,2019-10-03 00:00:00,2019,No_Flag,false,2019-10-03 00:00:00,4,VIS00806
+Import,131,Tuesday,Discharge,2021-04-20 00:00:00,2021,No_Flag,false,2021-05-17 00:00:00,2,VIS00643
+Import,134,Saturday,Procedure,1900-01-01 00:00:00,2021,No_Flag,true,1900-01-01 00:00:00,4,PAT00530
+Import,136,Monday,Procedure,1900-01-01 00:00:00,2018,No_Flag,true,2018-06-01 00:00:00,2,CLM00271
+Import,139,Friday,Discharge,2019-06-21 00:00:00,2019,Business Day,false,2019-07-17 00:00:00,2,PAT00302
+Import,146,Tuesday,Procedure,2024-08-06 00:00:00,2024,No_Flag,false,2024-08-19 00:00:00,3,PAT00483
+Import,152,Tuesday,Claim Submission,2019-12-31 00:00:00,2019,Holiday,false,2020-01-01 00:00:00,4,PAT00247
+Import,160,Sunday,Procedure,2019-01-06 00:00:00,1900,No_Flag,false,2019-01-24 00:00:00,1,PAT00102
+Import,166,Wednesday,Follow-up,1900-01-01 00:00:00,2024,Weekend,true,2024-10-19 00:00:00,0,VIS00937
+Import,168,No_Day,Procedure,2019-03-15 00:00:00,2019,No_Flag,false,2019-03-24 00:00:00,1,CLM00879
+Import,171,Friday,Lab Result,2018-11-30 00:00:00,2018,No_Flag,false,2018-12-16 00:00:00,4,VIS00650
+Import,172,Saturday,Claim Submission,2022-11-12 00:00:00,2022,No_Flag,false,2022-11-15 00:00:00,4,CLM00400
+Import,193,Monday,Claim Submission,2018-12-17 00:00:00,2018,No_Flag,false,2019-01-03 00:00:00,4,VIS00899
+Import,209,Friday,Procedure,1900-01-01 00:00:00,2021,No_Flag,true,2021-06-10 00:00:00,2,VIS00861
+Import,224,Monday,Follow-up,1900-01-01 00:00:00,2018,No_Flag,true,2018-07-06 00:00:00,3,VIS00866
+Import,226,Thursday,Follow-up,2023-11-23 00:00:00,2023,No_Flag,false,2023-12-11 00:00:00,4,PAT00487
+Import,230,Friday,Lab Result,2018-02-16 00:00:00,2018,No_Flag,false,2018-03-17 00:00:00,1,VIS00264
+Import,231,Monday,Lab Result,2024-10-14 00:00:00,2024,No_Flag,false,2024-10-31 00:00:00,4,PAT00291
+Import,233,Thursday,Claim Submission,2018-01-18 00:00:00,2018,No_Flag,false,2018-01-30 00:00:00,1,PAT00234
+Import,253,Sunday,Discharge,2024-06-02 00:00:00,2024,Business Day,false,2024-06-24 00:00:00,2,CLM00653
+Import,255,Thursday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-09-26 00:00:00,3,CLM00119
+Import,258,Saturday,Lab Result,1900-01-01 00:00:00,2019,No_Flag,true,2019-06-23 00:00:00,2,CLM00383
+Import,260,Sunday,Claim Submission,2019-07-28 00:00:00,2019,No_Flag,false,2019-08-11 00:00:00,3,PAT00520
+Import,280,Wednesday,Admission,1900-01-01 00:00:00,2018,No_Flag,true,2018-04-30 00:00:00,2,VIS00756
+Import,282,Thursday,Lab Result,1900-01-01 00:00:00,2020,No_Flag,true,2020-05-25 00:00:00,2,PAT00573
+Import,284,Saturday,Claim Submission,2024-06-15 00:00:00,2024,No_Flag,false,2024-06-18 00:00:00,2,CLM00417
+Import,289,Sunday,Unknown,2021-04-25 00:00:00,2021,No_Flag,false,2021-05-07 00:00:00,2,VIS00422
+Import,297,Friday,Admission,2022-06-03 00:00:00,2022,No_Flag,false,2022-06-17 00:00:00,2,CLM00314
+Import,304,Tuesday,Lab Result,2024-12-24 00:00:00,2024,Business Day,false,2025-01-04 00:00:00,4,PAT00058
+Import,311,Monday,Discharge,2024-10-28 00:00:00,2024,No_Flag,false,2024-11-02 00:00:00,4,VIS00746
+Import,322,Thursday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-07-22 00:00:00,3,VIS00895
+Import,325,Wednesday,Follow-up,2019-01-01 00:00:00,2019,No_Flag,false,2019-09-03 00:00:00,3,CLM00152
+Import,335,Saturday,Discharge,2023-10-14 00:00:00,2023,No_Flag,false,2023-10-16 00:00:00,4,PAT00834
+Import,337,Wednesday,Discharge,2022-11-09 00:00:00,2022,No_Flag,false,2022-11-17 00:00:00,4,VIS00643
+Import,338,Monday,Claim Submission,2024-05-13 00:00:00,2024,No_Flag,false,2024-05-26 00:00:00,2,VIS00973
+Import,350,Saturday,Procedure,2023-12-08 00:00:00,2023,Holiday,false,2023-08-17 00:00:00,3,VIS00323
+Import,358,Tuesday,Discharge,2024-01-16 00:00:00,2024,No_Flag,false,2024-02-15 00:00:00,1,PAT00044
+Import,364,No_Day,Lab Result,2019-01-30 00:00:00,2019,No_Flag,false,2019-02-20 00:00:00,1,PAT00421
+Import,377,Thursday,Procedure,1900-01-01 00:00:00,2021,No_Flag,true,2021-09-11 00:00:00,3,VIS00442
+Import,384,No_Day,Lab Result,2019-07-18 00:00:00,2019,No_Flag,false,2019-07-29 00:00:00,0,CLM00016
+Import,389,Saturday,Follow-up,2024-09-28 00:00:00,2024,Holiday,false,1900-01-01 00:00:00,3,CLM00777
+Import,397,Thursday,Claim Submission,2020-07-16 00:00:00,2020,Weekend,false,2020-07-25 00:00:00,3,VIS00279
+Import,406,Monday,Admission,2020-09-21 00:00:00,2020,No_Flag,false,2020-10-20 00:00:00,3,PAT00395
+Import,408,Wednesday,Follow-up,2022-08-24 00:00:00,2022,No_Flag,false,2022-09-15 00:00:00,3,PAT00924
+Import,410,Friday,Discharge,2023-11-24 00:00:00,2023,No_Flag,false,2023-12-12 00:00:00,4,CLM00624
+Import,424,Wednesday,Lab Result,1900-01-01 00:00:00,2023,Weekend,true,2023-10-28 00:00:00,4,CLM00246
+Import,425,Thursday,Admission,2022-12-29 00:00:00,2022,No_Flag,false,2023-01-18 00:00:00,4,PAT00736
+Import,430,Saturday,Discharge,2019-11-02 00:00:00,2019,No_Flag,false,2019-11-22 00:00:00,4,PAT00508
+Import,434,Monday,Discharge,2022-02-28 00:00:00,2022,Business Day,false,2022-03-17 00:00:00,1,CLM00334
+Import,444,Wednesday,Discharge,2020-07-29 00:00:00,2020,Holiday,false,2020-08-05 00:00:00,3,CLM00713
+Import,463,Wednesday,Claim Submission,2019-02-06 00:00:00,2019,No_Flag,false,2019-02-22 00:00:00,1,PAT00504
+Import,464,Thursday,Follow-up,2021-05-06 00:00:00,2021,No_Flag,false,2021-05-26 00:00:00,2,CLM00496
+Import,465,Saturday,Discharge,2019-06-01 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,2,PAT00880
+Import,481,Friday,Follow-up,2024-02-23 00:00:00,2024,Weekend,false,2024-03-12 00:00:00,1,PAT00357
+Import,483,Tuesday,Follow-up,2020-06-23 00:00:00,2020,No_Flag,false,2020-07-01 00:00:00,2,VIS00116
+Import,488,Monday,Claim Submission,2024-03-25 00:00:00,2024,Holiday,false,2024-04-03 00:00:00,1,VIS00088
+Import,489,Sunday,Follow-up,2020-02-02 00:00:00,2020,No_Flag,false,2020-02-05 00:00:00,1,VIS00012
+Import,491,Thursday,Claim Submission,2019-02-07 00:00:00,1900,No_Flag,false,2019-03-02 00:00:00,1,PAT00618
+Import,498,Saturday,Claim Submission,1900-01-01 00:00:00,2018,Business Day,true,2018-11-07 00:00:00,4,VIS00051
+Import,504,Monday,Claim Submission,2024-06-03 00:00:00,2024,No_Flag,false,2024-06-08 00:00:00,2,CLM00509
+Import,507,Saturday,Procedure,2022-10-08 00:00:00,2022,Holiday,false,2022-10-19 00:00:00,4,VIS00111
+Import,515,Sunday,Follow-up,2021-08-01 00:00:00,2021,No_Flag,false,2021-08-07 00:00:00,3,VIS00842
+Import,520,Saturday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-10-14 00:00:00,4,PAT00281
+Import,523,Monday,Claim Submission,2024-12-02 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,4,VIS00639
+Import,528,Sunday,Procedure,2024-09-22 00:00:00,1900,No_Flag,false,2024-09-27 00:00:00,3,CLM00227
+Import,532,Monday,Admission,2020-01-20 00:00:00,2020,No_Flag,false,2020-02-03 00:00:00,1,VIS00956
+Import,535,Thursday,Discharge,2023-10-05 00:00:00,2023,No_Flag,false,2023-10-31 00:00:00,4,CLM00684
+Import,537,No_Day,Claim Submission,2023-08-03 00:00:00,2023,Business Day,false,2023-08-07 00:00:00,3,VIS00413
+Import,540,Sunday,Follow-up,1900-01-01 00:00:00,2019,Business Day,true,2019-12-15 00:00:00,4,CLM00313
+Import,543,Monday,Lab Result,2021-07-12 00:00:00,2021,No_Flag,false,2021-07-27 00:00:00,3,CLM00092
+Import,544,Wednesday,Follow-up,2018-10-24 00:00:00,2018,No_Flag,false,2018-11-23 00:00:00,4,PAT00844
+Import,547,Friday,Admission,2024-02-09 00:00:00,1900,Business Day,false,2024-02-21 00:00:00,1,PAT00899
+Import,569,Friday,Claim Submission,2022-08-05 00:00:00,2022,Holiday,false,2022-08-19 00:00:00,3,CLM00369
+Import,592,Tuesday,Unknown,1900-01-01 00:00:00,2020,Business Day,true,2020-07-13 00:00:00,2,CLM00648
+Import,611,Sunday,Procedure,1900-01-01 00:00:00,2023,No_Flag,true,2023-02-14 00:00:00,1,CLM00675
+Import,618,Sunday,Claim Submission,2024-06-30 00:00:00,2024,No_Flag,false,2024-07-25 00:00:00,2,VIS00381
+Import,621,Saturday,Discharge,1900-01-01 00:00:00,2023,No_Flag,true,2023-02-04 00:00:00,1,CLM00501
+Import,624,Wednesday,Claim Submission,1900-01-01 00:00:00,2021,Weekend,true,2021-09-25 00:00:00,3,PAT00418
+Import,625,Tuesday,Unknown,1900-01-01 00:00:00,2023,Weekend,true,2023-05-25 00:00:00,2,PAT00534
+Import,629,Friday,Admission,2024-07-12 00:00:00,2024,No_Flag,false,2024-07-15 00:00:00,3,CLM00241
+Import,630,Tuesday,Discharge,2022-08-09 00:00:00,2022,No_Flag,false,2022-08-26 00:00:00,3,PAT00247
+Import,634,Saturday,Lab Result,2018-07-14 00:00:00,2018,No_Flag,false,2018-08-08 00:00:00,3,PAT00933
+Import,636,Sunday,Lab Result,2024-12-08 00:00:00,2024,Business Day,false,2024-12-09 00:00:00,4,PAT00838
+Import,643,Wednesday,Discharge,2019-08-28 00:00:00,2019,No_Flag,false,2019-09-01 00:00:00,3,PAT00004
+Import,644,Saturday,Unknown,2024-07-06 00:00:00,2024,Holiday,false,2024-07-16 00:00:00,3,CLM00221
+Import,656,Sunday,Claim Submission,2023-10-08 00:00:00,2023,Holiday,false,2023-10-09 00:00:00,0,PAT00813
+Import,657,Friday,Procedure,2020-01-31 00:00:00,2020,Business Day,false,2020-02-07 00:00:00,1,PAT00648
+Import,659,Friday,Claim Submission,2024-07-05 00:00:00,2024,No_Flag,false,2024-07-26 00:00:00,3,PAT00616
+Import,660,Monday,Admission,2020-02-17 00:00:00,2020,Weekend,false,2020-02-25 00:00:00,1,CLM00168
+Import,663,Thursday,Claim Submission,2018-06-28 00:00:00,2018,No_Flag,false,2018-07-05 00:00:00,0,VIS00625
+Import,666,Tuesday,Procedure,2021-01-19 00:00:00,2021,Business Day,false,2021-01-24 00:00:00,1,CLM00843
+Import,679,Saturday,Admission,2020-10-31 00:00:00,2020,No_Flag,false,2020-11-15 00:00:00,0,CLM00446
+Import,683,Tuesday,Unknown,1900-01-01 00:00:00,2021,Weekend,true,2021-02-16 00:00:00,1,VIS00686
+Import,686,Monday,Follow-up,1900-01-01 00:00:00,2019,No_Flag,true,2019-07-21 00:00:00,3,CLM00574
+Import,707,Tuesday,Claim Submission,2019-08-27 00:00:00,2019,Weekend,false,2019-08-27 00:00:00,3,VIS00251
+Import,710,Sunday,Procedure,2018-01-01 00:00:00,2018,No_Flag,false,2019-01-10 00:00:00,4,VIS00238
+Import,725,Sunday,Lab Result,2019-09-29 00:00:00,2019,No_Flag,false,2019-10-25 00:00:00,3,PAT00333
+Import,730,Sunday,Lab Result,2020-06-28 00:00:00,2020,Weekend,false,2020-07-24 00:00:00,2,CLM00724
+Import,733,Sunday,Admission,2018-01-28 00:00:00,2018,No_Flag,false,2018-02-21 00:00:00,1,VIS00036
+Import,741,Thursday,Discharge,2019-03-28 00:00:00,2019,No_Flag,false,2019-04-16 00:00:00,1,PAT00647
+Import,743,Thursday,Discharge,1900-01-01 00:00:00,2020,Weekend,true,2020-03-02 00:00:00,1,PAT00712
+Import,744,Sunday,Claim Submission,2019-01-13 00:00:00,2019,Weekend,false,2019-01-13 00:00:00,1,PAT00788
+Import,774,Monday,Lab Result,2023-10-09 00:00:00,1900,No_Flag,false,2023-11-07 00:00:00,4,CLM00570
+Import,782,Monday,Unknown,2023-11-06 00:00:00,2023,Business Day,false,2023-11-28 00:00:00,4,VIS00934
+Import,799,Friday,Admission,1900-01-01 00:00:00,2018,No_Flag,true,1900-01-01 00:00:00,4,VIS00838
+Import,810,Saturday,Unknown,1900-01-01 00:00:00,2024,No_Flag,true,1900-01-01 00:00:00,1,VIS00315
+Import,813,Thursday,Discharge,2021-09-09 00:00:00,2021,No_Flag,false,2021-09-26 00:00:00,3,VIS00641
+Import,825,Monday,Procedure,1900-01-01 00:00:00,2019,No_Flag,true,1900-01-01 00:00:00,2,VIS00938
+Import,834,Tuesday,Procedure,2021-09-21 00:00:00,2021,Business Day,false,2021-09-30 00:00:00,3,VIS00990
+Import,836,Sunday,Follow-up,2021-05-09 00:00:00,2021,No_Flag,false,2021-06-06 00:00:00,0,CLM00073
+Import,837,Wednesday,Discharge,2020-11-18 00:00:00,2020,Business Day,false,2020-12-10 00:00:00,4,CLM00556
+Import,848,Thursday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-07-27 00:00:00,0,PAT00416
+Import,853,Tuesday,Claim Submission,2023-05-16 00:00:00,2023,No_Flag,false,2023-05-26 00:00:00,2,PAT00376
+Import,854,Saturday,Follow-up,2024-06-29 00:00:00,2024,No_Flag,false,2024-07-09 00:00:00,2,PAT00365
+Import,857,Monday,Procedure,2019-07-10 00:00:00,2019,Holiday,false,2019-11-01 00:00:00,4,CLM00042
+Import,859,Friday,Discharge,2018-06-01 00:00:00,2018,No_Flag,false,2018-06-26 00:00:00,2,CLM00750
+Import,860,Monday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-12-13 00:00:00,4,VIS00960
+Import,863,Saturday,Discharge,1900-01-01 00:00:00,2018,Business Day,true,2018-09-06 00:00:00,3,PAT00075
+Import,870,Thursday,Admission,1900-01-01 00:00:00,2024,Holiday,true,2024-10-16 00:00:00,3,PAT00825
+Import,880,Friday,Procedure,2021-02-26 00:00:00,2021,Business Day,false,2021-03-24 00:00:00,1,PAT00722
+Import,884,No_Day,Procedure,2023-03-04 00:00:00,2023,No_Flag,false,2023-03-21 00:00:00,1,CLM00367
+Import,896,Monday,Follow-up,2024-09-09 00:00:00,2024,Business Day,false,2024-09-17 00:00:00,3,CLM00632
+Import,901,Wednesday,Claim Submission,1900-01-01 00:00:00,2020,No_Flag,true,2020-03-04 00:00:00,1,PAT00997
+Import,903,Friday,Admission,1900-01-01 00:00:00,1900,Holiday,true,2020-03-18 00:00:00,1,VIS00098
+Import,912,Friday,Unknown,2018-02-23 00:00:00,2018,No_Flag,false,2018-03-19 00:00:00,1,VIS00414
+Import,915,Saturday,Admission,2024-08-10 00:00:00,2024,Holiday,false,2024-09-04 00:00:00,3,PAT00191
+Import,918,No_Day,Admission,2019-01-01 00:00:00,2019,Business Day,false,2019-01-11 00:00:00,1,PAT00209
+Import,919,Thursday,Discharge,1900-01-01 00:00:00,2019,No_Flag,true,2019-02-03 00:00:00,1,CLM00739
+Import,921,Wednesday,Lab Result,2020-03-11 00:00:00,2020,Holiday,false,2020-03-22 00:00:00,1,CLM00829
+Import,923,Saturday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-10-24 00:00:00,4,VIS00317
+Import,930,Thursday,Claim Submission,2024-07-25 00:00:00,2024,Holiday,false,2024-08-14 00:00:00,3,VIS00553
+Import,946,Thursday,Follow-up,2018-09-27 00:00:00,2018,Business Day,false,2018-10-07 00:00:00,3,PAT00290
+Import,949,Tuesday,Follow-up,2023-05-12 00:00:00,2023,Business Day,false,2023-12-20 00:00:00,4,PAT00434
+Import,954,Thursday,Procedure,2019-09-12 00:00:00,2019,No_Flag,false,2019-09-18 00:00:00,3,VIS00615
+Import,967,Wednesday,Procedure,2020-11-11 00:00:00,2020,No_Flag,false,2020-12-10 00:00:00,4,PAT00607
+Import,970,Friday,Discharge,1900-01-01 00:00:00,2024,Weekend,true,2024-06-09 00:00:00,2,VIS00081
+Import,974,Friday,Claim Submission,2018-12-14 00:00:00,2018,No_Flag,false,2018-12-25 00:00:00,4,VIS00204
+Import,977,Saturday,Discharge,2019-05-25 00:00:00,1900,No_Flag,false,2019-06-03 00:00:00,2,CLM00933
+Import,978,Wednesday,Claim Submission,2024-12-04 00:00:00,2024,No_Flag,false,2024-12-12 00:00:00,0,PAT00893
+Import,986,Tuesday,Admission,1900-01-01 00:00:00,2024,Holiday,true,2024-09-11 00:00:00,3,PAT00302
+Import,987,Friday,Lab Result,2018-03-23 00:00:00,2018,No_Flag,false,2018-04-06 00:00:00,1,PAT00822
+Import,989,Wednesday,Admission,1900-01-01 00:00:00,2020,No_Flag,true,2020-01-31 00:00:00,1,VIS00922
+Lab System,8,Sunday,Follow-up,2019-09-29 00:00:00,2019,No_Flag,false,2019-10-14 00:00:00,3,PAT00036
+Lab System,9,Thursday,Procedure,2022-02-03 00:00:00,2022,Holiday,false,2022-02-27 00:00:00,1,CLM00644
+Lab System,16,Friday,Claim Submission,2024-10-25 00:00:00,2024,Weekend,false,2024-10-25 00:00:00,4,VIS00098
+Lab System,22,Tuesday,Admission,1900-01-01 00:00:00,2019,No_Flag,true,1900-01-01 00:00:00,4,CLM00366
+Lab System,43,Saturday,Admission,2019-04-06 00:00:00,2019,Weekend,false,2019-04-19 00:00:00,2,VIS00974
+Lab System,47,Wednesday,Follow-up,2021-10-13 00:00:00,2021,No_Flag,false,2021-11-04 00:00:00,4,PAT00328
+Lab System,60,Tuesday,Procedure,2018-11-06 00:00:00,2018,No_Flag,false,2018-11-25 00:00:00,4,PAT00980
+Lab System,63,Monday,Discharge,2019-03-04 00:00:00,2019,No_Flag,false,2019-03-30 00:00:00,1,CLM00773
+Lab System,71,Wednesday,Lab Result,2019-03-13 00:00:00,2019,No_Flag,false,2019-03-13 00:00:00,1,PAT00264
+Lab System,74,Tuesday,Discharge,2019-10-01 00:00:00,2019,Holiday,false,2019-10-03 00:00:00,4,PAT00746
+Lab System,94,Monday,Claim Submission,1900-01-01 00:00:00,2018,Business Day,true,2018-08-05 00:00:00,3,VIS00026
+Lab System,97,Sunday,Lab Result,2019-03-24 00:00:00,2019,Weekend,false,2019-04-19 00:00:00,1,CLM00283
+Lab System,110,Thursday,Discharge,2018-09-13 00:00:00,2018,No_Flag,false,2018-10-11 00:00:00,3,CLM00495
+Lab System,112,Monday,Procedure,1900-01-01 00:00:00,2022,Weekend,true,2022-06-13 00:00:00,2,PAT00031
+Lab System,117,Wednesday,Follow-up,2020-08-19 00:00:00,2020,No_Flag,false,2020-09-04 00:00:00,3,PAT00089
+Lab System,119,Monday,Claim Submission,2018-12-02 00:00:00,2018,No_Flag,false,2018-03-12 00:00:00,1,CLM00679
+Lab System,122,Saturday,Procedure,2022-01-01 00:00:00,1900,Business Day,false,2022-05-18 00:00:00,2,VIS00648
+Lab System,124,Monday,Discharge,2022-07-11 00:00:00,1900,No_Flag,false,2022-11-16 00:00:00,4,PAT00806
+Lab System,127,Sunday,Follow-up,1900-01-01 00:00:00,2023,No_Flag,true,2023-04-08 00:00:00,1,VIS00269
+Lab System,129,Sunday,Procedure,2022-10-16 00:00:00,2022,Weekend,false,1900-01-01 00:00:00,4,PAT00820
+Lab System,141,Tuesday,Lab Result,2022-03-08 00:00:00,2022,Business Day,false,2022-03-20 00:00:00,1,PAT00755
+Lab System,144,Monday,Follow-up,2024-01-15 00:00:00,2024,No_Flag,false,2024-01-23 00:00:00,1,CLM00958
+Lab System,145,Sunday,Discharge,1900-01-01 00:00:00,1900,No_Flag,true,2020-05-05 00:00:00,2,CLM00971
+Lab System,157,Friday,Claim Submission,2022-03-18 00:00:00,2022,Weekend,false,2022-04-07 00:00:00,0,PAT00976
+Lab System,159,Tuesday,Follow-up,2024-01-01 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,3,CLM00656
+Lab System,161,Wednesday,Lab Result,2019-01-16 00:00:00,2019,Holiday,false,2019-01-18 00:00:00,1,PAT00355
+Lab System,163,Monday,Discharge,2019-02-25 00:00:00,2019,Holiday,false,2019-03-13 00:00:00,1,VIS00015
+Lab System,174,Thursday,Claim Submission,2024-01-01 00:00:00,2024,Weekend,false,2024-12-11 00:00:00,4,CLM00715
+Lab System,184,Monday,Procedure,2022-12-05 00:00:00,2022,No_Flag,false,2022-12-11 00:00:00,4,PAT00529
+Lab System,189,Monday,Discharge,2019-09-23 00:00:00,2019,Holiday,false,2019-10-23 00:00:00,3,VIS00851
+Lab System,199,Thursday,Admission,2021-09-23 00:00:00,2021,Weekend,false,2021-10-21 00:00:00,3,CLM00982
+Lab System,246,No_Day,Follow-up,2018-08-08 00:00:00,2018,No_Flag,false,2018-08-24 00:00:00,3,CLM00692
+Lab System,257,Saturday,Follow-up,2021-10-04 00:00:00,2021,No_Flag,false,2021-05-02 00:00:00,2,CLM00348
+Lab System,269,Monday,Claim Submission,2022-10-31 00:00:00,2022,No_Flag,false,2022-11-03 00:00:00,4,VIS00696
+Lab System,273,Tuesday,Lab Result,1900-01-01 00:00:00,2021,No_Flag,true,2021-08-01 00:00:00,3,CLM00071
+Lab System,291,Sunday,Discharge,2018-09-16 00:00:00,2018,Weekend,false,2018-10-06 00:00:00,3,VIS00693
+Lab System,293,Monday,Admission,1900-01-01 00:00:00,2021,No_Flag,true,2021-11-22 00:00:00,4,PAT00505
+Lab System,295,Wednesday,Claim Submission,1900-01-01 00:00:00,2023,Business Day,true,2023-05-28 00:00:00,2,VIS00405
+Lab System,310,Sunday,Discharge,2018-12-23 00:00:00,2018,No_Flag,false,2018-12-31 00:00:00,4,VIS00982
+Lab System,326,Sunday,Admission,2022-09-18 00:00:00,2022,No_Flag,false,2022-10-11 00:00:00,3,PAT00121
+Lab System,332,Tuesday,Lab Result,2020-10-06 00:00:00,2020,No_Flag,false,2020-10-30 00:00:00,4,CLM00256
+Lab System,333,Thursday,Lab Result,2018-10-18 00:00:00,2018,No_Flag,false,2018-11-08 00:00:00,0,CLM00233
+Lab System,336,Tuesday,Lab Result,1900-01-01 00:00:00,2023,No_Flag,true,2023-06-06 00:00:00,0,PAT00629
+Lab System,347,Wednesday,Admission,2022-10-12 00:00:00,2022,Holiday,false,2022-10-27 00:00:00,4,PAT00391
+Lab System,371,No_Day,Follow-up,2019-08-18 00:00:00,2019,No_Flag,false,2019-09-07 00:00:00,3,PAT00249
+Lab System,380,Tuesday,Procedure,2018-01-30 00:00:00,1900,No_Flag,false,1900-01-01 00:00:00,1,PAT00042
+Lab System,383,Tuesday,Follow-up,2019-04-30 00:00:00,2019,No_Flag,false,2019-05-02 00:00:00,0,PAT00225
+Lab System,390,Friday,Procedure,2024-08-23 00:00:00,2024,No_Flag,false,2024-08-25 00:00:00,3,VIS00986
+Lab System,391,Wednesday,Discharge,2018-11-28 00:00:00,2018,No_Flag,false,2018-12-02 00:00:00,4,CLM00904
+Lab System,398,Tuesday,Admission,2021-12-21 00:00:00,2021,Weekend,false,2021-12-22 00:00:00,4,VIS00819
+Lab System,415,Monday,Follow-up,2023-04-03 00:00:00,2023,No_Flag,false,2023-05-02 00:00:00,2,PAT00101
+Lab System,418,Thursday,Follow-up,2018-09-27 00:00:00,2018,No_Flag,false,2018-10-20 00:00:00,3,PAT00213
+Lab System,422,Monday,Admission,1900-01-01 00:00:00,2023,Weekend,true,2023-12-08 00:00:00,4,VIS00230
+Lab System,423,Monday,Admission,2019-12-30 00:00:00,2019,No_Flag,false,2020-01-17 00:00:00,4,VIS00213
+Lab System,426,Friday,Admission,2022-09-09 00:00:00,2022,Weekend,false,2022-09-27 00:00:00,3,VIS00203
+Lab System,428,Wednesday,Claim Submission,2020-02-26 00:00:00,2020,No_Flag,false,2020-03-09 00:00:00,1,PAT00813
+Lab System,431,Monday,Follow-up,2022-07-25 00:00:00,2022,No_Flag,false,2022-08-21 00:00:00,3,CLM00547
+Lab System,441,Monday,Admission,2022-08-15 00:00:00,2022,No_Flag,false,2022-08-19 00:00:00,3,PAT00136
+Lab System,446,Sunday,Lab Result,2018-06-10 00:00:00,2018,No_Flag,false,2018-06-18 00:00:00,2,VIS00585
+Lab System,468,Wednesday,Discharge,2018-02-07 00:00:00,2018,No_Flag,false,2018-02-28 00:00:00,1,CLM00561
+Lab System,469,Wednesday,Discharge,2018-01-31 00:00:00,2018,No_Flag,false,2018-02-22 00:00:00,1,CLM00497
+Lab System,472,Monday,Unknown,2022-09-19 00:00:00,2022,Holiday,false,1900-01-01 00:00:00,3,VIS00583
+Lab System,474,Wednesday,Admission,2023-08-16 00:00:00,2023,No_Flag,false,2023-08-26 00:00:00,3,PAT00066
+Lab System,475,Thursday,Follow-up,2018-09-20 00:00:00,2018,Holiday,false,2018-10-16 00:00:00,3,CLM00642
+Lab System,485,Thursday,Follow-up,2019-01-01 00:00:00,2019,No_Flag,false,2019-10-31 00:00:00,4,PAT00839
+Lab System,492,Wednesday,Discharge,1900-01-01 00:00:00,2024,Business Day,true,2024-04-25 00:00:00,2,VIS00835
+Lab System,493,Sunday,Procedure,2019-11-24 00:00:00,2019,Weekend,false,2019-12-20 00:00:00,4,CLM00084
+Lab System,495,Sunday,Claim Submission,2019-04-07 00:00:00,2019,No_Flag,false,2019-04-21 00:00:00,2,CLM00869
+Lab System,496,Thursday,Procedure,2019-08-01 00:00:00,1900,No_Flag,false,2019-08-02 00:00:00,3,VIS00413
+Lab System,497,Monday,Lab Result,2021-02-15 00:00:00,2021,No_Flag,false,2021-03-13 00:00:00,1,VIS00097
+Lab System,500,Monday,Lab Result,1900-01-01 00:00:00,2022,Business Day,true,2022-12-08 00:00:00,4,PAT00302
+Lab System,508,Sunday,Procedure,2021-06-06 00:00:00,2021,Holiday,false,2021-06-26 00:00:00,2,CLM00719
+Lab System,514,Sunday,Admission,2020-05-17 00:00:00,2020,No_Flag,false,2020-05-28 00:00:00,2,CLM00971
+Lab System,522,Monday,Follow-up,2022-04-07 00:00:00,2022,Holiday,false,2022-07-30 00:00:00,3,CLM00032
+Lab System,524,Tuesday,Lab Result,1900-01-01 00:00:00,2019,No_Flag,true,2019-02-07 00:00:00,1,PAT00867
+Lab System,529,Wednesday,Admission,1900-01-01 00:00:00,2020,No_Flag,true,2020-06-14 00:00:00,2,PAT00256
+Lab System,534,Saturday,Claim Submission,2019-04-06 00:00:00,2019,No_Flag,false,2019-04-08 00:00:00,2,VIS00653
+Lab System,538,Wednesday,Unknown,2019-09-25 00:00:00,2019,Holiday,false,2019-09-27 00:00:00,0,VIS00366
+Lab System,548,Friday,Follow-up,2023-07-14 00:00:00,2023,Weekend,false,2023-07-19 00:00:00,3,CLM00291
+Lab System,557,Sunday,Admission,2020-08-23 00:00:00,2020,Holiday,false,2020-09-12 00:00:00,0,CLM00033
+Lab System,560,Wednesday,Admission,2020-07-15 00:00:00,2020,Holiday,false,2020-07-28 00:00:00,3,VIS00992
+Lab System,564,No_Day,Claim Submission,2019-09-25 00:00:00,2019,No_Flag,false,2019-10-06 00:00:00,3,CLM00347
+Lab System,573,Friday,Unknown,2024-06-07 00:00:00,2024,Business Day,false,2024-06-18 00:00:00,2,PAT00881
+Lab System,577,Friday,Procedure,2018-08-24 00:00:00,1900,No_Flag,false,2018-09-16 00:00:00,3,VIS00117
+Lab System,578,Monday,Admission,1900-01-01 00:00:00,2023,Holiday,true,2023-05-17 00:00:00,0,CLM00873
+Lab System,585,Sunday,Procedure,1900-01-01 00:00:00,2022,No_Flag,true,2022-02-12 00:00:00,1,CLM00880
+Lab System,587,Thursday,Procedure,2023-11-30 00:00:00,2023,Holiday,false,2023-12-30 00:00:00,0,PAT00750
+Lab System,588,Thursday,Lab Result,2021-06-17 00:00:00,2021,No_Flag,false,2021-07-15 00:00:00,2,CLM00630
+Lab System,616,Saturday,Follow-up,1900-01-01 00:00:00,2022,No_Flag,true,2022-07-01 00:00:00,2,CLM00202
+Lab System,617,Wednesday,Follow-up,1900-01-01 00:00:00,2024,No_Flag,true,2024-12-09 00:00:00,4,VIS00705
+Lab System,627,Thursday,Lab Result,2018-03-29 00:00:00,2018,No_Flag,false,2018-04-10 00:00:00,1,PAT00959
+Lab System,632,Tuesday,Follow-up,1900-01-01 00:00:00,2022,No_Flag,true,2022-11-27 00:00:00,4,CLM00418
+Lab System,638,Wednesday,Admission,2023-10-18 00:00:00,2023,Weekend,false,2023-10-25 00:00:00,4,VIS00728
+Lab System,648,Monday,Unknown,2024-09-02 00:00:00,2024,No_Flag,false,2024-09-12 00:00:00,3,PAT00825
+Lab System,653,Wednesday,Discharge,2020-03-04 00:00:00,2020,No_Flag,false,2020-03-25 00:00:00,1,VIS00118
+Lab System,661,Friday,Claim Submission,1900-01-01 00:00:00,2019,No_Flag,true,2019-06-25 00:00:00,2,CLM00173
+Lab System,665,Thursday,Procedure,2024-02-08 00:00:00,2024,Holiday,false,2024-02-16 00:00:00,1,CLM00581
+Lab System,670,Friday,Follow-up,2018-11-23 00:00:00,2018,No_Flag,false,2018-12-18 00:00:00,4,PAT00183
+Lab System,674,Sunday,Discharge,2022-11-27 00:00:00,2022,No_Flag,false,2022-12-18 00:00:00,4,VIS00419
+Lab System,680,Friday,Procedure,2018-05-25 00:00:00,2018,No_Flag,false,2018-06-15 00:00:00,2,CLM00312
+Lab System,685,Saturday,Claim Submission,2019-05-25 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,0,VIS00433
+Lab System,690,Wednesday,Discharge,2019-01-30 00:00:00,2019,Holiday,false,2019-02-14 00:00:00,1,CLM00972
+Lab System,691,Sunday,Procedure,1900-01-01 00:00:00,2019,No_Flag,true,1900-01-01 00:00:00,4,VIS00318
+Lab System,693,Sunday,Claim Submission,2019-09-01 00:00:00,2019,No_Flag,false,2019-09-18 00:00:00,3,VIS00384
+Lab System,700,Wednesday,Discharge,1900-01-01 00:00:00,2023,Business Day,true,2023-11-30 00:00:00,4,PAT00910
+Lab System,703,Wednesday,Claim Submission,1900-01-01 00:00:00,2022,Holiday,true,2022-03-22 00:00:00,1,VIS00201
+Lab System,705,Tuesday,Admission,2023-10-03 00:00:00,2023,Business Day,false,2023-10-11 00:00:00,4,PAT00912
+Lab System,712,Wednesday,Procedure,2022-08-17 00:00:00,2022,Weekend,false,2022-08-30 00:00:00,3,VIS00980
+Lab System,739,Sunday,Admission,2022-09-11 00:00:00,2022,Weekend,false,1900-01-01 00:00:00,3,CLM00811
+Lab System,747,Friday,Lab Result,2022-12-02 00:00:00,1900,No_Flag,false,2022-12-06 00:00:00,4,PAT00033
+Lab System,752,Wednesday,Procedure,2020-04-08 00:00:00,2020,Weekend,false,2020-05-03 00:00:00,2,CLM00617
+Lab System,753,Friday,Follow-up,2023-05-19 00:00:00,2023,Holiday,false,2023-06-03 00:00:00,2,VIS00239
+Lab System,756,Tuesday,Procedure,2019-11-26 00:00:00,2019,No_Flag,false,2019-12-19 00:00:00,0,CLM00268
+Lab System,770,Tuesday,Procedure,1900-01-01 00:00:00,2020,No_Flag,true,2020-11-03 00:00:00,4,PAT00198
+Lab System,772,Wednesday,Claim Submission,2019-05-29 00:00:00,2019,Holiday,false,2019-06-07 00:00:00,2,CLM00218
+Lab System,784,Friday,Procedure,2023-07-21 00:00:00,2023,No_Flag,false,2023-08-13 00:00:00,3,CLM00122
+Lab System,785,Friday,Discharge,2021-10-22 00:00:00,2021,Holiday,false,2021-10-28 00:00:00,4,PAT00974
+Lab System,793,Saturday,Lab Result,2018-12-29 00:00:00,2018,Weekend,false,2019-01-06 00:00:00,4,VIS00649
+Lab System,802,Saturday,Claim Submission,2023-04-29 00:00:00,2023,No_Flag,false,2023-05-25 00:00:00,2,PAT00376
+Lab System,806,Wednesday,Procedure,2023-12-13 00:00:00,2023,No_Flag,false,2024-01-04 00:00:00,4,VIS00752
+Lab System,818,Monday,Claim Submission,2024-05-27 00:00:00,2024,No_Flag,false,2024-06-02 00:00:00,2,VIS00621
+Lab System,821,Saturday,Lab Result,2024-06-08 00:00:00,2024,No_Flag,false,2024-06-15 00:00:00,2,CLM00582
+Lab System,822,Saturday,Discharge,1900-01-01 00:00:00,2019,Holiday,true,2019-12-04 00:00:00,4,VIS00175
+Lab System,827,Thursday,Admission,1900-01-01 00:00:00,2022,Holiday,true,2022-11-27 00:00:00,4,CLM00995
+Lab System,828,Thursday,Follow-up,2018-11-15 00:00:00,2018,No_Flag,false,2018-11-25 00:00:00,4,VIS00991
+Lab System,829,Saturday,Admission,1900-01-01 00:00:00,2023,No_Flag,true,2023-12-06 00:00:00,4,PAT00137
+Lab System,830,Wednesday,Discharge,2023-11-01 00:00:00,2023,No_Flag,false,2023-11-30 00:00:00,4,VIS00912
+Lab System,843,Friday,Procedure,1900-01-01 00:00:00,2023,Weekend,true,2023-01-23 00:00:00,1,CLM00726
+Lab System,877,Wednesday,Claim Submission,1900-01-01 00:00:00,2024,Weekend,true,2024-11-14 00:00:00,4,PAT00585
+Lab System,883,Friday,Lab Result,2018-01-19 00:00:00,2018,Business Day,false,2018-01-27 00:00:00,1,PAT00684
+Lab System,895,Saturday,Admission,2021-02-13 00:00:00,2021,Weekend,false,2021-02-28 00:00:00,1,CLM00516
+Lab System,897,Friday,Admission,1900-01-01 00:00:00,2020,No_Flag,true,2020-12-11 00:00:00,4,PAT00462
+Lab System,898,Saturday,Procedure,2022-10-15 00:00:00,2022,No_Flag,false,2022-11-05 00:00:00,4,CLM00083
+Lab System,909,Monday,Claim Submission,2024-07-01 00:00:00,2024,No_Flag,false,2024-07-05 00:00:00,3,PAT00282
+Lab System,913,Friday,Discharge,2021-02-19 00:00:00,2021,No_Flag,false,2021-03-19 00:00:00,1,CLM00562
+Lab System,931,Wednesday,Admission,2023-09-20 00:00:00,2023,Business Day,false,2023-09-28 00:00:00,3,PAT00858
+Lab System,934,Monday,Follow-up,2018-02-05 00:00:00,2018,Business Day,false,2018-03-05 00:00:00,1,CLM00614
+Lab System,936,Thursday,Unknown,2019-03-28 00:00:00,2019,Business Day,false,2019-04-04 00:00:00,0,CLM00807
+Lab System,938,Tuesday,Admission,2024-09-24 00:00:00,1900,No_Flag,false,2024-09-26 00:00:00,3,CLM00392
+Lab System,940,Tuesday,Unknown,2019-10-29 00:00:00,2019,Business Day,false,2019-11-19 00:00:00,4,PAT00915
+Lab System,950,Thursday,Follow-up,2024-02-15 00:00:00,2024,No_Flag,false,2024-03-01 00:00:00,1,PAT00461
+Lab System,951,Saturday,Admission,2023-04-29 00:00:00,2023,No_Flag,false,1900-01-01 00:00:00,2,PAT00151
+Lab System,965,Sunday,Follow-up,2018-02-25 00:00:00,2018,Weekend,false,2018-02-26 00:00:00,1,PAT00367
+Lab System,968,Tuesday,Procedure,2021-09-02 00:00:00,2021,No_Flag,false,2021-03-06 00:00:00,1,PAT00800
+Lab System,976,No_Day,Follow-up,2021-10-17 00:00:00,2021,No_Flag,false,2021-10-21 00:00:00,4,CLM00473
+Lab System,982,Sunday,Claim Submission,2021-01-10 00:00:00,2021,Holiday,false,2021-01-19 00:00:00,1,VIS00467
+Manual Entry,1,Tuesday,Admission,2019-11-19 00:00:00,2019,No_Flag,false,2019-11-21 00:00:00,4,VIS00568
+Manual Entry,2,Friday,Unknown,2023-06-16 00:00:00,2023,No_Flag,false,2023-07-04 00:00:00,2,PAT00279
+Manual Entry,4,Friday,Claim Submission,1900-01-01 00:00:00,2018,Business Day,true,2018-03-07 00:00:00,1,PAT00719
+Manual Entry,6,Saturday,Discharge,2022-05-21 00:00:00,2022,No_Flag,false,2022-06-12 00:00:00,2,CLM00237
+Manual Entry,17,Sunday,Discharge,2022-01-23 00:00:00,2022,No_Flag,false,2022-01-31 00:00:00,1,PAT00022
+Manual Entry,24,Saturday,Claim Submission,2023-10-21 00:00:00,2023,No_Flag,false,2023-11-20 00:00:00,4,VIS00902
+Manual Entry,28,Tuesday,Follow-up,2019-12-31 00:00:00,2019,No_Flag,false,2020-01-16 00:00:00,4,VIS00544
+Manual Entry,32,Sunday,Claim Submission,1900-01-01 00:00:00,2020,No_Flag,true,2020-11-14 00:00:00,4,PAT00389
+Manual Entry,33,Thursday,Follow-up,2020-07-16 00:00:00,2020,Business Day,false,2020-08-05 00:00:00,3,CLM00767
+Manual Entry,41,Wednesday,Procedure,2022-06-07 00:00:00,2022,No_Flag,false,2022-07-17 00:00:00,3,VIS00964
+Manual Entry,49,Wednesday,Lab Result,2018-05-30 00:00:00,2018,Weekend,false,2018-05-31 00:00:00,2,CLM00378
+Manual Entry,58,Wednesday,Discharge,2020-12-09 00:00:00,2020,Holiday,false,2020-12-27 00:00:00,4,CLM00913
+Manual Entry,66,No_Day,Admission,1900-01-01 00:00:00,2024,No_Flag,true,2024-09-22 00:00:00,3,PAT00748
+Manual Entry,67,Monday,Procedure,2022-08-22 00:00:00,2022,No_Flag,false,2022-09-20 00:00:00,3,PAT00349
+Manual Entry,70,Saturday,Follow-up,2024-05-04 00:00:00,2024,Weekend,false,2024-05-12 00:00:00,2,PAT00201
+Manual Entry,72,Monday,Follow-up,2022-04-04 00:00:00,2022,Business Day,false,2022-05-02 00:00:00,2,CLM00516
+Manual Entry,78,Sunday,Unknown,2022-02-27 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,1,PAT00668
+Manual Entry,79,Saturday,Admission,1900-01-01 00:00:00,2023,No_Flag,true,2023-06-25 00:00:00,2,CLM00891
+Manual Entry,81,Monday,Admission,1900-01-01 00:00:00,2024,Business Day,true,2024-09-13 00:00:00,3,PAT00581
+Manual Entry,85,Saturday,Admission,2018-03-17 00:00:00,2018,No_Flag,false,2018-03-19 00:00:00,0,CLM00348
+Manual Entry,90,Tuesday,Claim Submission,1900-01-01 00:00:00,2024,No_Flag,true,2024-09-08 00:00:00,3,CLM00064
+Manual Entry,95,Wednesday,Discharge,2022-05-04 00:00:00,2022,No_Flag,false,2022-05-19 00:00:00,2,CLM00463
+Manual Entry,99,Friday,Lab Result,1900-01-01 00:00:00,2024,Business Day,true,2024-03-03 00:00:00,1,PAT00795
+Manual Entry,101,Friday,Lab Result,2023-09-08 00:00:00,2023,No_Flag,false,2023-09-17 00:00:00,3,PAT00974
+Manual Entry,102,No_Day,Discharge,2019-09-25 00:00:00,2019,No_Flag,false,2019-10-24 00:00:00,3,CLM00685
+Manual Entry,104,Friday,Follow-up,1900-01-01 00:00:00,2021,No_Flag,true,2021-03-13 00:00:00,1,PAT00476
+Manual Entry,106,Friday,Admission,2019-03-29 00:00:00,2019,Holiday,false,2019-04-24 00:00:00,1,VIS00890
+Manual Entry,109,Friday,Admission,2023-06-02 00:00:00,1900,No_Flag,false,2023-06-26 00:00:00,0,PAT00330
+Manual Entry,114,Monday,Procedure,2023-03-13 00:00:00,2023,Business Day,false,2023-04-08 00:00:00,1,VIS00556
+Manual Entry,115,Tuesday,Procedure,2022-11-01 00:00:00,2022,No_Flag,false,2022-11-20 00:00:00,4,CLM00093
+Manual Entry,126,Thursday,Follow-up,2023-01-06 00:00:00,2023,Holiday,false,2023-06-11 00:00:00,2,PAT00379
+Manual Entry,128,Friday,Follow-up,2022-02-18 00:00:00,2022,No_Flag,false,2022-03-10 00:00:00,1,CLM00862
+Manual Entry,137,Wednesday,Admission,2020-01-22 00:00:00,2020,No_Flag,false,2020-02-16 00:00:00,1,VIS00551
+Manual Entry,142,Sunday,Procedure,2020-04-05 00:00:00,2020,No_Flag,false,2020-05-04 00:00:00,2,VIS00506
+Manual Entry,151,Saturday,Procedure,2022-05-14 00:00:00,2022,No_Flag,false,2022-05-17 00:00:00,2,PAT00863
+Manual Entry,156,Sunday,Admission,2018-10-14 00:00:00,2018,Holiday,false,2018-10-15 00:00:00,4,VIS00153
+Manual Entry,167,Thursday,Follow-up,2020-03-05 00:00:00,2020,No_Flag,false,2020-03-21 00:00:00,1,CLM00222
+Manual Entry,170,Wednesday,Claim Submission,1900-01-01 00:00:00,2020,No_Flag,true,2020-07-21 00:00:00,3,CLM00474
+Manual Entry,180,Tuesday,Claim Submission,2023-01-31 00:00:00,2023,Weekend,false,2023-02-03 00:00:00,1,VIS00262
+Manual Entry,182,Monday,Procedure,2019-11-02 00:00:00,2019,No_Flag,false,2019-02-27 00:00:00,1,VIS00619
+Manual Entry,185,Wednesday,Admission,2020-01-01 00:00:00,2020,No_Flag,false,2020-01-11 00:00:00,1,CLM00628
+Manual Entry,191,Friday,Admission,1900-01-01 00:00:00,2020,Business Day,true,2020-03-20 00:00:00,1,CLM00726
+Manual Entry,194,Wednesday,Claim Submission,2020-01-08 00:00:00,2020,Holiday,false,2020-01-15 00:00:00,1,CLM00160
+Manual Entry,195,Sunday,Unknown,1900-01-01 00:00:00,2020,Business Day,true,2020-07-08 00:00:00,2,CLM00082
+Manual Entry,196,Thursday,Procedure,2023-01-01 00:00:00,2023,No_Flag,false,2023-10-17 00:00:00,4,PAT00098
+Manual Entry,202,Monday,Discharge,2018-04-02 00:00:00,2018,Weekend,false,2018-04-03 00:00:00,2,PAT00142
+Manual Entry,204,Sunday,Claim Submission,2024-10-06 00:00:00,2024,No_Flag,false,2024-10-14 00:00:00,4,CLM00537
+Manual Entry,210,Wednesday,Follow-up,2019-07-31 00:00:00,1900,No_Flag,false,2019-08-17 00:00:00,3,CLM00960
+Manual Entry,217,Wednesday,Discharge,2020-01-22 00:00:00,2020,No_Flag,false,2020-01-31 00:00:00,1,PAT00064
+Manual Entry,221,Wednesday,Follow-up,2023-11-22 00:00:00,2023,Weekend,false,2023-11-24 00:00:00,4,PAT00348
+Manual Entry,227,Thursday,Procedure,2019-05-16 00:00:00,2019,Weekend,false,2019-06-10 00:00:00,2,VIS00255
+Manual Entry,232,Wednesday,Claim Submission,1900-01-01 00:00:00,2019,No_Flag,true,1900-01-01 00:00:00,4,PAT00253
+Manual Entry,250,Wednesday,Claim Submission,2020-03-25 00:00:00,2020,No_Flag,false,2020-04-22 00:00:00,1,PAT00184
+Manual Entry,259,Thursday,Follow-up,2023-07-13 00:00:00,2023,Holiday,false,2023-07-20 00:00:00,0,VIS00113
+Manual Entry,266,No_Day,Discharge,2019-08-25 00:00:00,2019,No_Flag,false,2019-09-01 00:00:00,3,VIS00175
+Manual Entry,274,Thursday,Procedure,2024-12-12 00:00:00,2024,Holiday,false,2025-01-08 00:00:00,4,CLM00100
+Manual Entry,276,Sunday,Lab Result,2023-01-08 00:00:00,2023,No_Flag,false,2023-01-21 00:00:00,1,VIS00044
+Manual Entry,286,Sunday,Discharge,2023-08-06 00:00:00,2023,Holiday,false,2023-08-10 00:00:00,3,VIS00035
+Manual Entry,294,Thursday,Claim Submission,1900-01-01 00:00:00,2020,Business Day,true,2020-12-06 00:00:00,4,PAT00287
+Manual Entry,296,Sunday,Follow-up,2023-02-04 00:00:00,2023,Weekend,false,2023-04-12 00:00:00,2,CLM00706
+Manual Entry,305,No_Day,Procedure,2022-06-07 00:00:00,2022,Holiday,false,2022-06-24 00:00:00,2,VIS00932
+Manual Entry,315,Thursday,Procedure,2019-07-11 00:00:00,2019,No_Flag,false,2019-07-18 00:00:00,3,CLM00291
+Manual Entry,319,Sunday,Procedure,2021-05-02 00:00:00,2021,No_Flag,false,2021-05-25 00:00:00,2,VIS00632
+Manual Entry,330,Thursday,Discharge,2023-12-28 00:00:00,1900,No_Flag,false,2024-01-12 00:00:00,4,PAT00470
+Manual Entry,334,Saturday,Procedure,2018-08-18 00:00:00,2018,No_Flag,false,2018-08-24 00:00:00,3,VIS00498
+Manual Entry,339,Friday,Discharge,2019-01-18 00:00:00,2019,No_Flag,false,2019-01-18 00:00:00,1,VIS00070
+Manual Entry,340,No_Day,Procedure,2019-10-08 00:00:00,2019,Weekend,false,2019-10-10 00:00:00,0,PAT00001
+Manual Entry,345,Thursday,Lab Result,2021-06-03 00:00:00,2021,Holiday,false,2021-06-18 00:00:00,2,PAT00391
+Manual Entry,366,Tuesday,Procedure,2019-01-08 00:00:00,2019,Weekend,false,2019-01-19 00:00:00,1,PAT00352
+Manual Entry,367,Tuesday,Follow-up,2021-07-20 00:00:00,2021,Weekend,false,2021-08-09 00:00:00,3,VIS00747
+Manual Entry,381,Sunday,Claim Submission,2018-08-12 00:00:00,2018,Weekend,false,2018-08-12 00:00:00,3,PAT00962
+Manual Entry,400,Monday,Unknown,1900-01-01 00:00:00,2019,Business Day,true,2020-01-11 00:00:00,4,PAT00779
+Manual Entry,409,Wednesday,Procedure,2023-06-14 00:00:00,2023,Holiday,false,2023-06-14 00:00:00,2,PAT00619
+Manual Entry,411,Monday,Admission,1900-01-01 00:00:00,2022,Weekend,true,2022-05-21 00:00:00,2,CLM00136
+Manual Entry,412,Monday,Discharge,1900-01-01 00:00:00,2018,No_Flag,true,2018-01-21 00:00:00,1,PAT00748
+Manual Entry,429,No_Day,Unknown,2020-11-09 00:00:00,2020,Business Day,false,2020-11-22 00:00:00,4,VIS00137
+Manual Entry,436,Saturday,Admission,2023-12-30 00:00:00,2023,No_Flag,false,2024-01-09 00:00:00,4,CLM00513
+Manual Entry,438,Friday,Follow-up,2022-06-03 00:00:00,2022,No_Flag,false,2022-06-20 00:00:00,2,VIS00170
+Manual Entry,440,Wednesday,Discharge,1900-01-01 00:00:00,2018,No_Flag,true,2018-12-11 00:00:00,4,CLM00211
+Manual Entry,445,Saturday,Lab Result,2019-08-31 00:00:00,2019,Holiday,false,2019-09-28 00:00:00,3,VIS00198
+Manual Entry,452,Sunday,Procedure,2020-08-30 00:00:00,2020,No_Flag,false,2020-09-28 00:00:00,3,VIS00064
+Manual Entry,453,Saturday,Follow-up,2021-02-20 00:00:00,2021,No_Flag,false,2021-03-22 00:00:00,1,PAT00498
+Manual Entry,467,Thursday,Procedure,2022-01-01 00:00:00,2022,No_Flag,false,2022-08-02 00:00:00,3,PAT00568
+Manual Entry,471,Monday,Claim Submission,1900-01-01 00:00:00,2018,No_Flag,true,2018-09-18 00:00:00,3,PAT00669
+Manual Entry,473,Thursday,Lab Result,1900-01-01 00:00:00,2022,Business Day,true,2022-07-09 00:00:00,2,VIS00126
+Manual Entry,477,Sunday,Unknown,2022-01-16 00:00:00,2022,No_Flag,false,2022-01-28 00:00:00,1,CLM00041
+Manual Entry,478,Monday,Discharge,2023-04-03 00:00:00,2023,No_Flag,false,2023-04-25 00:00:00,2,CLM00707
+Manual Entry,479,No_Day,Admission,2019-12-18 00:00:00,2019,No_Flag,false,2019-12-24 00:00:00,4,CLM00323
+Manual Entry,486,No_Day,Admission,2024-05-13 00:00:00,2024,No_Flag,false,2024-06-05 00:00:00,2,PAT00847
+Manual Entry,487,Sunday,Procedure,2021-03-14 00:00:00,2021,No_Flag,false,2021-04-02 00:00:00,1,PAT00877
+Manual Entry,502,Friday,Unknown,2023-01-20 00:00:00,2023,Holiday,false,2023-02-02 00:00:00,1,VIS00393
+Manual Entry,511,Wednesday,Unknown,2021-05-12 00:00:00,2021,Weekend,false,2021-06-07 00:00:00,2,PAT00475
+Manual Entry,513,Sunday,Discharge,2022-07-24 00:00:00,2022,No_Flag,false,2022-07-26 00:00:00,3,VIS00594
+Manual Entry,516,Wednesday,Lab Result,2021-12-08 00:00:00,2021,Holiday,false,2021-12-20 00:00:00,4,PAT00351
+Manual Entry,518,Tuesday,Lab Result,2021-10-26 00:00:00,2021,No_Flag,false,2021-10-26 00:00:00,4,PAT00641
+Manual Entry,519,No_Day,Discharge,1900-01-01 00:00:00,2021,Business Day,true,2021-03-08 00:00:00,1,VIS00042
+Manual Entry,526,Saturday,Procedure,2019-09-02 00:00:00,2019,No_Flag,false,2019-03-04 00:00:00,1,PAT00168
+Manual Entry,531,Wednesday,Lab Result,2020-11-25 00:00:00,2020,Holiday,false,2020-12-25 00:00:00,4,PAT00134
+Manual Entry,541,Saturday,Admission,2018-09-01 00:00:00,1900,No_Flag,false,2018-09-09 00:00:00,3,CLM00595
+Manual Entry,565,Friday,Procedure,2024-12-20 00:00:00,2024,No_Flag,false,2024-12-20 00:00:00,4,CLM01000
+Manual Entry,566,Sunday,Procedure,2024-07-14 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,3,VIS00046
+Manual Entry,584,Wednesday,Discharge,2019-11-13 00:00:00,2019,No_Flag,false,2019-12-10 00:00:00,4,PAT00943
+Manual Entry,589,Friday,Follow-up,2018-04-20 00:00:00,2018,No_Flag,false,2018-04-30 00:00:00,2,CLM00001
+Manual Entry,600,Tuesday,Admission,2023-05-02 00:00:00,2023,No_Flag,false,2023-05-15 00:00:00,2,CLM00033
+Manual Entry,614,Tuesday,Follow-up,2018-10-07 00:00:00,2018,No_Flag,false,2018-08-06 00:00:00,3,PAT00812
+Manual Entry,635,Tuesday,Discharge,2021-04-05 00:00:00,2021,Holiday,false,2021-05-20 00:00:00,2,PAT00700
+Manual Entry,640,Saturday,Unknown,2018-03-31 00:00:00,2018,No_Flag,false,2018-04-13 00:00:00,1,CLM00330
+Manual Entry,647,Sunday,Lab Result,2021-03-28 00:00:00,2021,No_Flag,false,2021-04-08 00:00:00,1,VIS00111
+Manual Entry,650,No_Day,Follow-up,2018-08-31 00:00:00,2018,No_Flag,false,2018-09-19 00:00:00,3,VIS00930
+Manual Entry,654,Wednesday,Admission,1900-01-01 00:00:00,2021,Business Day,true,2021-11-24 00:00:00,4,CLM00049
+Manual Entry,673,Friday,Follow-up,1900-01-01 00:00:00,2018,Business Day,true,2018-11-26 00:00:00,4,VIS00648
+Manual Entry,677,No_Day,Admission,2020-09-30 00:00:00,2020,No_Flag,false,2020-10-14 00:00:00,3,CLM00961
+Manual Entry,688,Sunday,Claim Submission,2024-11-24 00:00:00,2024,No_Flag,false,2024-12-13 00:00:00,4,VIS00482
+Manual Entry,694,Thursday,Lab Result,2023-12-07 00:00:00,2023,Holiday,false,2023-12-30 00:00:00,4,CLM00294
+Manual Entry,697,Sunday,Unknown,1900-01-01 00:00:00,2019,Business Day,true,2019-06-30 00:00:00,2,CLM00243
+Manual Entry,717,Wednesday,Discharge,2022-10-12 00:00:00,2022,No_Flag,false,2022-10-23 00:00:00,4,CLM00176
+Manual Entry,721,Thursday,Claim Submission,1900-01-01 00:00:00,2021,No_Flag,true,2021-04-01 00:00:00,1,VIS00006
+Manual Entry,738,Saturday,Admission,2021-10-16 00:00:00,2021,Holiday,false,2021-11-14 00:00:00,4,VIS00789
+Manual Entry,746,Thursday,Claim Submission,2020-04-16 00:00:00,2020,Holiday,false,2020-04-22 00:00:00,0,VIS00836
+Manual Entry,761,Thursday,Discharge,2019-03-21 00:00:00,2019,Holiday,false,2019-03-28 00:00:00,1,CLM00599
+Manual Entry,763,Friday,Admission,2021-07-30 00:00:00,2021,Holiday,false,2021-08-21 00:00:00,3,CLM00317
+Manual Entry,771,Monday,Discharge,1900-01-01 00:00:00,2024,No_Flag,true,2024-11-23 00:00:00,4,CLM00862
+Manual Entry,778,Wednesday,Follow-up,2021-09-08 00:00:00,2021,Business Day,false,2021-09-26 00:00:00,3,VIS00643
+Manual Entry,788,Saturday,Procedure,1900-01-01 00:00:00,2018,No_Flag,true,2018-04-28 00:00:00,2,VIS00928
+Manual Entry,794,Tuesday,Admission,1900-01-01 00:00:00,2023,No_Flag,true,1900-01-01 00:00:00,3,CLM00668
+Manual Entry,805,Monday,Follow-up,2018-04-23 00:00:00,2018,Business Day,false,2018-05-22 00:00:00,2,PAT00615
+Manual Entry,814,Wednesday,Claim Submission,2022-04-27 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,2,CLM00641
+Manual Entry,838,Tuesday,Discharge,2019-07-02 00:00:00,2019,No_Flag,false,2019-07-08 00:00:00,3,PAT00815
+Manual Entry,842,Sunday,Claim Submission,2019-08-25 00:00:00,2019,No_Flag,false,2019-09-09 00:00:00,3,PAT00165
+Manual Entry,845,Wednesday,Procedure,2023-11-22 00:00:00,2023,Holiday,false,1900-01-01 00:00:00,4,PAT00575
+Manual Entry,856,Monday,Follow-up,2019-11-02 00:00:00,2019,Business Day,false,2019-02-14 00:00:00,1,PAT00135
+Manual Entry,865,Saturday,Unknown,1900-01-01 00:00:00,2019,No_Flag,true,2019-09-23 00:00:00,3,PAT00165
+Manual Entry,878,Wednesday,Lab Result,2021-02-24 00:00:00,2021,No_Flag,false,2021-03-09 00:00:00,0,CLM00772
+Manual Entry,889,Monday,Admission,1900-01-01 00:00:00,2023,No_Flag,true,2024-01-19 00:00:00,4,CLM00340
+Manual Entry,892,No_Day,Lab Result,2019-05-02 00:00:00,2019,No_Flag,false,2019-05-19 00:00:00,2,VIS00408
+Manual Entry,900,No_Day,Unknown,2022-08-25 00:00:00,2022,Business Day,false,1900-01-01 00:00:00,3,PAT00224
+Manual Entry,906,Thursday,Follow-up,2020-07-09 00:00:00,2020,Weekend,false,2020-07-09 00:00:00,0,CLM00344
+Manual Entry,910,Monday,Lab Result,1900-01-01 00:00:00,2018,No_Flag,true,2018-02-16 00:00:00,1,CLM00133
+Manual Entry,916,No_Day,Discharge,2019-01-14 00:00:00,2019,Holiday,false,2019-02-04 00:00:00,1,CLM00173
+Manual Entry,920,Sunday,Discharge,2019-08-11 00:00:00,2019,No_Flag,false,2019-09-03 00:00:00,3,VIS00595
+Manual Entry,925,Friday,Lab Result,2020-02-07 00:00:00,2020,Weekend,false,2020-02-21 00:00:00,1,VIS00804
+Manual Entry,926,Saturday,Follow-up,2018-07-07 00:00:00,2018,No_Flag,false,2018-08-06 00:00:00,3,VIS00159
+Manual Entry,958,Friday,Claim Submission,1900-01-01 00:00:00,2018,No_Flag,true,2018-11-08 00:00:00,4,PAT00092
+Manual Entry,962,Monday,Follow-up,2021-10-04 00:00:00,2021,No_Flag,false,2021-10-29 00:00:00,4,VIS00175
+Manual Entry,971,Saturday,Admission,2024-07-27 00:00:00,2024,No_Flag,false,2024-08-01 00:00:00,3,VIS00836
+Manual Entry,990,Saturday,Lab Result,2022-09-03 00:00:00,1900,No_Flag,false,2022-09-14 00:00:00,3,CLM00472
+Manual Entry,997,Friday,Procedure,2020-02-28 00:00:00,2020,No_Flag,false,2020-03-20 00:00:00,1,CLM00176
+No_Entry,3,Saturday,Claim Submission,2021-09-18 00:00:00,2021,Business Day,false,1900-01-01 00:00:00,3,VIS00067
+No_Entry,11,Monday,Follow-up,2024-01-15 00:00:00,2024,No_Flag,false,2024-01-15 00:00:00,1,VIS00579
+No_Entry,13,Saturday,Admission,2019-07-20 00:00:00,2019,No_Flag,false,2019-07-24 00:00:00,3,PAT00840
+No_Entry,14,Tuesday,Claim Submission,2018-03-27 00:00:00,2018,Weekend,false,2018-04-01 00:00:00,1,CLM00247
+No_Entry,15,Saturday,Admission,2020-01-11 00:00:00,2020,Weekend,false,2020-01-31 00:00:00,1,PAT00921
+No_Entry,19,Wednesday,Discharge,2018-10-17 00:00:00,2018,No_Flag,false,1900-01-01 00:00:00,4,VIS00843
+No_Entry,21,Wednesday,Admission,2019-04-17 00:00:00,2019,No_Flag,false,2019-04-24 00:00:00,2,VIS00525
+No_Entry,25,Thursday,Claim Submission,1900-01-01 00:00:00,2020,No_Flag,true,2020-08-24 00:00:00,3,VIS00502
+No_Entry,27,Tuesday,Discharge,1900-01-01 00:00:00,2024,No_Flag,true,2024-06-20 00:00:00,2,PAT00941
+No_Entry,30,Friday,Follow-up,2019-11-29 00:00:00,2019,Holiday,false,2019-12-26 00:00:00,4,CLM00744
+No_Entry,31,Saturday,Follow-up,1900-01-01 00:00:00,2020,Business Day,true,2020-02-01 00:00:00,1,CLM00570
+No_Entry,35,Saturday,Discharge,2018-02-24 00:00:00,2018,Weekend,false,1900-01-01 00:00:00,1,VIS00356
+No_Entry,37,No_Day,Procedure,2018-10-04 00:00:00,2018,No_Flag,false,2018-10-05 00:00:00,4,VIS00114
+No_Entry,38,Tuesday,Lab Result,1900-01-01 00:00:00,2024,Holiday,true,2024-06-13 00:00:00,2,CLM00354
+No_Entry,46,Sunday,Procedure,2021-06-27 00:00:00,2021,No_Flag,false,2021-07-25 00:00:00,2,VIS00918
+No_Entry,50,Thursday,Procedure,2019-06-20 00:00:00,2019,No_Flag,false,2019-06-29 00:00:00,2,PAT00287
+No_Entry,51,Sunday,Follow-up,2020-01-05 00:00:00,2020,No_Flag,false,2020-01-24 00:00:00,1,VIS00464
+No_Entry,54,Monday,Claim Submission,2024-08-19 00:00:00,2024,No_Flag,false,2024-09-11 00:00:00,3,CLM00022
+No_Entry,61,Wednesday,Follow-up,2018-01-31 00:00:00,2018,Holiday,false,2018-02-17 00:00:00,1,PAT00825
+No_Entry,75,Monday,Claim Submission,2024-12-23 00:00:00,2024,Weekend,false,2025-01-04 00:00:00,4,CLM00143
+No_Entry,80,Sunday,Follow-up,2018-07-29 00:00:00,2018,Holiday,false,2018-08-08 00:00:00,3,CLM00926
+No_Entry,82,Saturday,Follow-up,2019-03-30 00:00:00,2019,No_Flag,false,2019-04-01 00:00:00,0,VIS00235
+No_Entry,84,Monday,Follow-up,2021-05-10 00:00:00,2021,Weekend,false,1900-01-01 00:00:00,2,VIS00501
+No_Entry,87,Monday,Lab Result,2024-01-01 00:00:00,2024,No_Flag,false,2024-01-14 00:00:00,1,CLM00400
+No_Entry,88,Tuesday,Discharge,2018-02-13 00:00:00,2018,No_Flag,false,2018-03-07 00:00:00,1,PAT00486
+No_Entry,93,Thursday,Lab Result,1900-01-01 00:00:00,2018,No_Flag,true,2018-03-16 00:00:00,1,PAT00704
+No_Entry,107,Wednesday,Follow-up,2022-11-02 00:00:00,2022,No_Flag,false,2022-11-08 00:00:00,4,CLM00163
+No_Entry,121,Wednesday,Admission,2022-09-14 00:00:00,2022,No_Flag,false,2022-09-16 00:00:00,3,VIS00736
+No_Entry,125,Wednesday,Follow-up,2019-05-01 00:00:00,1900,No_Flag,false,2019-05-13 00:00:00,2,VIS00288
+No_Entry,133,Wednesday,Procedure,2019-10-16 00:00:00,2019,No_Flag,false,2019-10-18 00:00:00,4,PAT00598
+No_Entry,143,Sunday,Procedure,2021-01-01 00:00:00,2021,No_Flag,false,2021-04-12 00:00:00,1,PAT00915
+No_Entry,148,Monday,Lab Result,2020-09-14 00:00:00,2020,No_Flag,false,2020-09-28 00:00:00,3,PAT00862
+No_Entry,150,Wednesday,Follow-up,1900-01-01 00:00:00,2021,No_Flag,true,2021-08-27 00:00:00,3,CLM00575
+No_Entry,153,Friday,Unknown,2022-07-08 00:00:00,2022,No_Flag,false,2022-07-13 00:00:00,3,CLM00223
+No_Entry,158,Monday,Follow-up,2023-06-26 00:00:00,2023,No_Flag,false,2023-07-08 00:00:00,2,VIS00528
+No_Entry,165,Tuesday,Lab Result,1900-01-01 00:00:00,2020,No_Flag,true,2020-06-22 00:00:00,0,PAT00417
+No_Entry,169,Saturday,Claim Submission,2020-03-28 00:00:00,2020,Business Day,false,2020-04-21 00:00:00,1,PAT00118
+No_Entry,173,Monday,Unknown,2019-01-07 00:00:00,2019,No_Flag,false,2019-01-12 00:00:00,1,PAT00500
+No_Entry,176,Sunday,Unknown,2024-05-12 00:00:00,2024,No_Flag,false,2024-05-22 00:00:00,2,VIS00740
+No_Entry,177,Monday,Lab Result,2022-03-28 00:00:00,2022,Weekend,false,2022-04-22 00:00:00,1,PAT00194
+No_Entry,179,Tuesday,Admission,2024-10-22 00:00:00,2024,Weekend,false,2024-11-06 00:00:00,4,PAT00922
+No_Entry,181,Friday,Procedure,2024-11-29 00:00:00,2024,Weekend,false,2024-12-06 00:00:00,4,PAT00485
+No_Entry,188,Wednesday,Claim Submission,2020-05-20 00:00:00,2020,Holiday,false,2020-05-22 00:00:00,2,VIS00109
+No_Entry,190,Sunday,Follow-up,1900-01-01 00:00:00,2019,No_Flag,true,2019-05-27 00:00:00,2,VIS00969
+No_Entry,197,Saturday,Follow-up,2020-08-08 00:00:00,2020,Holiday,false,2020-09-03 00:00:00,3,PAT00225
+No_Entry,198,Tuesday,Lab Result,2024-01-01 00:00:00,2024,No_Flag,false,2024-09-19 00:00:00,3,PAT00695
+No_Entry,200,Tuesday,Claim Submission,1900-01-01 00:00:00,2019,No_Flag,true,2019-05-21 00:00:00,2,PAT00058
+No_Entry,203,Wednesday,Lab Result,2020-01-01 00:00:00,2020,No_Flag,false,2020-09-19 00:00:00,3,VIS00817
+No_Entry,207,Monday,Unknown,2019-04-15 00:00:00,1900,No_Flag,false,2019-04-21 00:00:00,2,PAT00746
+No_Entry,208,Sunday,Procedure,2024-10-13 00:00:00,2024,Holiday,false,2024-10-28 00:00:00,4,PAT00974
+No_Entry,211,Saturday,Follow-up,1900-01-01 00:00:00,2018,No_Flag,true,2018-02-03 00:00:00,1,VIS00521
+No_Entry,212,Saturday,Admission,2019-07-13 00:00:00,2019,No_Flag,false,2019-07-22 00:00:00,3,PAT00179
+No_Entry,213,Friday,Claim Submission,2023-03-24 00:00:00,2023,No_Flag,false,2023-04-05 00:00:00,0,CLM00302
+No_Entry,214,Wednesday,Procedure,2021-03-31 00:00:00,2021,Business Day,false,2021-04-06 00:00:00,1,PAT00871
+No_Entry,215,Tuesday,Admission,2024-01-01 00:00:00,2024,No_Flag,false,2024-10-08 00:00:00,4,CLM00893
+No_Entry,218,Tuesday,Procedure,1900-01-01 00:00:00,2020,No_Flag,true,2020-08-27 00:00:00,0,CLM00030
+No_Entry,220,Thursday,Claim Submission,1900-01-01 00:00:00,2023,Holiday,true,2023-10-03 00:00:00,3,PAT00341
+No_Entry,225,Tuesday,Discharge,1900-01-01 00:00:00,2019,Holiday,true,2019-11-11 00:00:00,4,CLM00746
+No_Entry,229,Sunday,Follow-up,2020-10-11 00:00:00,2020,No_Flag,false,2020-10-31 00:00:00,4,PAT00992
+No_Entry,235,No_Day,Procedure,1900-01-01 00:00:00,2020,Weekend,true,2020-02-04 00:00:00,1,VIS00874
+No_Entry,238,Tuesday,Admission,2022-06-14 00:00:00,2022,No_Flag,false,2022-07-07 00:00:00,2,VIS00737
+No_Entry,248,Saturday,Admission,2021-01-02 00:00:00,2021,No_Flag,false,2021-01-15 00:00:00,1,PAT00819
+No_Entry,249,No_Day,Follow-up,2021-09-24 00:00:00,2021,No_Flag,false,2021-10-21 00:00:00,3,CLM00214
+No_Entry,251,No_Day,Discharge,2020-05-10 00:00:00,2020,No_Flag,false,2020-05-15 00:00:00,2,CLM00784
+No_Entry,254,Sunday,Follow-up,1900-01-01 00:00:00,2022,No_Flag,true,2022-11-07 00:00:00,4,CLM00580
+No_Entry,256,Sunday,Admission,2019-05-19 00:00:00,2019,Business Day,false,2019-05-20 00:00:00,0,CLM00918
+No_Entry,261,Monday,Follow-up,2021-09-20 00:00:00,2021,No_Flag,false,2021-10-15 00:00:00,3,VIS00423
+No_Entry,267,Monday,Unknown,1900-01-01 00:00:00,2020,No_Flag,true,2020-12-30 00:00:00,4,PAT00983
+No_Entry,270,Tuesday,Follow-up,2024-09-24 00:00:00,2024,Weekend,false,2024-10-10 00:00:00,0,VIS00830
+No_Entry,272,Friday,Procedure,2022-02-18 00:00:00,2022,No_Flag,false,2022-02-20 00:00:00,1,VIS00185
+No_Entry,275,Saturday,Discharge,2024-10-12 00:00:00,2024,No_Flag,false,2024-10-21 00:00:00,4,PAT00032
+No_Entry,278,Wednesday,Admission,2020-09-09 00:00:00,2020,Holiday,false,2020-09-27 00:00:00,3,PAT00565
+No_Entry,283,Wednesday,Follow-up,2023-01-18 00:00:00,2023,Weekend,false,2023-02-11 00:00:00,1,PAT00618
+No_Entry,288,Saturday,Admission,2018-03-17 00:00:00,2018,No_Flag,false,2018-03-30 00:00:00,1,VIS00586
+No_Entry,298,Wednesday,Procedure,1900-01-01 00:00:00,2018,No_Flag,true,2018-04-13 00:00:00,1,PAT00280
+No_Entry,299,Thursday,Procedure,1900-01-01 00:00:00,2024,Business Day,true,2024-07-27 00:00:00,3,VIS00444
+No_Entry,300,Thursday,Follow-up,2019-10-24 00:00:00,2019,Holiday,false,1900-01-01 00:00:00,4,PAT00942
+No_Entry,303,Friday,Follow-up,2021-07-09 00:00:00,2021,No_Flag,false,2021-07-12 00:00:00,3,PAT00225
+No_Entry,306,Monday,Unknown,2018-03-19 00:00:00,2018,Weekend,false,2018-03-19 00:00:00,1,VIS00437
+No_Entry,313,Thursday,Lab Result,2023-06-22 00:00:00,2023,Weekend,false,2023-07-14 00:00:00,2,PAT00108
+No_Entry,317,Tuesday,Admission,2020-07-21 00:00:00,2020,No_Flag,false,2020-08-01 00:00:00,3,CLM00998
+No_Entry,323,Wednesday,Lab Result,2021-04-14 00:00:00,1900,No_Flag,false,2021-04-15 00:00:00,2,CLM00421
+No_Entry,324,Sunday,Lab Result,2022-11-13 00:00:00,2022,No_Flag,false,1900-01-01 00:00:00,4,VIS00548
+No_Entry,327,Saturday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-09-18 00:00:00,3,PAT00547
+No_Entry,329,Sunday,Admission,1900-01-01 00:00:00,2024,No_Flag,true,1900-01-01 00:00:00,0,PAT00900
+No_Entry,354,Wednesday,Claim Submission,1900-01-01 00:00:00,2019,No_Flag,true,1900-01-01 00:00:00,1,CLM00758
+No_Entry,355,Thursday,Admission,2022-10-20 00:00:00,2022,No_Flag,false,2022-11-12 00:00:00,4,CLM00725
+No_Entry,356,Sunday,Admission,2020-09-20 00:00:00,2020,No_Flag,false,2020-10-19 00:00:00,3,VIS00230
+No_Entry,359,Saturday,Procedure,2021-07-24 00:00:00,2021,Business Day,false,2021-08-06 00:00:00,3,PAT00577
+No_Entry,360,Friday,Procedure,2021-12-02 00:00:00,2021,Business Day,false,2021-02-12 00:00:00,1,CLM00341
+No_Entry,363,Saturday,Follow-up,2018-06-09 00:00:00,2018,No_Flag,false,2018-06-29 00:00:00,2,PAT00368
+No_Entry,365,Tuesday,Lab Result,1900-01-01 00:00:00,2020,Business Day,true,2020-11-10 00:00:00,4,CLM00646
+No_Entry,372,Thursday,Procedure,2018-11-22 00:00:00,2018,Business Day,false,2018-12-05 00:00:00,4,VIS00811
+No_Entry,373,Saturday,Admission,2023-09-30 00:00:00,2023,Holiday,false,2023-10-06 00:00:00,3,CLM00702
+No_Entry,378,Friday,Procedure,2021-12-24 00:00:00,2021,No_Flag,false,2022-01-04 00:00:00,4,PAT00053
+No_Entry,387,Saturday,Procedure,1900-01-01 00:00:00,2022,Weekend,true,2022-12-19 00:00:00,4,VIS00515
+No_Entry,388,Thursday,Admission,1900-01-01 00:00:00,2020,No_Flag,true,2020-02-29 00:00:00,1,CLM00254
+No_Entry,393,Thursday,Procedure,2018-01-01 00:00:00,2018,Weekend,false,1900-01-01 00:00:00,1,VIS00557
+No_Entry,395,Monday,Follow-up,2022-10-24 00:00:00,2022,No_Flag,false,2022-10-29 00:00:00,4,CLM00432
+No_Entry,402,Thursday,Follow-up,2018-08-09 00:00:00,2018,Weekend,false,2018-09-03 00:00:00,3,PAT00278
+No_Entry,405,Thursday,Procedure,2023-03-16 00:00:00,2023,Weekend,false,1900-01-01 00:00:00,1,CLM00282
+No_Entry,414,Thursday,Admission,2018-12-27 00:00:00,2018,No_Flag,false,2018-12-28 00:00:00,4,CLM00558
+No_Entry,421,Wednesday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-02-15 00:00:00,1,VIS00679
+No_Entry,437,Wednesday,Unknown,2018-12-19 00:00:00,2018,Holiday,false,1900-01-01 00:00:00,4,CLM00648
+No_Entry,442,No_Day,Unknown,2019-06-07 00:00:00,2019,Holiday,false,2019-06-10 00:00:00,2,VIS00576
+No_Entry,447,Wednesday,Follow-up,2021-03-31 00:00:00,2021,No_Flag,false,2021-04-23 00:00:00,1,PAT00129
+No_Entry,449,Tuesday,Lab Result,2024-10-22 00:00:00,2024,No_Flag,false,2024-11-15 00:00:00,4,VIS00880
+No_Entry,451,Monday,Claim Submission,2024-12-23 00:00:00,2024,No_Flag,false,2025-01-13 00:00:00,4,VIS00215
+No_Entry,458,Wednesday,Claim Submission,2023-08-02 00:00:00,2023,Business Day,false,2023-08-24 00:00:00,3,PAT00840
+No_Entry,459,Monday,Claim Submission,2022-01-01 00:00:00,2022,No_Flag,false,2022-02-19 00:00:00,1,VIS00601
+No_Entry,462,Sunday,Follow-up,1900-01-01 00:00:00,2021,Holiday,true,2021-02-08 00:00:00,1,PAT00588
+No_Entry,466,Tuesday,Lab Result,1900-01-01 00:00:00,2024,No_Flag,true,2024-03-20 00:00:00,1,VIS00916
+No_Entry,470,Sunday,Procedure,2022-11-27 00:00:00,2022,Holiday,false,1900-01-01 00:00:00,4,CLM00406
+No_Entry,484,Wednesday,Lab Result,2022-10-05 00:00:00,2022,No_Flag,false,2022-10-10 00:00:00,4,CLM00450
+No_Entry,499,Monday,Follow-up,2021-10-25 00:00:00,2021,No_Flag,false,2021-11-16 00:00:00,4,CLM00684
+No_Entry,501,Saturday,Discharge,2018-10-13 00:00:00,2018,No_Flag,false,2018-10-27 00:00:00,4,CLM00780
+No_Entry,503,Monday,Follow-up,2020-02-17 00:00:00,2020,Business Day,false,2020-03-10 00:00:00,1,VIS00212
+No_Entry,505,Wednesday,Lab Result,2023-08-23 00:00:00,2023,No_Flag,false,2023-09-06 00:00:00,3,VIS00405
+No_Entry,510,Wednesday,Claim Submission,2020-03-25 00:00:00,2020,No_Flag,false,2020-04-17 00:00:00,1,CLM00972
+No_Entry,517,Monday,Discharge,2022-03-14 00:00:00,2022,No_Flag,false,2022-03-16 00:00:00,1,VIS00819
+No_Entry,525,Sunday,Lab Result,2020-12-20 00:00:00,2020,Weekend,false,2021-01-13 00:00:00,4,CLM00710
+No_Entry,533,Sunday,Unknown,2021-09-26 00:00:00,2021,No_Flag,false,2021-10-19 00:00:00,3,VIS00040
+No_Entry,552,Wednesday,Follow-up,1900-01-01 00:00:00,2021,No_Flag,true,2021-08-25 00:00:00,3,CLM00640
+No_Entry,554,Monday,Follow-up,2018-01-22 00:00:00,2018,Business Day,false,1900-01-01 00:00:00,1,VIS00713
+No_Entry,555,Wednesday,Procedure,2024-03-20 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,1,CLM00208
+No_Entry,558,Sunday,Claim Submission,2020-11-29 00:00:00,2020,Holiday,false,2020-12-09 00:00:00,4,PAT00560
+No_Entry,559,Friday,Claim Submission,2020-12-11 00:00:00,2020,Business Day,false,2020-12-26 00:00:00,4,VIS00929
+No_Entry,561,Tuesday,Follow-up,2018-12-18 00:00:00,1900,No_Flag,false,2019-01-11 00:00:00,4,CLM00871
+No_Entry,562,Saturday,Follow-up,2024-02-17 00:00:00,2024,Weekend,false,2024-02-21 00:00:00,1,PAT00236
+No_Entry,563,Tuesday,Admission,2022-11-15 00:00:00,2022,No_Flag,false,2022-11-18 00:00:00,4,PAT00393
+No_Entry,567,Friday,Procedure,2019-11-08 00:00:00,2019,Holiday,false,2019-11-20 00:00:00,4,PAT00673
+No_Entry,568,Tuesday,Procedure,2020-11-17 00:00:00,2020,No_Flag,false,2020-11-18 00:00:00,4,PAT00539
+No_Entry,572,Sunday,Lab Result,2024-01-01 00:00:00,2024,Holiday,false,1900-01-01 00:00:00,4,CLM00715
+No_Entry,579,Wednesday,Discharge,1900-01-01 00:00:00,2020,Holiday,true,2020-09-12 00:00:00,3,VIS00608
+No_Entry,586,Wednesday,Discharge,2023-02-01 00:00:00,2023,No_Flag,false,2023-02-10 00:00:00,1,PAT00174
+No_Entry,591,Friday,Unknown,2021-04-30 00:00:00,2021,No_Flag,false,2021-05-04 00:00:00,0,CLM00707
+No_Entry,593,Friday,Lab Result,2020-05-15 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,2,PAT00589
+No_Entry,595,Sunday,Unknown,2020-12-20 00:00:00,2020,Business Day,false,2021-01-14 00:00:00,4,VIS00228
+No_Entry,596,Wednesday,Procedure,2024-05-15 00:00:00,2024,No_Flag,false,2024-06-04 00:00:00,2,PAT00342
+No_Entry,599,Friday,Procedure,2020-11-13 00:00:00,2020,Weekend,false,1900-01-01 00:00:00,4,PAT00486
+No_Entry,620,Wednesday,Discharge,2024-05-01 00:00:00,2024,No_Flag,false,2024-05-31 00:00:00,2,VIS00004
+No_Entry,622,Friday,Discharge,2021-10-01 00:00:00,1900,Holiday,false,2021-10-11 00:00:00,4,VIS00753
+No_Entry,626,Sunday,Lab Result,2019-08-25 00:00:00,2019,No_Flag,false,1900-01-01 00:00:00,3,CLM00116
+No_Entry,631,No_Day,Admission,2022-07-18 00:00:00,2022,No_Flag,false,2022-07-24 00:00:00,3,PAT00362
+No_Entry,633,Tuesday,Claim Submission,2019-02-26 00:00:00,2019,Holiday,false,2019-03-02 00:00:00,1,PAT00444
+No_Entry,645,Monday,Claim Submission,2023-05-15 00:00:00,2023,Weekend,false,2023-06-05 00:00:00,2,PAT00701
+No_Entry,646,No_Day,Admission,2024-11-22 00:00:00,2024,Business Day,false,2024-12-06 00:00:00,4,VIS00686
+No_Entry,649,Tuesday,Claim Submission,2023-01-24 00:00:00,2023,No_Flag,false,2023-01-26 00:00:00,1,PAT00148
+No_Entry,668,Monday,Procedure,2018-09-10 00:00:00,2018,No_Flag,false,2018-09-16 00:00:00,3,PAT00169
+No_Entry,672,Thursday,Follow-up,2024-03-21 00:00:00,2024,No_Flag,false,2024-04-17 00:00:00,1,VIS00294
+No_Entry,676,Tuesday,Lab Result,1900-01-01 00:00:00,2022,No_Flag,true,1900-01-01 00:00:00,2,CLM00916
+No_Entry,678,Tuesday,Follow-up,2019-12-03 00:00:00,1900,No_Flag,false,2019-12-29 00:00:00,4,CLM00245
+No_Entry,681,Thursday,Claim Submission,1900-01-01 00:00:00,2024,Business Day,true,2024-11-25 00:00:00,4,CLM00214
+No_Entry,684,Sunday,Claim Submission,2022-12-11 00:00:00,2022,Holiday,false,2023-01-06 00:00:00,4,CLM00542
+No_Entry,687,Sunday,Admission,2023-08-27 00:00:00,2023,Holiday,false,2023-09-09 00:00:00,3,VIS00188
+No_Entry,692,Tuesday,Claim Submission,2019-02-12 00:00:00,2019,No_Flag,false,2019-03-02 00:00:00,1,PAT00862
+No_Entry,695,Friday,Lab Result,2023-06-30 00:00:00,2023,No_Flag,false,2023-07-01 00:00:00,2,CLM00307
+No_Entry,699,Saturday,Lab Result,2018-10-13 00:00:00,2018,Weekend,false,2018-10-26 00:00:00,4,VIS00840
+No_Entry,708,Wednesday,Follow-up,2024-01-01 00:00:00,2024,Weekend,false,2024-01-27 00:00:00,1,PAT00211
+No_Entry,711,Friday,Procedure,1900-01-01 00:00:00,2022,Weekend,true,1900-01-01 00:00:00,4,PAT00630
+No_Entry,714,Thursday,Claim Submission,2023-03-02 00:00:00,2023,No_Flag,false,2023-03-31 00:00:00,1,CLM00346
+No_Entry,715,Friday,Admission,2019-10-25 00:00:00,2019,No_Flag,false,2019-11-19 00:00:00,4,VIS00991
+No_Entry,719,Wednesday,Procedure,2023-02-15 00:00:00,2023,Business Day,false,2023-03-08 00:00:00,1,VIS00879
+No_Entry,720,Tuesday,Follow-up,2024-01-01 00:00:00,2024,No_Flag,false,2024-03-28 00:00:00,1,CLM00046
+No_Entry,723,Thursday,Procedure,2019-12-19 00:00:00,2019,Business Day,false,2019-12-23 00:00:00,0,VIS00238
+No_Entry,726,No_Day,Claim Submission,2022-02-14 00:00:00,2022,Business Day,false,2022-03-14 00:00:00,0,CLM00474
+No_Entry,727,Saturday,Admission,2019-07-06 00:00:00,1900,Weekend,false,2019-07-15 00:00:00,3,CLM00312
+No_Entry,729,Friday,Lab Result,1900-01-01 00:00:00,2022,No_Flag,true,2022-11-04 00:00:00,4,CLM00670
+No_Entry,731,Friday,Discharge,1900-01-01 00:00:00,2018,No_Flag,true,1900-01-01 00:00:00,3,PAT00237
+No_Entry,735,Wednesday,Procedure,2022-07-20 00:00:00,2022,Business Day,false,2022-07-22 00:00:00,3,VIS00165
+No_Entry,736,Monday,Claim Submission,1900-01-01 00:00:00,1900,Weekend,true,2018-02-07 00:00:00,1,CLM00502
+No_Entry,737,Friday,Unknown,2019-08-30 00:00:00,2019,No_Flag,false,2019-09-04 00:00:00,3,VIS00508
+No_Entry,742,Friday,Follow-up,2022-10-21 00:00:00,2022,Business Day,false,2022-10-25 00:00:00,4,VIS00289
+No_Entry,749,Wednesday,Procedure,2020-09-16 00:00:00,2020,No_Flag,false,2020-09-24 00:00:00,3,VIS00925
+No_Entry,751,Saturday,Claim Submission,2019-08-24 00:00:00,2019,Holiday,false,2019-09-05 00:00:00,3,PAT00809
+No_Entry,754,Sunday,Admission,1900-01-01 00:00:00,2022,Holiday,true,2022-10-10 00:00:00,4,CLM00514
+No_Entry,758,Sunday,Unknown,1900-01-01 00:00:00,2020,No_Flag,true,2020-05-14 00:00:00,2,CLM00660
+No_Entry,759,Tuesday,Admission,1900-01-01 00:00:00,2022,No_Flag,true,2022-05-21 00:00:00,2,PAT00732
+No_Entry,765,Sunday,Lab Result,2019-12-01 00:00:00,2019,No_Flag,false,2019-12-28 00:00:00,4,CLM00580
+No_Entry,773,Monday,Lab Result,2020-12-21 00:00:00,2020,No_Flag,false,2021-01-04 00:00:00,4,VIS00131
+No_Entry,775,Saturday,Admission,2019-04-06 00:00:00,2019,No_Flag,false,2019-04-21 00:00:00,2,CLM00314
+No_Entry,776,Tuesday,Lab Result,2022-08-16 00:00:00,2022,Holiday,false,2022-09-09 00:00:00,3,CLM00569
+No_Entry,781,Wednesday,Lab Result,2018-09-26 00:00:00,2018,No_Flag,false,2018-10-16 00:00:00,3,VIS00999
+No_Entry,783,Tuesday,Admission,2020-06-16 00:00:00,2020,Business Day,false,2020-06-25 00:00:00,2,CLM00998
+No_Entry,786,Friday,Discharge,2024-03-01 00:00:00,1900,Holiday,false,2024-03-17 00:00:00,1,PAT00704
+No_Entry,791,Tuesday,Lab Result,1900-01-01 00:00:00,2022,No_Flag,true,2022-06-18 00:00:00,2,CLM00782
+No_Entry,795,Thursday,Unknown,2022-11-24 00:00:00,2022,Holiday,false,2022-12-18 00:00:00,4,VIS00284
+No_Entry,796,Friday,Procedure,2020-10-02 00:00:00,2020,No_Flag,false,1900-01-01 00:00:00,4,VIS00846
+No_Entry,798,Sunday,Procedure,2018-05-13 00:00:00,2018,No_Flag,false,2018-06-01 00:00:00,2,CLM00807
+No_Entry,800,Sunday,Follow-up,1900-01-01 00:00:00,2024,Holiday,true,2024-03-04 00:00:00,1,CLM00096
+No_Entry,803,Thursday,Admission,2019-04-04 00:00:00,2019,Weekend,false,2019-04-08 00:00:00,2,VIS00374
+No_Entry,804,Wednesday,Admission,2023-12-13 00:00:00,2023,No_Flag,false,2024-01-03 00:00:00,4,VIS00834
+No_Entry,811,Saturday,Lab Result,2022-04-23 00:00:00,2022,Holiday,false,2022-05-09 00:00:00,2,PAT00163
+No_Entry,812,Thursday,Discharge,2023-01-01 00:00:00,2023,No_Flag,false,2023-09-19 00:00:00,3,CLM00279
+No_Entry,816,Sunday,Claim Submission,2022-04-24 00:00:00,2022,No_Flag,false,2022-05-13 00:00:00,2,PAT00751
+No_Entry,819,Wednesday,Claim Submission,2019-12-04 00:00:00,2019,No_Flag,false,2019-12-18 00:00:00,4,VIS00103
+No_Entry,820,Tuesday,Lab Result,2023-11-14 00:00:00,2023,Business Day,false,2023-11-14 00:00:00,4,CLM00937
+No_Entry,823,Wednesday,Lab Result,2024-09-04 00:00:00,2024,Weekend,false,2024-09-05 00:00:00,3,CLM00954
+No_Entry,824,Friday,Unknown,1900-01-01 00:00:00,2024,No_Flag,true,2024-02-17 00:00:00,1,CLM00085
+No_Entry,826,Sunday,Discharge,2023-11-19 00:00:00,2023,No_Flag,false,2023-11-20 00:00:00,4,PAT00999
+No_Entry,839,Tuesday,Admission,2018-05-01 00:00:00,2018,No_Flag,false,1900-01-01 00:00:00,2,CLM00032
+No_Entry,841,No_Day,Discharge,2021-12-27 00:00:00,2021,No_Flag,false,2022-01-25 00:00:00,4,VIS00487
+No_Entry,846,Friday,Admission,2022-09-23 00:00:00,2022,Weekend,false,2022-10-22 00:00:00,3,PAT00800
+No_Entry,852,Sunday,Procedure,2024-01-01 00:00:00,2024,Weekend,false,2024-06-04 00:00:00,2,VIS00220
+No_Entry,858,Sunday,Follow-up,2021-01-17 00:00:00,2021,No_Flag,false,1900-01-01 00:00:00,1,VIS00444
+No_Entry,866,Monday,Follow-up,1900-01-01 00:00:00,2020,No_Flag,true,2020-10-06 00:00:00,3,VIS00213
+No_Entry,873,Wednesday,Lab Result,2023-09-20 00:00:00,2023,Weekend,false,2023-10-15 00:00:00,3,PAT00310
+No_Entry,875,Sunday,Discharge,1900-01-01 00:00:00,2024,Holiday,true,2024-10-05 00:00:00,3,CLM00895
+No_Entry,876,Sunday,Follow-up,2022-07-31 00:00:00,2022,No_Flag,false,2022-08-14 00:00:00,3,CLM00082
+No_Entry,885,Wednesday,Claim Submission,2020-06-17 00:00:00,2020,No_Flag,false,2020-06-23 00:00:00,2,PAT00689
+No_Entry,886,No_Day,Admission,2022-01-23 00:00:00,2022,No_Flag,false,2022-01-24 00:00:00,1,VIS00337
+No_Entry,888,Tuesday,Discharge,2022-02-08 00:00:00,2022,Weekend,false,2022-03-07 00:00:00,1,PAT00904
+No_Entry,890,Saturday,Admission,2020-03-10 00:00:00,2020,Holiday,false,2020-10-22 00:00:00,4,PAT00164
+No_Entry,894,Saturday,Follow-up,2021-04-24 00:00:00,2021,Weekend,false,2021-05-05 00:00:00,2,PAT00089
+No_Entry,899,Tuesday,Claim Submission,2018-03-27 00:00:00,2018,Weekend,false,2018-04-05 00:00:00,1,CLM00270
+No_Entry,907,Sunday,Unknown,2018-09-09 00:00:00,2018,Business Day,false,2018-09-19 00:00:00,3,PAT00026
+No_Entry,908,Monday,Follow-up,1900-01-01 00:00:00,2018,No_Flag,true,1900-01-01 00:00:00,4,VIS00047
+No_Entry,922,Friday,Follow-up,2022-01-01 00:00:00,2022,No_Flag,false,2022-12-05 00:00:00,4,PAT00306
+No_Entry,924,Wednesday,Admission,2020-08-05 00:00:00,2020,Business Day,false,2020-08-16 00:00:00,3,CLM00990
+No_Entry,927,Tuesday,Follow-up,2022-05-07 00:00:00,2022,No_Flag,false,2022-07-05 00:00:00,3,CLM00781
+No_Entry,928,Sunday,Procedure,2024-06-30 00:00:00,2024,No_Flag,false,1900-01-01 00:00:00,2,CLM00988
+No_Entry,937,Friday,Follow-up,2023-01-01 00:00:00,2023,No_Flag,false,2023-02-14 00:00:00,1,VIS00155
+No_Entry,942,Tuesday,Admission,2023-09-26 00:00:00,2023,No_Flag,false,2023-10-12 00:00:00,3,VIS00094
+No_Entry,943,Friday,Discharge,2019-04-10 00:00:00,2019,No_Flag,false,2019-10-07 00:00:00,4,CLM00206
+No_Entry,945,Saturday,Procedure,1900-01-01 00:00:00,2023,No_Flag,true,1900-01-01 00:00:00,1,VIS00891
+No_Entry,947,Tuesday,Follow-up,1900-01-01 00:00:00,2021,Holiday,true,1900-01-01 00:00:00,2,CLM00802
+No_Entry,948,Monday,Unknown,2019-11-04 00:00:00,2019,Weekend,false,2019-11-07 00:00:00,4,VIS00317
+No_Entry,952,No_Day,Admission,2018-12-09 00:00:00,2018,No_Flag,false,2018-12-26 00:00:00,0,CLM00162
+No_Entry,953,No_Day,Follow-up,2024-01-26 00:00:00,2024,No_Flag,false,2024-02-08 00:00:00,1,CLM00452
+No_Entry,955,Monday,Admission,2023-03-27 00:00:00,2023,No_Flag,false,2023-04-24 00:00:00,1,PAT00513
+No_Entry,957,Sunday,Lab Result,1900-01-01 00:00:00,2024,No_Flag,true,2024-09-23 00:00:00,3,PAT00414
+No_Entry,959,Saturday,Discharge,2020-10-31 00:00:00,2020,Business Day,false,2020-11-12 00:00:00,4,VIS00206
+No_Entry,960,Friday,Discharge,2022-01-01 00:00:00,2022,No_Flag,false,2022-12-26 00:00:00,4,PAT00587
+No_Entry,961,No_Day,Lab Result,2022-05-10 00:00:00,2022,Weekend,false,2022-05-11 00:00:00,0,CLM00009
+No_Entry,963,Sunday,Admission,1900-01-01 00:00:00,2021,No_Flag,true,2021-09-12 00:00:00,0,VIS00712
+No_Entry,975,Thursday,Discharge,1900-01-01 00:00:00,2022,No_Flag,true,2022-09-24 00:00:00,3,CLM00205
+No_Entry,981,Thursday,Follow-up,1900-01-01 00:00:00,2021,No_Flag,true,2021-12-14 00:00:00,4,CLM00327
+No_Entry,983,Sunday,Claim Submission,2019-12-05 00:00:00,2019,No_Flag,false,2019-05-30 00:00:00,2,PAT00103
+No_Entry,992,Saturday,Lab Result,2021-03-20 00:00:00,2021,No_Flag,false,2021-04-03 00:00:00,1,VIS00143
+No_Entry,993,Tuesday,Follow-up,2024-01-23 00:00:00,2024,No_Flag,false,2024-02-11 00:00:00,1,VIS00213
+No_Entry,995,Thursday,Admission,2020-03-12 00:00:00,2020,Weekend,false,2020-03-28 00:00:00,1,CLM00872
+No_Entry,996,Monday,Discharge,2020-12-07 00:00:00,2020,Business Day,false,2021-01-03 00:00:00,4,PAT00837
+No_Entry,999,Thursday,Lab Result,1900-01-01 00:00:00,2020,Business Day,true,2020-11-19 00:00:00,4,VIS00265

@@ -1,0 +1,1001 @@
+﻿Age,City,Date_of_Birth,Email,First_Name,Gender,Insurance,Last_Name,Invalid_DOB_Flag,Patient_ID,Patient_Status,Phone,Zip_Code
+0,Chicago,1900-01-01 00:00:00,charles.williams39@yahoo.com,Charles,Female,Self-Pay,Williams,true,PAT00709,Active,470-128-1351,28962
+0,Chicago,1900-01-01 00:00:00,james.jackson80@yahoo.com,James,Male,Self-Pay,Jackson,true,PAT00861,Active,869-621-7554,12416
+0,Chicago,1900-01-01 00:00:00,michael.johnson13@yahoo.com,Michael,Unknown,Humana,Johnson,true,PAT00730,Active,435-111-6076,49580
+0,Chicago,1900-01-01 00:00:00,michael.young45@yahoo.com,Michael,Female,Unknown,Young,true,PAT00425,Unknown,962-374-6575,26922
+0,Chicago,1900-01-01 00:00:00,richard.y78@yahoo.com,Richard,Other,Cigna,No_Name,true,PAT00249,Inactive,325-253-2929,34297
+0,Dallas,1900-01-01 00:00:00,barbara.smith26@gmail.com,Barbara,Unknown,Self-Pay,Smith,true,PAT00896,Active,382-759-7439,78953
+0,Dallas,1900-01-01 00:00:00,jessica.allen54@yahoo.com,Jessica,Male,Aetna,Allen,true,PAT00762,Unknown,200-140-1320,77034
+0,Dallas,1900-01-01 00:00:00,michael.martin69@yahoo.com,Michael,Female,Cigna,Martin,true,PAT00117,Active,633-300-9659,51824
+0,Dallas,1900-01-01 00:00:00,patricia.allen27@gmail.com,Patricia,Female,Kaiser,Allen,true,PAT00979,Active,969-205-2769,48322
+0,Dallas,1900-01-01 00:00:00,patricia.johnson58@gmail.com,Patricia,Female,Medicaid,Johnson,true,PAT00741,Inactive,336-872-8447,12981
+0,Dallas,1900-01-01 00:00:00,robert.davis36@gmail.com,Robert,Unknown,Self-Pay,Davis,true,PAT00639,Unknown,384-574-9661,90699
+0,Dallas,1900-01-01 00:00:00,Unknown,William,Male,Kaiser,Brown,true,PAT00671,Deceased,978-554-5310,34966
+0,Dallas,1900-01-01 00:00:00,x.harris19@gmail.com,No_Name,Unknown,Self-Pay,Harris,true,PAT00547,Active,687-321-2729,210
+0,Houston,1900-01-01 00:00:00,barbara.martin44@gmail.com,Barbara,Male,Self-Pay,Martin,true,PAT00173,Unknown,746-169-6079,14105
+0,Houston,1900-01-01 00:00:00,barbara.thomas2@gmail.com,Barbara,Unknown,Cigna,Thomas,true,PAT00611,Inactive,824-675-8510,48136
+0,Houston,1900-01-01 00:00:00,barbara.white48@yahoo.com,Barbara,Male,Humana,White,true,PAT00884,Deceased,875-586-4197,44438
+0,Houston,1900-01-01 00:00:00,charles.thomas44@gmail.com,Charles,Male,Cigna,Thomas,true,PAT00464,Unknown,6309449517,91797
+0,Houston,1900-01-01 00:00:00,charles.y82@gmail.com,Charles,Female,UnitedHealth,No_Name,true,PAT00376,Active,866-999-8976,58425
+0,Houston,1900-01-01 00:00:00,joseph.davis28@gmail.com,Joseph,Male,Medicaid,Davis,true,PAT00619,Active,706-968-6355,720
+0,Houston,1900-01-01 00:00:00,linda.moore2@yahoo.com,Linda,Other,Medicaid,Moore,true,PAT00600,Deceased,578-266-5094,68061
+0,Houston,1900-01-01 00:00:00,richard.young18@yahoo.com,Richard,Other,Self-Pay,Young,true,PAT00585,Active,377-454-8544,10396
+0,Houston,1900-01-01 00:00:00,william.jones96@yahoo.com,William,Female,Medicare,Jones,true,PAT00327,Active,369-532-9292,33833
+0,Los Angeles,1900-01-01 00:00:00,charles.young7@gmail.com,Charles,Male,Medicaid,Young,true,PAT00596,Active,347-176-9232,63529
+0,Los Angeles,1900-01-01 00:00:00,david.thomas78@gmail.com,David,Female,Medicaid,Thomas,true,PAT00647,Unknown,672-853-1113,78378
+0,Los Angeles,1900-01-01 00:00:00,james.brown62@gmail.com,James,Male,Cigna,Brown,true,PAT00687,Active,849-192-8760,55278
+0,Los Angeles,1900-01-01 00:00:00,jennifer.white11@gmail.com,Jennifer,Unknown,Medicare,White,true,PAT00826,Active,374-283-5929,83600
+0,Los Angeles,1900-01-01 00:00:00,jessica.wilson72@gmail.com,Jessica,Unknown,BlueCross,Wilson,true,PAT00634,Unknown,740-166-6069,28510
+0,Los Angeles,1900-01-01 00:00:00,patricia.wilson68@gmail.com,Patricia,Female,Medicare,Wilson,true,PAT00873,Unknown,Unknown,78586
+0,Los Angeles,1900-01-01 00:00:00,susan.white87@gmail.com,Susan,Unknown,BlueCross,White,true,PAT00855,Active,627-128-2247,92359
+0,Los Angeles,1900-01-01 00:00:00,Unknown,Jennifer,Unknown,Humana,No_Name,true,PAT00725,Active,500-694-7709,53570
+0,Los Angeles,1900-01-01 00:00:00,x.wilson40@yahoo.com,No_Name,Female,Medicaid,Wilson,true,PAT00729,Active,503-669-8325,77920
+0,New York,1900-01-01 00:00:00,michael.moore46@gmail.com,Michael,Female,Humana,Moore,true,PAT00069,Unknown,460-124-8664,85170
+0,New York,1900-01-01 00:00:00,Unknown,Barbara,Female,Self-Pay,Moore,true,PAT00937,Unknown,803-702-5411,45042
+0,New York,1900-01-01 00:00:00,Unknown,Thomas,Unknown,UnitedHealth,Miller,true,PAT00438,Unknown,705-538-1140,98968
+0,Philadelphia,1900-01-01 00:00:00,james.harris33@gmail.com,James,Male,Aetna,Harris,true,PAT00659,Unknown,731-152-1522,42322
+0,Philadelphia,1900-01-01 00:00:00,james.thompson38@gmail.com,James,Male,Aetna,Thompson,true,PAT00025,Deceased,473-457-8522,27393
+0,Philadelphia,1900-01-01 00:00:00,jessica.white97@gmail.com,Jessica,Female,BlueCross,White,true,PAT00726,Active,322-175-5265,31328
+0,Philadelphia,1900-01-01 00:00:00,karen.thomas36@gmail.com,Karen,Male,UnitedHealth,Thomas,true,PAT00928,Deceased,Unknown,30770
+0,Philadelphia,1900-01-01 00:00:00,lisa.taylor85@yahoo.com,Lisa,Male,Unknown,Taylor,true,PAT00529,Deceased,340-208-3174,29970
+0,Philadelphia,1900-01-01 00:00:00,michael.taylor60@yahoo.com,Michael,Other,Medicaid,Taylor,true,PAT00388,Unknown,233-102-1384,90748
+0,Philadelphia,1900-01-01 00:00:00,richard.garcia46@gmail.com,Richard,Male,Medicare,Garcia,true,PAT00624,Unknown,801-822-1250,54771
+0,Philadelphia,1900-01-01 00:00:00,richard.garcia83@yahoo.com,Richard,Female,Unknown,Garcia,true,PAT00512,Active,Unknown,59323
+0,Philadelphia,1900-01-01 00:00:00,susan.wilson91@gmail.com,Susan,Female,Medicare,Wilson,true,PAT00882,Unknown,422-136-5187,94302
+0,Philadelphia,1900-01-01 00:00:00,thomas.jones91@yahoo.com,Thomas,Female,Medicaid,Jones,true,PAT00171,Active,319-511-1298,64884
+0,Philadelphia,1900-01-01 00:00:00,Unknown,Robert,Unknown,Medicaid,Thompson,true,PAT00851,Inactive,341-116-3473,19457
+0,Philadelphia,1900-01-01 00:00:00,x.white36@yahoo.com,No_Name,Male,BlueCross,White,true,PAT00060,Active,276-886-6818,54115
+0,Phoenix,1900-01-01 00:00:00,david.y60@gmail.com,David,Female,Medicaid,No_Name,true,PAT00049,Unknown,889-933-9078,18484
+0,Phoenix,1900-01-01 00:00:00,michael.y96@yahoo.com,Michael,Unknown,UnitedHealth,No_Name,true,PAT00572,Inactive,849-617-8224,25060
+0,Phoenix,1900-01-01 00:00:00,richard.brown54@gmail.com,Richard,Male,Unknown,Brown,true,PAT00305,Deceased,616-376-3885,98011
+0,Phoenix,1900-01-01 00:00:00,robert.brown74@yahoo.com,Robert,Male,BlueCross,Brown,true,PAT00252,Deceased,983-792-1726,32351
+0,Phoenix,1900-01-01 00:00:00,sarah.smith24@gmail.com,Sarah,Male,Medicaid,Smith,true,PAT00583,Inactive,634-893-3634,11393
+0,Phoenix,1900-01-01 00:00:00,sarah.white49@gmail.com,Sarah,Female,Kaiser,White,true,PAT00603,Unknown,335-338-2675,94951
+0,Phoenix,1900-01-01 00:00:00,Unknown,David,Other,Self-Pay,Jones,true,PAT00967,Active,544-580-8761,21495
+0,Phoenix,1900-01-01 00:00:00,Unknown,Richard,Unknown,Humana,Davis,true,PAT00385,Inactive,592-997-7185,40820
+0,San Antonio,1900-01-01 00:00:00,barbara.y90@gmail.com,Barbara,Female,Aetna,No_Name,true,PAT00623,Active,483-241-7019,92017
+0,San Antonio,1900-01-01 00:00:00,patricia.davis50@gmail.com,Patricia,Male,UnitedHealth,Davis,true,PAT00717,Active,539-290-1767,36245
+0,San Antonio,1900-01-01 00:00:00,sarah.taylor15@gmail.com,Sarah,Female,Unknown,Taylor,true,PAT00339,Unknown,559-334-4948,14674
+0,San Antonio,1900-01-01 00:00:00,susan.johnson39@gmail.com,Susan,Male,Cigna,Johnson,true,PAT00433,Deceased,863-413-6257,89915
+0,San Antonio,1900-01-01 00:00:00,william.wilson8@yahoo.com,William,Unknown,Medicare,Wilson,true,PAT00023,Unknown,563-297-5117,23074
+0,San Antonio,1900-01-01 00:00:00,x.allen41@yahoo.com,No_Name,Unknown,Medicaid,Allen,true,PAT00418,Active,4575667066,88021
+0,Unknown,1900-01-01 00:00:00,charles.y25@gmail.com,Charles,Female,Aetna,No_Name,true,PAT00891,Active,242-743-5713,65441
+0,Unknown,1900-01-01 00:00:00,karen.white29@gmail.com,Karen,Male,Self-Pay,White,true,PAT00917,Deceased,777-398-3833,97482
+0,Unknown,1900-01-01 00:00:00,lisa.thomas29@yahoo.com,Lisa,Male,Medicaid,Thomas,true,PAT00524,Unknown,7095343038,91777
+19,Dallas,1900-01-01 00:00:00,Unknown,Charles,Male,Medicare,Allen,true,PAT00472,Active,756-336-7508,26031
+19,Houston,1900-01-01 00:00:00,karen.thomas96@gmail.com,Karen,Male,BlueCross,Thomas,true,PAT00816,Inactive,863-386-9787,33045
+19,Houston,1900-01-01 00:00:00,sarah.harris12@gmail.com,Sarah,Male,BlueCross,Harris,true,PAT00113,Active,906-660-4870,35617
+19,New York,1900-01-01 00:00:00,mary.williams67@gmail.com,Mary,Female,Medicaid,Williams,true,PAT00549,Inactive,314-105-7259,90461
+19,New York,1900-01-01 00:00:00,sarah .y58@gmail.com,Sarah,Other,Cigna,No_Name,true,PAT00514,Unknown,393-794-3206,92197
+19,Philadelphia,1900-01-01 00:00:00,jessica.davis30@gmail.com,Jessica,Female,BlueCross,Davis,true,PAT00632,Deceased,680-317-1401,22761
+19,Philadelphia,1900-01-01 00:00:00,lisa.y67@gmail.com,Lisa,Female,Self-Pay,No_Name,true,PAT00077,Inactive,725-740-9949,10640
+19,Phoenix,1900-01-01 00:00:00,michael.wilson 16@gmail.com,Michael,Male,Humana,Wilson,true,PAT00912,Unknown,803-627-4526,23715
+19,Phoenix,1900-01-01 00:00:00,Unknown,Robert,Unknown,Unknown,White,true,PAT00568,Unknown,477-986-2757,47163
+19,Unknown,1900-01-01 00:00:00,mary.williams47@gmail.com,Mary,Unknown,Aetna,Williams,true,PAT00880,Inactive,Unknown,94420
+19,Unknown,1900-01-01 00:00:00,michael.wilson89@yahoo.com,Michael,Unknown,UnitedHealth,Wilson,true,PAT00268,Unknown,970-789-7717,84094
+20,Houston,1900-01-01 00:00:00,james.jackson75@gmail.com,James,Male,BlueCross,Jackson,true,PAT00143,Deceased,865-352-3594,900
+20,Houston,1900-01-01 00:00:00,Unknown,Patricia,Female,Unknown,Wilson,true,PAT00878,Active,568-851-4571,88352
+20,Los Angeles,1900-01-01 00:00:00,james.moore51@gmail.com,James,Female,Cigna,Moore,true,PAT00737,Deceased,512-365-3264,94959
+20,Los Angeles,1900-01-01 00:00:00,karen.young51@gmail.com,Karen,Unknown,Medicaid,Young,true,PAT00722,Active,744-753-6273,75827
+20,Los Angeles,1900-01-01 00:00:00,sarah.white41@gmail.com,Sarah,Female,Self-Pay,White,true,PAT00637,Active,415-639-6733,46443
+20,Los Angeles,1900-01-01 00:00:00,thomas.brown39@gmail.com,Thomas,Other,BlueCross,Brown,true,PAT00186,Unknown,768-715-5113,77544
+20,New York,1900-01-01 00:00:00,john.thomas78@yahoo.com,John,Male,Unknown,Thomas,true,PAT00092,Active,544-535-7685,27232
+20,New York,1900-01-01 00:00:00,robert.smith54@gmail.com,Robert,Other,Aetna,Smith,true,PAT00862,Inactive,269-611-1449,97890
+20,Phoenix,1900-01-01 00:00:00,linda.thomas70@gmail.com,Linda,Female,Cigna,Thomas,true,PAT00577,Unknown,886-629-7516,34547
+20,Phoenix,1900-01-01 00:00:00,x.smith14@gmail.com,No_Name,Unknown,BlueCross,Smith,true,PAT00026,Inactive,278-111-3509,70280
+21,Chicago,1900-01-01 00:00:00,Unknown,James,Male,Self-Pay,Wilson,true,PAT00345,Inactive,402-528-1098,36496
+21,Los Angeles,1900-01-01 00:00:00,charles.allen 60@gmail.com,Charles,Female,UnitedHealth,Allen,true,PAT00014,Active,491-660-6087,98833
+21,New York,1900-01-01 00:00:00,jessica.garcia17@gmail.com,Jessica,Unknown,Cigna,Garcia,true,PAT00909,Active,205-841-6892,45938
+21,Phoenix,1900-01-01 00:00:00,barbara.white3@yahoo.com,Barbara,Female,Cigna,White,true,PAT00366,Active,729-669-1593,23801
+21,Phoenix,1900-01-01 00:00:00,jessica.harris89@yahoo.com,Jessica,Male,UnitedHealth,Harris,true,PAT00648,Inactive,897-684-5901,70573
+21,Phoenix,1900-01-01 00:00:00,susan .martin 1@yahoo.com,Susan,Unknown,Unknown,Martin,true,PAT00277,Deceased,809-592-1725,20059
+21,San Antonio,1900-01-01 00:00:00,linda.miller96@yahoo.com,Linda,Unknown,Humana,Miller,true,PAT00449,Unknown,5404421009,61440
+21,San Antonio,1900-01-01 00:00:00,patricia.miller12@gmail.com,Patricia,Unknown,Kaiser,Miller,true,PAT00510,Active,355-951-2636,38801
+21,San Antonio,1900-01-01 00:00:00,patricia.moore64@yahoo.com,Patricia,Male,Unknown,Moore,true,PAT00176,Inactive,408-226-9677,43458
+21,Unknown,1900-01-01 00:00:00,x.jones43@yahoo.com,No_Name,Unknown,BlueCross,Jones,true,PAT00279,Unknown,627-150-6363,45830
+22,Chicago,1900-01-01 00:00:00,jessica.smith65@gmail.com,Jessica,Female,Self-Pay,Smith,true,PAT00951,Active,970-234-2585,72570
+22,Chicago,1900-01-01 00:00:00,john.davis41@yahoo.com,John,Female,Self-Pay,Davis,true,PAT00716,Unknown,662-741-3618,90677
+22,Houston,1900-01-01 00:00:00,x.smith13@yahoo.com,No_Name,Female,Humana,Smith,true,PAT00714,Inactive,889-189-3192,480
+22,Los Angeles,1900-01-01 00:00:00,jennifer.young89@gmail.com,Jennifer,Female,UnitedHealth,Young,true,PAT00205,Unknown,931-888-1605,33996
+22,Los Angeles,1900-01-01 00:00:00,richard.thomas87@gmail.com,Richard,Male,Humana,Thomas,true,PAT00398,Unknown,3012052789,76380
+22,New York,1900-01-01 00:00:00,mary.anderson98@gmail.com,Mary,Female,BlueCross,Anderson,true,PAT00705,Active,976-272-7379,83914
+22,New York,1900-01-01 00:00:00,richard.harris80@yahoo.com,Richard,Other,Aetna,Harris,true,PAT00079,Deceased,913-955-6896,67246
+22,New York,1900-01-01 00:00:00,x.white63@gmail.com,No_Name,Other,BlueCross,White,true,PAT00742,Deceased,926-602-3039,47534
+22,Philadelphia,1900-01-01 00:00:00,john.thomas59@gmail.com,John,Unknown,Medicaid,Thomas,true,PAT00652,Unknown,Unknown,17183
+22,Phoenix,1900-01-01 00:00:00,richard.williams57@yahoo.com,Richard,Female,Medicaid,Williams,true,PAT00203,Inactive,442-209-7469,15013
+22,Phoenix,1900-01-01 00:00:00,robert.johnson35@gmail.com,Robert,Unknown,BlueCross,Johnson,true,PAT00599,Inactive,327-127-3262,39868
+22,Unknown,1900-01-01 00:00:00,joseph.taylor5@yahoo.com,Joseph,Unknown,UnitedHealth,Taylor,true,PAT00068,Deceased,480-679-7398,11141
+23,Chicago,1900-01-01 00:00:00,jennifer.davis 6@gmail.com,Jennifer,Female,Unknown,Davis,true,PAT00329,Deceased,512-900-9495,55521
+23,Chicago,1900-01-01 00:00:00,robert.williams17@gmail.com,Robert,Female,BlueCross,Williams,true,PAT00944,Active,781-379-6935,21600
+23,Dallas,1900-01-01 00:00:00,linda.harris87@gmail.com,Linda,Male,Medicare,Harris,true,PAT00566,Active,230-104-8605,94967
+23,Dallas,1900-01-01 00:00:00,michael.miller94@yahoo.com,Michael,Female,Humana,Miller,true,PAT00144,Active,7967466608,18789
+23,Houston,1900-01-01 00:00:00,lisa.jackson95@yahoo.com,Lisa,Female,Medicare,Jackson,true,PAT00795,Inactive,857-912-5675,98411
+23,Los Angeles,1900-01-01 00:00:00,john.allen12@gmail.com,John,Male,Medicaid,Allen,true,PAT00096,Unknown,448-680-6941,98256
+23,New York,1900-01-01 00:00:00,linda.williams10@gmail.com,Linda,Female,BlueCross,Williams,true,PAT00165,Active,Unknown,90811
+23,New York,1900-01-01 00:00:00,thomas.wilson99@yahoo.com,Thomas,Female,Cigna,Wilson,true,PAT00454,Active,3809225592,78833
+23,New York,1900-01-01 00:00:00,william.johnson41@yahoo.com,William,Unknown,Medicare,Johnson,true,PAT00163,Active,383-869-3354,90651
+23,Philadelphia,1900-01-01 00:00:00,barbara.williams23@gmail.com,Barbara,Male,Unknown,Williams,true,PAT00042,Deceased,Unknown,91655
+23,Philadelphia,1900-01-01 00:00:00,james.young72@yahoo.com,James,Unknown,Medicaid,Young,true,PAT00523,Deceased,978-473-2647,87066
+23,Phoenix,1900-01-01 00:00:00,john.allen62@yahoo.com,John,Male,UnitedHealth,Allen,true,PAT00563,Unknown,485-651-3852,26340
+23,San Antonio,1900-01-01 00:00:00,barbara.allen78@gmail.com,Barbara,Male,Aetna,Allen,true,PAT00828,Inactive,934-708-5115,40448
+23,San Antonio,1900-01-01 00:00:00,charles.smith51@yahoo.com,Charles,Unknown,Aetna,Smith,true,PAT00201,Deceased,622-187-1577,97622
+23,San Antonio,1900-01-01 00:00:00,x.smith74@gmail.com,No_Name,Unknown,Cigna,Smith,true,PAT00971,Deceased,541-570-7674,86212
+24,Dallas,1900-01-01 00:00:00,linda.young65@gmail.com,Linda,Unknown,Cigna,Young,true,PAT00865,Active,982-298-3205,989
+24,Houston,1900-01-01 00:00:00,karen.y97@yahoo.com,Karen,Unknown,Cigna,No_Name,true,PAT00168,Inactive,415-710-5358,63855
+24,Los Angeles,1900-01-01 00:00:00,jennifer .jones22@gmail.com,Jennifer,Male,Kaiser,Jones,true,PAT00975,Unknown,Unknown,35002
+24,Los Angeles,1900-01-01 00:00:00,x.thomas67@yahoo.com,No_Name,Male,Medicare,Thomas,true,PAT00607,Active,685-333-4076,74408
+24,New York,1900-01-01 00:00:00,john.jones15@gmail.com,John,Unknown,Self-Pay,Jones,true,PAT00437,Deceased,898-675-7856,41374
+24,New York,1900-01-01 00:00:00,karen.jackson70@yahoo.com,Karen,Female,Self-Pay,Jackson,true,PAT00813,Active,Unknown,25225
+24,New York,1900-01-01 00:00:00,lisa.thompson 55@gmail.com,Lisa,Male,Humana,Thompson,true,PAT00374,Active,529-126-5732,38636
+24,New York,1900-01-01 00:00:00,sarah.taylor16@gmail.com,Sarah,Male,Medicare,Taylor,true,PAT00208,Active,732-351-2682,80758
+24,San Antonio,1900-01-01 00:00:00,x.garcia93@yahoo.com,No_Name,Male,Aetna,Garcia,true,PAT00618,Unknown,746-543-9336,61377
+24,Unknown,1900-01-01 00:00:00,barbara.garcia60@gmail.com,Barbara,Male,BlueCross,Garcia,true,PAT00522,Active,391-658-7669,58924
+24,Unknown,1900-01-01 00:00:00,joseph.anderson40@yahoo.com,Joseph,Male,Medicaid,Anderson,true,PAT00236,Deceased,498-340-2397,92467
+25,Chicago,1900-01-01 00:00:00,john.harris47@gmail.com,John,Unknown,Cigna,Harris,true,PAT00777,Active,913-585-5037,36584
+25,Chicago,1900-01-01 00:00:00,linda.wilson1@gmail.com,Linda,Female,Humana,Wilson,true,PAT00807,Unknown,321-468-9413,969
+25,Dallas,1900-01-01 00:00:00,linda.miller40@gmail.com,Linda,Female,Self-Pay,Miller,true,PAT00769,Active,Unknown,42592
+25,Dallas,1900-01-01 00:00:00,mary.taylor 99@yahoo.com,Mary,Female,UnitedHealth,Taylor,true,PAT00152,Active,659-736-1595,61011
+25,Houston,1900-01-01 00:00:00,joseph.johnson21@gmail.com,Joseph,Female,Humana,Johnson,true,PAT00503,Active,948-157-4572,90968
+25,Houston,1900-01-01 00:00:00,sarah.garcia18@gmail.com,Sarah,Unknown,Cigna,Garcia,true,PAT00783,Unknown,512-112-3462,72727
+25,Los Angeles,1900-01-01 00:00:00,barbara.jackson79@gmail.com,Barbara,Male,Medicaid,Jackson,true,PAT00164,Unknown,503-528-1288,27576
+25,Los Angeles,1900-01-01 00:00:00,michael.young77@gmail.com,Michael,Unknown,Self-Pay,Young,true,PAT00090,Active,534-798-7341,66644
+25,Philadelphia,1900-01-01 00:00:00,patricia.jackson20@gmail.com,Patricia,Female,Cigna,Jackson,true,PAT00416,Active,969-245-5027,410
+25,Philadelphia,1900-01-01 00:00:00,richard.y18@yahoo.com,Richard,Male,Humana,No_Name,true,PAT00536,Unknown,444-959-1465,87077
+25,San Antonio,1900-01-01 00:00:00,Unknown,Lisa,Unknown,Humana,Miller,true,PAT00232,Unknown,696-351-5261,65081
+25,San Antonio,1900-01-01 00:00:00,x.thompson20@gmail.com,No_Name,Female,Kaiser,Thompson,true,PAT00588,Inactive,9987316748,17415
+25,Unknown,1900-01-01 00:00:00,michael.y42@gmail.com,Michael,Unknown,UnitedHealth,No_Name,true,PAT00235,Inactive,847-281-5661,32051
+26,Chicago,1900-01-01 00:00:00,barbara.white70@yahoo.com,Barbara,Unknown,Self-Pay,White,true,PAT00810,Active,304-606-6363,94022
+26,Chicago,1900-01-01 00:00:00,james.williams34@gmail.com,James,Unknown,Cigna,Williams,true,PAT00833,Active,Unknown,99526
+26,Chicago,1900-01-01 00:00:00,sarah.martin79@gmail.com,Sarah,Unknown,Cigna,Martin,true,PAT00564,Unknown,8045506795,61876
+26,Dallas,1900-01-01 00:00:00,john.y32@yahoo.com,John,Unknown,Aetna,No_Name,true,PAT00229,Active,454-255-7663,67536
+26,Dallas,1900-01-01 00:00:00,william.allen38@gmail.com,William,Female,Aetna,Allen,true,PAT00923,Unknown,758-223-2035,25494
+26,Houston,1900-01-01 00:00:00,barbara.wilson47@yahoo.com,Barbara,Unknown,BlueCross,Wilson,true,PAT00247,Unknown,689-135-2536,73397
+26,Houston,1900-01-01 00:00:00,linda.martin36@yahoo.com,Linda,Unknown,UnitedHealth,Martin,true,PAT00312,Deceased,779-924-2783,69293
+26,New York,1900-01-01 00:00:00,mary.williams34@gmail.com,Mary,Male,Humana,Williams,true,PAT00982,Deceased,966-768-3129,94526
+26,New York,1900-01-01 00:00:00,sarah.thomas6@yahoo.com,Sarah,Female,Aetna,Thomas,true,PAT00058,Active,787-328-8478,43149
+26,New York,1900-01-01 00:00:00,Unknown,James,Female,BlueCross,Anderson,true,PAT00065,Unknown,464-211-2088,62692
+26,Philadelphia,1900-01-01 00:00:00,jennifer .garcia77@yahoo.com,Jennifer,Female,Aetna,Garcia,true,PAT00553,Active,463-911-9073,49935
+26,Philadelphia,1900-01-01 00:00:00,lisa.davis51@yahoo.com,Lisa,Female,Cigna,Davis,true,PAT00254,Unknown,413-556-2002,73999
+26,Philadelphia,1900-01-01 00:00:00,lisa.moore7@gmail.com,Lisa,Unknown,Humana,Moore,true,PAT00287,Unknown,748-304-5710,41568
+26,Phoenix,1900-01-01 00:00:00,charles.moore5@gmail.com,Charles,Unknown,Humana,Moore,true,PAT00785,Inactive,449-933-5905,32575
+26,San Antonio,1900-01-01 00:00:00,james.johnson80@gmail.com,James,Female,UnitedHealth,Johnson,true,PAT00792,Unknown,712-386-9729,77946
+26,San Antonio,1900-01-01 00:00:00,robert.white24@gmail.com,Robert,Female,Self-Pay,White,true,PAT00782,Inactive,9993266515,40153
+26,Unknown,1900-01-01 00:00:00,jessica.brown85@gmail.com,Jessica,Unknown,Cigna,Brown,true,PAT00728,Active,Unknown,95174
+27,Chicago,1900-01-01 00:00:00,thomas.anderson62@yahoo.com,Thomas,Unknown,Kaiser,Anderson,true,PAT00800,Inactive,239-796-9484,98171
+27,Dallas,1900-01-01 00:00:00,lisa.y14@yahoo.com,Lisa,Unknown,UnitedHealth,No_Name,true,PAT00834,Deceased,424-273-6188,33268
+27,Dallas,1900-01-01 00:00:00,patricia.wilson80@gmail.com,Patricia,Other,BlueCross,Wilson,true,PAT00576,Unknown,558-974-9201,88484
+27,Houston,1900-01-01 00:00:00,jessica.jones28@gmail.com,Jessica,Male,Medicaid,Jones,true,PAT00768,Active,290-118-6688,63934
+27,Houston,1900-01-01 00:00:00,karen.young16@yahoo.com,Karen,Female,UnitedHealth,Young,true,PAT00579,Active,613-868-2118,93985
+27,Los Angeles,1900-01-01 00:00:00,charles.y1@yahoo.com,Charles,Male,Medicare,No_Name,true,PAT00466,Active,779-309-7055,62478
+27,Los Angeles,1900-01-01 00:00:00,david.moore62@gmail.com,David,Unknown,UnitedHealth,Moore,true,PAT00784,Active,948-737-5983,50577
+27,Los Angeles,1900-01-01 00:00:00,john.anderson95@gmail.com,John,Female,Medicaid,Anderson,true,PAT00158,Deceased,855-307-3722,98043
+27,Los Angeles,1900-01-01 00:00:00,linda.smith15@gmail.com,Linda,Female,Aetna,Smith,true,PAT00556,Unknown,693-108-2626,37769
+27,Los Angeles,1900-01-01 00:00:00,mary.jackson52@gmail.com,Mary,Male,Cigna,Jackson,true,PAT00710,Inactive,984-428-8877,58335
+27,Los Angeles,1900-01-01 00:00:00,sarah.garcia45@gmail.com,Sarah,Female,Self-Pay,Garcia,true,PAT00309,Unknown,741-861-5276,39223
+27,Los Angeles,1900-01-01 00:00:00,sarah.y10@gmail.com,Sarah,Unknown,Unknown,No_Name,true,PAT00892,Inactive,397-182-4467,38429
+27,New York,1900-01-01 00:00:00,x.johnson8@gmail.com,No_Name,Unknown,Unknown,Johnson,true,PAT00386,Active,368-174-5188,91350
+27,Philadelphia,1900-01-01 00:00:00,john.jones68@yahoo.com,John,Male,BlueCross,Jones,true,PAT00450,Inactive,447-526-5943,17887
+27,Philadelphia,1900-01-01 00:00:00,mary.wilson48@yahoo.com,Mary,Unknown,Cigna,Wilson,true,PAT00124,Active,746-533-2109,88593
+27,Phoenix,1900-01-01 00:00:00,james .harris37@gmail.com,James,Unknown,Self-Pay,Harris,true,PAT00155,Inactive,5314498624,50524
+27,Phoenix,1900-01-01 00:00:00,jennifer.garcia69@gmail.com,Jennifer,Male,Self-Pay,Garcia,true,PAT00612,Unknown,408-468-8577,84086
+27,Phoenix,1900-01-01 00:00:00,richard.jackson49@yahoo.com,Richard,Unknown,Aetna,Jackson,true,PAT00954,Active,769-906-2315,13633
+27,Phoenix,1900-01-01 00:00:00,thomas.williams18@yahoo.com,Thomas,Unknown,Cigna,Williams,true,PAT00299,Inactive,371-222-8831,35741
+27,San Antonio,1900-01-01 00:00:00,Unknown,Richard,Unknown,BlueCross,Taylor,true,PAT00628,Unknown,Unknown,12743
+27,Unknown,1900-01-01 00:00:00,lisa.johnson42@gmail.com,Lisa,Male,Self-Pay,Johnson,true,PAT00592,Inactive,639-414-7207,751
+27,Unknown,1900-01-01 00:00:00,susan.moore71@gmail.com,Susan,Female,Humana,Moore,true,PAT00888,Active,498-354-7897,80853
+27,Unknown,1900-01-01 00:00:00,susan.y35@gmail.com,Susan,Female,Medicare,No_Name,true,PAT00100,Deceased,522-257-3987,30939
+27,Unknown,1900-01-01 00:00:00,x.williams9@yahoo.com,No_Name,Female,UnitedHealth,Williams,true,PAT00557,Unknown,820-871-3246,94471
+28,Chicago,1900-01-01 00:00:00,Unknown,Linda,Other,Cigna,Anderson,true,PAT00679,Unknown,Unknown,81768
+28,Dallas,1900-01-01 00:00:00,jennifer.allen42@yahoo.com,Jennifer,Other,Medicare,Allen,true,PAT00934,Active,527-421-5667,85736
+28,Dallas,1900-01-01 00:00:00,jessica.y6@gmail.com,Jessica,Unknown,Medicare,No_Name,true,PAT00707,Deceased,8873443880,70848
+28,Dallas,1900-01-01 00:00:00,patricia.allen86@gmail.com,Patricia,Female,BlueCross,Allen,true,PAT00178,Deceased,575-620-8560,52285
+28,Houston,1900-01-01 00:00:00,james.wilson52@gmail.com,James,Male,Medicaid,Wilson,true,PAT00369,Active,954-641-3265,45328
+28,Houston,1900-01-01 00:00:00,james.y44@gmail.com,James,Unknown,Aetna,No_Name,true,PAT00843,Unknown,510-120-2680,36212
+28,Houston,1900-01-01 00:00:00,richard.taylor10@gmail.com,Richard,Unknown,Cigna,Taylor,true,PAT00949,Inactive,539-618-4919,46427
+28,Houston,1900-01-01 00:00:00,richard.wilson17@yahoo.com,Richard,Female,Medicaid,Wilson,true,PAT00001,Unknown,458-984-6238,948
+28,New York,1900-01-01 00:00:00,joseph.wilson74@gmail.com,Joseph,Male,Aetna,Wilson,true,PAT00043,Unknown,8771517834,56854
+28,New York,1900-01-01 00:00:00,patricia.allen59@gmail.com,Patricia,Other,Humana,Allen,true,PAT00192,Active,Unknown,57560
+28,Philadelphia,1900-01-01 00:00:00,james.thompson9@gmail.com,James,Female,UnitedHealth,Thompson,true,PAT00936,Inactive,714-364-1325,76432
+28,Philadelphia,1900-01-01 00:00:00,william.allen45@gmail.com,William,Female,Unknown,Allen,true,PAT00520,Active,500-684-2090,72060
+28,Phoenix,1900-01-01 00:00:00,mary.wilson 30@gmail.com,Mary,Male,BlueCross,Wilson,true,PAT00307,Inactive,921-385-5831,66175
+28,Phoenix,1900-01-01 00:00:00,william.y79@yahoo.com,William,Female,Self-Pay,No_Name,true,PAT00674,Inactive,892-405-2788,18614
+28,San Antonio,1900-01-01 00:00:00,robert.white57@gmail.com,Robert,Male,Unknown,White,true,PAT00073,Active,854-567-4170,20461
+28,Unknown,1900-01-01 00:00:00,patricia.taylor88@gmail.com,Patricia,Male,Medicare,Taylor,true,PAT00246,Unknown,900-146-8922,83063
+29,Chicago,1900-01-01 00:00:00,linda.smith94@gmail.com,Linda,Male,Aetna,Smith,true,PAT00392,Deceased,278-459-2599,73919
+29,Chicago,1900-01-01 00:00:00,patricia.moore65@yahoo.com,Patricia,Male,Aetna,Moore,true,PAT00248,Deceased,562-133-6736,61999
+29,Chicago,1900-01-01 00:00:00,x.taylor3@yahoo.com,No_Name,Other,Cigna,Taylor,true,PAT00261,Unknown,748-929-8220,27635
+29,Dallas,1900-01-01 00:00:00,karen.white64@yahoo.com,Karen,Female,Unknown,White,true,PAT00660,Inactive,736-378-7390,53896
+29,Dallas,1900-01-01 00:00:00,thomas.davis18@gmail.com,Thomas,Unknown,Kaiser,Davis,true,PAT00929,Active,401-655-3418,57172
+29,Los Angeles,1900-01-01 00:00:00,william.moore73@gmail.com,William,Female,Aetna,Moore,true,PAT00900,Active,599-314-5825,19219
+29,New York,1900-01-01 00:00:00,charles.jones68@yahoo.com,Charles,Male,Medicaid,Jones,true,PAT00334,Unknown,726-877-9503,32861
+29,New York,1900-01-01 00:00:00,richard.williams4@yahoo.com,Richard,Male,BlueCross,Williams,true,PAT00008,Active,242-664-6168,671
+29,Philadelphia,1900-01-01 00:00:00,william.brown35@gmail.com,William,Female,Medicaid,Brown,true,PAT00753,Unknown,2697383512,21951
+29,Phoenix,1900-01-01 00:00:00,jessica.johnson19@yahoo.com,Jessica,Female,Medicaid,Johnson,true,PAT00394,Deceased,918-366-2541,47493
+29,Phoenix,1900-01-01 00:00:00,robert.y51@yahoo.com,Robert,Male,BlueCross,No_Name,true,PAT00856,Unknown,356-208-8785,83667
+29,Phoenix,1900-01-01 00:00:00,x.jones12@yahoo.com,No_Name,Unknown,Medicare,Jones,true,PAT00978,Unknown,978-186-6561,96772
+29,San Antonio,1900-01-01 00:00:00,x.johnson88@gmail.com,No_Name,Female,Unknown,Johnson,true,PAT00238,Unknown,645-270-3853,60636
+29,Unknown,1900-01-01 00:00:00,Unknown,Robert,Male,Humana,Williams,true,PAT00943,Unknown,759-828-9842,701
+30,Chicago,1900-01-01 00:00:00,barbara.johnson19@gmail.com,Barbara,Male,Medicaid,Johnson,true,PAT00216,Unknown,652-726-4789,12057
+30,Chicago,1900-01-01 00:00:00,linda.martin38@yahoo.com,Linda,Female,UnitedHealth,Martin,true,PAT00361,Deceased,748-797-9405,594
+30,Chicago,1900-01-01 00:00:00,william.davis53@gmail.com,William,Female,Cigna,Davis,true,PAT00863,Inactive,758-935-2667,15049
+30,Dallas,1900-01-01 00:00:00,jennifer.thompson19@gmail.com,Jennifer,Female,Humana,Thompson,true,PAT00343,Active,851-671-9176,39801
+30,Dallas,1900-01-01 00:00:00,william.taylor41@gmail.com,William,Unknown,Unknown,Taylor,true,PAT00391,Active,851-577-5781,38980
+30,Houston,1900-01-01 00:00:00,charles.thomas46@gmail.com,Charles,Male,Cigna,Thomas,true,PAT00706,Active,941-610-5739,66966
+30,Los Angeles,1900-01-01 00:00:00,jennifer.taylor94@gmail.com,Jennifer,Male,Self-Pay,Taylor,true,PAT00930,Unknown,732-954-3129,24503
+30,Phoenix,1900-01-01 00:00:00,thomas.williams92@yahoo.com,Thomas,Other,Medicaid,Williams,true,PAT00724,Unknown,439-124-3490,65931
+30,Phoenix,1900-01-01 00:00:00,Unknown,Michael,Female,Unknown,Thomas,true,PAT00040,Unknown,586-946-8546,94307
+30,Phoenix,1900-01-01 00:00:00,william.garcia43@gmail.com,William,Other,Self-Pay,Garcia,true,PAT00377,Active,722-716-2876,66331
+30,Phoenix,1900-01-01 00:00:00,william.young47@gmail.com,William,Female,Cigna,Young,true,PAT00812,Unknown,354-105-6667,34738
+31,Chicago,1900-01-01 00:00:00,patricia.wilson62@gmail.com,Patricia,Female,Aetna,Wilson,true,PAT00212,Inactive,778-427-3966,45935
+31,Dallas,1900-01-01 00:00:00,Unknown,Jennifer,Female,Self-Pay,Jones,true,PAT00887,Inactive,686-316-5731,93559
+31,Dallas,1900-01-01 00:00:00,william.thompson50@gmail.com,William,Male,Medicaid,Thompson,true,PAT00139,Active,781-561-6110,92244
+31,Houston,1900-01-01 00:00:00,patricia.garcia28@yahoo.com,Patricia,Male,Medicare,Garcia,true,PAT00970,Deceased,917-444-9855,14286
+31,Houston,1900-01-01 00:00:00,Unknown,Sarah,Male,UnitedHealth,Young,true,PAT00972,Unknown,790-623-4842,10715
+31,Los Angeles,1900-01-01 00:00:00,jennifer.young7@yahoo.com,Jennifer,Female,Medicare,Young,true,PAT00701,Unknown,795-409-8197,16171
+31,Los Angeles,1900-01-01 00:00:00,thomas.anderson78@yahoo.com,Thomas,Female,BlueCross,Anderson,true,PAT00125,Unknown,6804192633,40131
+31,New York,1900-01-01 00:00:00,jessica .williams25@gmail.com,Jessica,Male,Cigna,Williams,true,PAT00272,Active,Unknown,60432
+31,New York,1900-01-01 00:00:00,richard.smith11@yahoo.com,Richard,Male,Medicaid,Smith,true,PAT00363,Deceased,964-614-4391,58122
+31,Phoenix,1900-01-01 00:00:00,richard.thomas54@yahoo.com,Richard,Unknown,Humana,Thomas,true,PAT00661,Inactive,504-578-9592,75802
+31,San Antonio,1900-01-01 00:00:00,linda.y83@yahoo.com,Linda,Female,Aetna,No_Name,true,PAT00515,Active,565-217-3551,37728
+31,Unknown,1900-01-01 00:00:00,Unknown,No_Name,Male,Kaiser,Jackson,true,PAT00260,Unknown,Unknown,19458
+32,Chicago,1900-01-01 00:00:00,karen.miller75@gmail.com,Karen,Unknown,Medicare,Miller,true,PAT00331,Active,231-982-6452,39229
+32,Chicago,1900-01-01 00:00:00,robert.young56@yahoo.com,Robert,Male,Cigna,Young,true,PAT00184,Inactive,606-711-3465,57999
+32,Dallas,1900-01-01 00:00:00,sarah.wilson74@gmail.com,Sarah,Female,Cigna,Wilson,true,PAT00291,Deceased,684-516-3382,90183
+32,Dallas,1900-01-01 00:00:00,thomas .garcia28@gmail.com,Thomas,Female,Aetna,Garcia,true,PAT00684,Active,7115074571,18969
+32,Houston,1900-01-01 00:00:00,david.miller4@gmail.com,David,Unknown,Unknown,Miller,true,PAT00645,Unknown,547-240-6655,89613
+32,Philadelphia,1900-01-01 00:00:00,lisa.anderson75@yahoo.com,Lisa,Unknown,BlueCross,Anderson,true,PAT00135,Active,505-542-5119,78985
+32,Phoenix,1900-01-01 00:00:00,linda.jackson33@yahoo.com,Linda,Male,Humana,Jackson,true,PAT00530,Deceased,739-392-9335,56111
+32,Phoenix,1900-01-01 00:00:00,michael.y5@yahoo.com,Michael,Female,Cigna,No_Name,true,PAT00921,Active,581-214-4432,15712
+32,Phoenix,1900-01-01 00:00:00,x.thomas95@yahoo.com,No_Name,Unknown,Medicare,Thomas,true,PAT00964,Inactive,Unknown,98984
+32,San Antonio,1900-01-01 00:00:00,david.brown30@gmail.com,David,Male,Medicare,Brown,true,PAT00720,Deceased,265-324-4325,25107
+33,Chicago,1900-01-01 00:00:00,patricia.williams10@yahoo.com,Patricia,Unknown,BlueCross,Williams,true,PAT00121,Active,676-932-3810,41275
+33,Dallas,1900-01-01 00:00:00,karen.harris34@gmail.com,Karen,Female,Unknown,Harris,true,PAT00080,Inactive,892-786-9544,10359
+33,Dallas,1900-01-01 00:00:00,patricia.jackson47@yahoo.com,Patricia,Female,BlueCross,Jackson,true,PAT00286,Deceased,964-297-7320,17944
+33,Dallas,1900-01-01 00:00:00,Unknown,No_Name,Male,Aetna,Brown,true,PAT00021,Active,845-761-3234,83137
+33,Houston,1900-01-01 00:00:00,joseph.moore66@gmail.com,Joseph,Other,UnitedHealth,Moore,true,PAT00893,Unknown,211-810-7820,66825
+33,Houston,1900-01-01 00:00:00,karen.jones56@gmail.com,Karen,Female,BlueCross,Jones,true,PAT00156,Unknown,306-880-2687,51912
+33,Houston,1900-01-01 00:00:00,sarah.allen66@gmail.com,Sarah,Male,Self-Pay,Allen,true,PAT00315,Unknown,709-393-7304,55601
+33,Los Angeles,1900-01-01 00:00:00,joseph.martin37@gmail.com,Joseph,Unknown,UnitedHealth,Martin,true,PAT00916,Deceased,598-245-1283,36209
+33,Los Angeles,1900-01-01 00:00:00,joseph.taylor64@yahoo.com,Joseph,Male,Medicare,Taylor,true,PAT00151,Unknown,415-209-9702,48508
+33,Los Angeles,1900-01-01 00:00:00,Unknown,Patricia,Male,Medicare,Thomas,true,PAT00922,Active,313-543-7413,10037
+33,Los Angeles,1900-01-01 00:00:00,x.miller67@yahoo.com,No_Name,Unknown,Medicaid,Miller,true,PAT00018,Inactive,202-781-4869,79233
+33,New York,1900-01-01 00:00:00,william.jones74@gmail.com,William,Unknown,Cigna,Jones,true,PAT00840,Inactive,895-759-3174,75374
+33,Philadelphia,1900-01-01 00:00:00,john.wilson61@yahoo.com,John,Unknown,Unknown,Wilson,true,PAT00074,Inactive,5513219138,83325
+33,Philadelphia,1900-01-01 00:00:00,thomas.white96@gmail.com,Thomas,Male,UnitedHealth,White,true,PAT00197,Unknown,799-238-2059,91103
+33,Phoenix,1900-01-01 00:00:00,karen.johnson96@gmail.com,Karen,Male,Humana,Johnson,true,PAT00745,Active,678-764-7223,18422
+33,Phoenix,1900-01-01 00:00:00,richard.young3@gmail.com,Richard,Unknown,Medicare,Young,true,PAT00198,Active,338-120-1720,97530
+33,San Antonio,1900-01-01 00:00:00,william.martin42@yahoo.com,William,Male,Kaiser,Martin,true,PAT00492,Unknown,941-820-9246,42293
+33,Unknown,1900-01-01 00:00:00,jennifer.jones5@yahoo.com,Jennifer,Other,Cigna,Jones,true,PAT00698,Inactive,907-928-5106,10582
+34,Chicago,1900-01-01 00:00:00,david.wilson8@gmail.com,David,Female,Humana,Wilson,true,PAT00505,Inactive,821-369-9816,92296
+34,Chicago,1900-01-01 00:00:00,lisa.young27@yahoo.com,Lisa,Male,Unknown,Young,true,PAT00395,Inactive,738-908-3529,97871
+34,Dallas,1900-01-01 00:00:00,robert.wilson7@gmail.com,Robert,Unknown,Unknown,Wilson,true,PAT00302,Deceased,569-511-7110,50030
+34,Dallas,1900-01-01 00:00:00,william.wilson45@gmail.com,William,Male,BlueCross,Wilson,true,PAT00677,Unknown,9923461892,42192
+34,Dallas,1900-01-01 00:00:00,x.jones 97@yahoo.com,No_Name,Female,Kaiser,Jones,true,PAT00408,Active,995-945-8089,57175
+34,Dallas,1900-01-01 00:00:00,x.martin69@gmail.com,No_Name,Other,BlueCross,Martin,true,PAT00321,Unknown,666-456-7607,34562
+34,Los Angeles,1900-01-01 00:00:00,james.thompson4@gmail.com,James,Male,Self-Pay,Thompson,true,PAT00867,Unknown,382-807-5445,33170
+34,New York,1900-01-01 00:00:00,james.miller92@gmail.com,James,Female,Humana,Miller,true,PAT00727,Deceased,946-946-9717,98920
+34,New York,1900-01-01 00:00:00,thomas.davis44@gmail.com,Thomas,Male,Unknown,Davis,true,PAT00527,Deceased,977-135-5766,34428
+34,New York,1900-01-01 00:00:00,x.harris 20@gmail.com,No_Name,Female,Kaiser,Harris,true,PAT00825,Inactive,712-687-1833,71491
+34,Philadelphia,1900-01-01 00:00:00,linda.williams52@yahoo.com,Linda,Female,Kaiser,Williams,true,PAT00683,Unknown,860-938-9923,37539
+34,Philadelphia,1900-01-01 00:00:00,mary.garcia57@yahoo.com,Mary,Other,Medicaid,Garcia,true,PAT00183,Unknown,581-236-7697,30504
+34,Philadelphia,1900-01-01 00:00:00,Unknown,Susan,Female,Kaiser,Young,true,PAT00852,Active,817-472-3260,12873
+34,Philadelphia,1900-01-01 00:00:00,x.thompson13@gmail.com,No_Name,Male,BlueCross,Thompson,true,PAT00326,Inactive,825-411-8671,33743
+34,San Antonio,1900-01-01 00:00:00,james.brown93@yahoo.com,James,Female,Medicare,Brown,true,PAT00555,Active,420-239-5076,27367
+34,San Antonio,1900-01-01 00:00:00,mary.jones 11@gmail.com,Mary,Female,Humana,Jones,true,PAT00699,Inactive,890-151-9869,12822
+34,Unknown,1900-01-01 00:00:00,jessica.young77@yahoo.com,Jessica,Female,Kaiser,Young,true,PAT00899,Unknown,441-806-9701,71027
+34,Unknown,1900-01-01 00:00:00,Unknown,David,Female,Aetna,White,true,PAT00016,Active,873-595-7793,64706
+35,Chicago,1900-01-01 00:00:00,sarah.allen70@gmail.com,Sarah,Unknown,Medicaid,Allen,true,PAT00913,Unknown,918-908-5896,43288
+35,Dallas,1900-01-01 00:00:00,jennifer .y95@yahoo.com,Jennifer,Female,Aetna,No_Name,true,PAT00732,Active,991-169-5421,83413
+35,Dallas,1900-01-01 00:00:00,jessica.williams68@yahoo.com,Jessica,Unknown,UnitedHealth,Williams,true,PAT00034,Inactive,401-239-9185,74980
+35,Dallas,1900-01-01 00:00:00,john.jackson8@gmail.com,John,Unknown,Humana,Jackson,true,PAT00789,Inactive,885-184-9263,55972
+35,Dallas,1900-01-01 00:00:00,william.garcia70@yahoo.com,William,Female,Unknown,Garcia,true,PAT00031,Inactive,842-939-8711,14824
+35,Houston,1900-01-01 00:00:00,charles.jackson12@gmail.com,Charles,Unknown,BlueCross,Jackson,true,PAT00336,Inactive,738-968-8741,60652
+35,Houston,1900-01-01 00:00:00,lisa.thomas92@yahoo.com,Lisa,Male,Cigna,Thomas,true,PAT00207,Inactive,399-105-3479,67518
+35,Houston,1900-01-01 00:00:00,robert.thompson98@yahoo.com,Robert,Female,Medicaid,Thompson,true,PAT00362,Inactive,940-103-4836,14056
+35,Los Angeles,1900-01-01 00:00:00,linda.allen10@yahoo.com,Linda,Female,Medicaid,Allen,true,PAT00630,Active,856-527-8929,50395
+35,New York,1900-01-01 00:00:00,robert.thompson53@gmail.com,Robert,Male,Humana,Thompson,true,PAT00269,Unknown,Unknown,70907
+35,Philadelphia,1900-01-01 00:00:00,mary.martin40@gmail.com,Mary,Unknown,Unknown,Martin,true,PAT00890,Unknown,255-463-2601,98677
+35,Phoenix,1900-01-01 00:00:00,barbara.brown70@yahoo.com,Barbara,Female,BlueCross,Brown,true,PAT00931,Inactive,586-212-8729,32362
+35,Phoenix,1900-01-01 00:00:00,richard.wilson2@gmail.com,Richard,Male,Medicaid,Wilson,true,PAT00864,Inactive,971-671-3383,47371
+35,Phoenix,1900-01-01 00:00:00,thomas.harris14@gmail.com,Thomas,Other,Cigna,Harris,true,PAT00968,Inactive,281-762-6829,83446
+35,San Antonio,1900-01-01 00:00:00,jessica.wilson99@gmail.com,Jessica,Unknown,Cigna,Wilson,true,PAT00586,Active,271-162-1802,95883
+35,San Antonio,1900-01-01 00:00:00,karen.young76@gmail.com,Karen,Female,Aetna,Young,true,PAT00994,Active,2651434183,13704
+35,Unknown,1900-01-01 00:00:00,james.harris13@gmail.com,James,Other,Self-Pay,Harris,true,PAT00693,Unknown,331-397-5676,78574
+35,Unknown,1900-01-01 00:00:00,sarah.taylor84@gmail.com,Sarah,Other,Self-Pay,Taylor,true,PAT00560,Active,Unknown,49348
+36,Chicago,1900-01-01 00:00:00,linda.thomas7@gmail.com,Linda,Unknown,Aetna,Thomas,true,PAT00237,Active,959-611-8614,39756
+36,Dallas,1900-01-01 00:00:00,james.young13@yahoo.com,James,Male,Medicare,Young,true,PAT00257,Unknown,5796293123,49132
+36,Dallas,1900-01-01 00:00:00,michael.garcia68@yahoo.com,Michael,Unknown,BlueCross,Garcia,true,PAT00296,Unknown,587-893-7536,31421
+36,Houston,1900-01-01 00:00:00,patricia.anderson83@gmail.com,Patricia,Unknown,Aetna,Anderson,true,PAT00313,Inactive,539-852-4668,94036
+36,Houston,1900-01-01 00:00:00,x.y13@yahoo.com,No_Name,Female,Humana,No_Name,true,PAT00432,Active,281-826-8117,23767
+36,Los Angeles,1900-01-01 00:00:00,Unknown,No_Name,Female,Aetna,Wilson,true,PAT00752,Unknown,832-506-7863,44929
+36,Philadelphia,1900-01-01 00:00:00,susan.miller48@gmail.com,Susan,Male,Humana,Miller,true,PAT00330,Unknown,923-780-2354,68882
+36,Philadelphia,1900-01-01 00:00:00,x.jones29@gmail.com,No_Name,Male,UnitedHealth,Jones,true,PAT00841,Active,802-747-2703,44085
+36,Phoenix,1900-01-01 00:00:00,michael.williams8@yahoo.com,Michael,Unknown,Aetna,Williams,true,PAT00702,Active,312-774-5457,25189
+36,San Antonio,1900-01-01 00:00:00,joseph.martin28@gmail.com,Joseph,Unknown,Aetna,Martin,true,PAT00098,Unknown,244-702-1710,68450
+36,San Antonio,1900-01-01 00:00:00,sarah.harris47@gmail.com,Sarah,Male,UnitedHealth,Harris,true,PAT00283,Inactive,766-356-3933,15995
+37,Chicago,1900-01-01 00:00:00,barbara.jones53@yahoo.com,Barbara,Male,Aetna,Jones,true,PAT00821,Inactive,262-191-4416,69977
+37,Chicago,1900-01-01 00:00:00,david.allen63@gmail.com,David,Male,UnitedHealth,Allen,true,PAT00445,Inactive,213-262-5677,96308
+37,Chicago,1900-01-01 00:00:00,james.garcia5@gmail.com,James,Female,Medicare,Garcia,true,PAT00285,Unknown,752-139-3436,62195
+37,Chicago,1900-01-01 00:00:00,susan.garcia10@yahoo.com,Susan,Male,Aetna,Garcia,true,PAT00901,Unknown,377-337-3427,85415
+37,Chicago,1900-01-01 00:00:00,Unknown,Thomas,Female,BlueCross,Garcia,true,PAT00423,Unknown,401-612-6331,86140
+37,Dallas,1900-01-01 00:00:00,john.y66@gmail.com,John,Unknown,Medicaid,No_Name,true,PAT00552,Unknown,673-386-6033,15753
+37,Dallas,1900-01-01 00:00:00,richard.jackson30@gmail.com,Richard,Female,Humana,Jackson,true,PAT00657,Active,287-235-2043,66383
+37,Houston,1900-01-01 00:00:00,david.anderson37@yahoo.com,David,Female,Humana,Anderson,true,PAT00614,Inactive,405-675-3083,54515
+37,Los Angeles,1900-01-01 00:00:00,barbara.thomas36@yahoo.com,Barbara,Other,Self-Pay,Thomas,true,PAT00806,Unknown,470-198-7234,75929
+37,New York,1900-01-01 00:00:00,patricia.wilson93@yahoo.com,Patricia,Other,Kaiser,Wilson,true,PAT00608,Inactive,762-137-8651,78217
+37,New York,1900-01-01 00:00:00,x.davis25@gmail.com,No_Name,Other,BlueCross,Davis,true,PAT00130,Inactive,733-283-7265,90343
+37,Philadelphia,1900-01-01 00:00:00,jennifer.thompson30@yahoo.com,Jennifer,Unknown,Cigna,Thompson,true,PAT00544,Unknown,641-921-8884,62960
+37,Philadelphia,1900-01-01 00:00:00,mary.y57@gmail.com,Mary,Other,UnitedHealth,No_Name,true,PAT00911,Unknown,7925538998,49343
+37,Philadelphia,1900-01-01 00:00:00,susan.smith38@gmail.com,Susan,Unknown,Aetna,Smith,true,PAT00240,Unknown,Unknown,47689
+37,Phoenix,1900-01-01 00:00:00,mary.jackson45@yahoo.com,Mary,Unknown,Unknown,Jackson,true,PAT00778,Inactive,779-650-9109,81726
+37,Phoenix,1900-01-01 00:00:00,Unknown,Charles,Male,Humana,Jones,true,PAT00085,Inactive,224-114-8553,56020
+37,San Antonio,1900-01-01 00:00:00,james.johnson41@gmail.com,James,Female,Medicaid,Johnson,true,PAT00243,Active,865-189-8455,84676
+37,San Antonio,1900-01-01 00:00:00,linda.wilson79@yahoo.com,Linda,Other,Aetna,Wilson,true,PAT00191,Deceased,376-115-8100,67093
+37,Unknown,1900-01-01 00:00:00,jessica.martin75@gmail.com,Jessica,Male,Kaiser,Martin,true,PAT00295,Active,2446778543,71172
+38,Chicago,1900-01-01 00:00:00,michael.thompson33@gmail.com,Michael,Male,Kaiser,Thompson,true,PAT00961,Active,348-690-1662,82669
+38,Chicago,1900-01-01 00:00:00,patricia.anderson22@yahoo.com,Patricia,Female,Unknown,Anderson,true,PAT00815,Unknown,994-947-9896,50918
+38,Dallas,1900-01-01 00:00:00,karen.smith43@gmail.com,Karen,Male,UnitedHealth,Smith,true,PAT00103,Deceased,946-116-9673,84129
+38,Dallas,1900-01-01 00:00:00,linda.thompson77@yahoo.com,Linda,Male,BlueCross,Thompson,true,PAT00403,Active,728-935-2596,93393
+38,Dallas,1900-01-01 00:00:00,sarah.thompson 50@yahoo.com,Sarah,Unknown,Humana,Thompson,true,PAT00300,Deceased,317-440-8245,66024
+38,Dallas,1900-01-01 00:00:00,thomas.martin72@yahoo.com,Thomas,Unknown,Kaiser,Martin,true,PAT00280,Active,775-671-2591,56415
+38,Los Angeles,1900-01-01 00:00:00,charles.white87@gmail.com,Charles,Male,Unknown,White,true,PAT00470,Inactive,813-515-6616,83869
+38,Los Angeles,1900-01-01 00:00:00,jessica.harris72@yahoo.com,Jessica,Unknown,Aetna,Harris,true,PAT00952,Inactive,5328311586,55894
+38,New York,1900-01-01 00:00:00,lisa.thomas59@yahoo.com,Lisa,Female,Humana,Thomas,true,PAT00613,Inactive,392-538-9035,19356
+38,New York,1900-01-01 00:00:00,patricia.anderson50@gmail.com,Patricia,Male,Medicare,Anderson,true,PAT00842,Inactive,6178142199,73180
+38,Phoenix,1900-01-01 00:00:00,karen.young72@yahoo.com,Karen,Female,Unknown,Young,true,PAT00827,Unknown,813-179-8457,51301
+38,Phoenix,1900-01-01 00:00:00,susan.thompson42@yahoo.com,Susan,Unknown,Medicare,Thompson,true,PAT00554,Unknown,995-277-8674,87862
+38,Unknown,1900-01-01 00:00:00,karen.jones10@yahoo.com,Karen,Male,Medicare,Jones,true,PAT00805,Unknown,396-429-1892,28606
+39,Chicago,1900-01-01 00:00:00,richard.harris41@gmail.com,Richard,Male,Unknown,Harris,true,PAT00738,Unknown,445-758-4715,96771
+39,Chicago,1900-01-01 00:00:00,robert.jackson57@gmail.com,Robert,Male,UnitedHealth,Jackson,true,PAT00308,Active,6195612220,84700
+39,Dallas,1900-01-01 00:00:00,charles.wilson98@gmail.com,Charles,Female,Unknown,Wilson,true,PAT00794,Inactive,645-925-7925,27974
+39,Dallas,1900-01-01 00:00:00,jessica.allen 79@gmail.com,Jessica,Unknown,Unknown,Allen,true,PAT00965,Unknown,863-905-1774,42871
+39,Dallas,1900-01-01 00:00:00,jessica.moore76@gmail.com,Jessica,Female,UnitedHealth,Moore,true,PAT00713,Unknown,354-213-6646,35441
+39,Dallas,1900-01-01 00:00:00,joseph.thompson82@gmail.com,Joseph,Other,BlueCross,Thompson,true,PAT00543,Active,560-614-4676,73322
+39,Houston,1900-01-01 00:00:00,david.thomas19@gmail.com,David,Male,Cigna,Thomas,true,PAT00071,Active,311-604-5716,99492
+39,Houston,1900-01-01 00:00:00,robert.thompson41@gmail.com,Robert,Unknown,Aetna,Thompson,true,PAT00953,Active,269-890-8160,82605
+39,Houston,1900-01-01 00:00:00,susan.allen35@yahoo.com,Susan,Unknown,Medicaid,Allen,true,PAT00504,Inactive,351-245-6473,75185
+39,Los Angeles,1900-01-01 00:00:00,joseph.smith48@gmail.com,Joseph,Female,UnitedHealth,Smith,true,PAT00776,Active,863-994-5273,73105
+39,Los Angeles,1900-01-01 00:00:00,lisa.harris89@gmail.com,Lisa,Male,Medicaid,Harris,true,PAT00436,Deceased,824-911-4655,33385
+39,Los Angeles,1900-01-01 00:00:00,Unknown,Karen,Unknown,Aetna,Garcia,true,PAT00517,Active,647-527-6867,16849
+39,New York,1900-01-01 00:00:00,charles.davis3@gmail.com,Charles,Unknown,Kaiser,Davis,true,PAT00050,Inactive,841-270-8527,40441
+39,New York,1900-01-01 00:00:00,sarah.williams69@gmail.com,Sarah,Unknown,UnitedHealth,Williams,true,PAT00493,Unknown,Unknown,33199
+39,Philadelphia,1900-01-01 00:00:00,jessica.anderson48@gmail.com,Jessica,Male,Self-Pay,Anderson,true,PAT00804,Deceased,225-943-6975,11883
+39,Philadelphia,1900-01-01 00:00:00,michael.brown33@gmail.com,Michael,Other,Humana,Brown,true,PAT00962,Deceased,255-898-5038,34678
+39,Phoenix,1900-01-01 00:00:00,jessica.thompson34@yahoo.com,Jessica,Unknown,Aetna,Thompson,true,PAT00409,Unknown,255-279-6626,27856
+39,Phoenix,1900-01-01 00:00:00,linda.williams5@gmail.com,Linda,Female,Aetna,Williams,true,PAT00757,Unknown,753-852-1756,23750
+39,San Antonio,1900-01-01 00:00:00,joseph.jackson70@gmail.com,Joseph,Unknown,Kaiser,Jackson,true,PAT00161,Active,3518987007,49066
+39,San Antonio,1900-01-01 00:00:00,susan.jones42@yahoo.com,Susan,Female,Kaiser,Jones,true,PAT00550,Deceased,2649958941,30584
+39,Unknown,1900-01-01 00:00:00,barbara.wilson72@gmail.com,Barbara,Female,Kaiser,Wilson,true,PAT00306,Active,762-650-9167,19142
+40,Chicago,1900-01-01 00:00:00,barbara.jackson95@gmail.com,Barbara,Other,Aetna,Jackson,true,PAT00831,Unknown,240-714-1349,19366
+40,Chicago,1900-01-01 00:00:00,jennifer.wilson84@gmail.com,Jennifer,Female,Kaiser,Wilson,true,PAT00453,Active,4057241183,41456
+40,Dallas,1900-01-01 00:00:00,james.y47@yahoo.com,James,Male,Medicare,No_Name,true,PAT00484,Deceased,621-247-5013,71967
+40,Dallas,1900-01-01 00:00:00,william.brown17@gmail.com,William,Male,Cigna,Brown,true,PAT00497,Active,385-248-2618,97576
+40,Los Angeles,1900-01-01 00:00:00,patricia.allen20@yahoo.com,Patricia,Female,UnitedHealth,Allen,true,PAT00035,Inactive,912-917-2836,41478
+40,Los Angeles,1900-01-01 00:00:00,thomas.smith54@yahoo.com,Thomas,Other,Unknown,Smith,true,PAT00337,Active,281-645-6201,69444
+40,New York,1900-01-01 00:00:00,thomas.moore 98@gmail.com,Thomas,Male,Aetna,Moore,true,PAT00364,Active,545-422-8845,13759
+40,Phoenix,1900-01-01 00:00:00,lisa.harris51@gmail.com,Lisa,Unknown,Humana,Harris,true,PAT00919,Deceased,931-195-4600,49551
+40,Unknown,1900-01-01 00:00:00,linda.wilson39@gmail.com,Linda,Male,Kaiser,Wilson,true,PAT00264,Unknown,934-432-2512,10650
+40,Unknown,1900-01-01 00:00:00,susan.johnson27@yahoo.com,Susan,Female,Self-Pay,Johnson,true,PAT00039,Active,328-785-5935,53309
+41,Chicago,1900-01-01 00:00:00,karen.wilson44@gmail.com,Karen,Female,Medicare,Wilson,true,PAT00664,Inactive,279-735-7927,27850
+41,Houston,1900-01-01 00:00:00,james.wilson59@gmail.com,James,Male,Humana,Wilson,true,PAT00397,Deceased,317-331-9939,80865
+41,Houston,1900-01-01 00:00:00,michael.martin32@yahoo.com,Michael,Other,Self-Pay,Martin,true,PAT00356,Unknown,553-312-4037,16730
+41,Houston,1900-01-01 00:00:00,robert.miller22@yahoo.com,Robert,Female,Medicaid,Miller,true,PAT00787,Active,957-938-6964,43848
+41,Los Angeles,1900-01-01 00:00:00,Unknown,Susan,Unknown,Humana,Martin,true,PAT00407,Active,255-802-9706,14843
+41,New York,1900-01-01 00:00:00,Unknown,William,Female,Aetna,Moore,true,PAT00939,Unknown,5924928660,17852
+41,Philadelphia,1900-01-01 00:00:00,x.miller31@gmail.com,No_Name,Unknown,BlueCross,Miller,true,PAT00542,Active,638-147-3012,93778
+41,Phoenix,1900-01-01 00:00:00,jessica.thomas76@gmail.com,Jessica,Female,Aetna,Thomas,true,PAT00740,Unknown,438-440-4643,67254
+41,Phoenix,1900-01-01 00:00:00,Unknown,Sarah,Other,Self-Pay,No_Name,true,PAT00479,Inactive,514-336-8234,70101
+41,San Antonio,1900-01-01 00:00:00,james.thomas24@gmail.com,James,Female,Cigna,Thomas,true,PAT00002,Unknown,946-646-7092,787
+42,Chicago,1900-01-01 00:00:00,karen.davis91@gmail.com,Karen,Male,BlueCross,Davis,true,PAT00154,Inactive,615-962-8410,17743
+42,Dallas,1900-01-01 00:00:00,jessica.anderson60@yahoo.com,Jessica,Female,Cigna,Anderson,true,PAT00005,Inactive,552-784-4005,17924
+42,Dallas,1900-01-01 00:00:00,linda.white20@yahoo.com,Linda,Male,Kaiser,White,true,PAT00084,Unknown,461-483-9218,74098
+42,Dallas,1900-01-01 00:00:00,x.anderson75@yahoo.com,No_Name,Female,UnitedHealth,Anderson,true,PAT00866,Active,477-232-1542,82071
+42,Dallas,1900-01-01 00:00:00,x.jones40@yahoo.com,No_Name,Male,Aetna,Jones,true,PAT00538,Inactive,595-980-7733,45406
+42,Houston,1900-01-01 00:00:00,charles.taylor55@gmail.com,Charles,Female,Self-Pay,Taylor,true,PAT00700,Inactive,995-121-2731,27735
+42,Houston,1900-01-01 00:00:00,michael.smith26@gmail.com,Michael,Other,Kaiser,Smith,true,PAT00153,Deceased,9167684185,68683
+42,Houston,1900-01-01 00:00:00,william.y53@gmail.com,William,Female,BlueCross,No_Name,true,PAT00798,Inactive,431-718-3546,66707
+42,New York,1900-01-01 00:00:00,karen.thomas65@yahoo.com,Karen,Male,UnitedHealth,Thomas,true,PAT00932,Inactive,633-868-4754,31500
+42,San Antonio,1900-01-01 00:00:00,charles .wilson50@gmail.com,Charles,Male,Medicare,Wilson,true,PAT00643,Active,839-129-2024,23090
+42,San Antonio,1900-01-01 00:00:00,robert.allen94@yahoo.com,Robert,Female,Kaiser,Allen,true,PAT00788,Inactive,827-148-9507,44550
+42,San Antonio,1900-01-01 00:00:00,x.martin73@gmail.com,No_Name,Female,BlueCross,Martin,true,PAT00114,Unknown,478-653-6761,21739
+43,Chicago,1900-01-01 00:00:00,karen.davis4@yahoo.com,Karen,Female,Unknown,Davis,true,PAT00625,Unknown,341-136-2881,64488
+43,Dallas,1900-01-01 00:00:00,lisa.white88@gmail.com,Lisa,Male,Medicaid,White,true,PAT00270,Inactive,630-394-2058,33059
+43,Dallas,1900-01-01 00:00:00,mary.smith 91@gmail.com,Mary,Unknown,UnitedHealth,Smith,true,PAT00848,Inactive,565-893-4570,89071
+43,Houston,1900-01-01 00:00:00,x.martin21@gmail.com,No_Name,Female,Humana,Martin,true,PAT00860,Unknown,Unknown,43493
+43,Los Angeles,1900-01-01 00:00:00,robert.taylor68@gmail.com,Robert,Other,Kaiser,Taylor,true,PAT00274,Inactive,699-703-4941,67173
+43,Los Angeles,1900-01-01 00:00:00,thomas.white73@yahoo.com,Thomas,Male,Aetna,White,true,PAT00945,Inactive,533-539-4111,74520
+43,New York,1900-01-01 00:00:00,barbara.white45@gmail.com,Barbara,Male,Unknown,White,true,PAT00325,Active,680-151-1488,73507
+43,New York,1900-01-01 00:00:00,jennifer.jackson30@yahoo.com,Jennifer,Unknown,Humana,Jackson,true,PAT00429,Active,497-388-3675,15215
+43,New York,1900-01-01 00:00:00,karen.thomas43@gmail.com,Karen,Other,Self-Pay,Thomas,true,PAT00747,Active,560-293-5934,40443
+43,New York,1900-01-01 00:00:00,lisa.y67@gmail.com,Lisa,Female,Humana,No_Name,true,PAT00793,Unknown,414-490-2460,66682
+43,New York,1900-01-01 00:00:00,michael.jackson41@gmail.com,Michael,Female,BlueCross,Jackson,true,PAT00988,Active,633-938-6963,56866
+43,New York,1900-01-01 00:00:00,michael.wilson63@gmail.com,Michael,Female,Kaiser,Wilson,true,PAT00526,Deceased,990-716-7819,35163
+43,Philadelphia,1900-01-01 00:00:00,x.garcia43@gmail.com,No_Name,Female,BlueCross,Garcia,true,PAT00365,Unknown,435-877-7341,60397
+43,Phoenix,1900-01-01 00:00:00,jessica.williams93@gmail.com,Jessica,Unknown,Medicaid,Williams,true,PAT00051,Active,680-975-1054,89878
+43,San Antonio,1900-01-01 00:00:00,sarah.jones93@yahoo.com,Sarah,Unknown,Medicare,Jones,true,PAT00215,Inactive,680-566-4596,96159
+43,San Antonio,1900-01-01 00:00:00,Unknown,Karen,Female,UnitedHealth,Thompson,true,PAT00426,Active,475-660-5089,28271
+43,San Antonio,1900-01-01 00:00:00,x.miller24@yahoo.com,No_Name,Female,UnitedHealth,Miller,true,PAT00924,Unknown,407-922-2220,89252
+44,Dallas,1900-01-01 00:00:00,jessica.white76@gmail.com,Jessica,Unknown,Humana,White,true,PAT00774,Active,844-914-7363,42092
+44,Dallas,1900-01-01 00:00:00,susan.garcia80@gmail.com,Susan,Male,Humana,Garcia,true,PAT00985,Active,476-234-4010,67449
+44,Dallas,1900-01-01 00:00:00,Unknown,William,Unknown,Kaiser,Harris,true,PAT00822,Unknown,479-350-7707,32663
+44,Dallas,1900-01-01 00:00:00,x.miller1@yahoo.com,No_Name,Unknown,Medicare,Miller,true,PAT00767,Active,494-234-2092,205
+44,Los Angeles,1900-01-01 00:00:00,michael.young16@yahoo.com,Michael,Male,Medicare,Young,true,PAT00310,Inactive,960-583-4428,50444
+44,New York,1900-01-01 00:00:00,susan.thomas45@gmail.com,Susan,Female,Aetna,Thomas,true,PAT00857,Inactive,662-691-8681,39710
+44,Philadelphia,1900-01-01 00:00:00,karen.martin99@gmail.com,Karen,Female,Cigna,Martin,true,PAT00759,Active,Unknown,35010
+44,Philadelphia,1900-01-01 00:00:00,Unknown,James,Female,Humana,Taylor,true,PAT00476,Inactive,226-141-8256,22471
+44,Philadelphia,1900-01-01 00:00:00,Unknown,John,Other,Cigna,Brown,true,PAT00371,Inactive,521-523-9572,10055
+44,San Antonio,1900-01-01 00:00:00,susan.thomas 28@gmail.com,Susan,Female,Medicare,Thomas,true,PAT00346,Deceased,368-666-2861,13447
+44,San Antonio,1900-01-01 00:00:00,Unknown,Jennifer,Female,Humana,Brown,true,PAT00459,Unknown,819-466-8356,58456
+44,San Antonio,1900-01-01 00:00:00,x.brown65@gmail.com,No_Name,Male,Aetna,Brown,true,PAT00046,Deceased,718-762-5959,19712
+44,Unknown,1900-01-01 00:00:00,james.garcia17@gmail.com,James,Female,BlueCross,Garcia,true,PAT00696,Active,761-587-3703,65702
+45,Chicago,1900-01-01 00:00:00,jessica.harris48@gmail.com,Jessica,Male,Medicare,Harris,true,PAT00731,Inactive,922-216-2546,25423
+45,Chicago,1900-01-01 00:00:00,lisa.williams63@yahoo.com,Lisa,Unknown,Kaiser,Williams,true,PAT00589,Unknown,7823334558,25381
+45,Dallas,1900-01-01 00:00:00,patricia .wilson37@yahoo.com,Patricia,Female,Humana,Wilson,true,PAT00352,Unknown,268-323-2232,83601
+45,Houston,1900-01-01 00:00:00,jessica.brown55@yahoo.com,Jessica,Other,Aetna,Brown,true,PAT00282,Inactive,245-539-9763,71279
+45,Houston,1900-01-01 00:00:00,karen.anderson5@gmail.com,Karen,Female,Humana,Anderson,true,PAT00413,Unknown,296-755-3794,41689
+45,Houston,1900-01-01 00:00:00,patricia.taylor65@gmail.com,Patricia,Male,Cigna,Taylor,true,PAT00790,Unknown,370-636-6391,251
+45,Houston,1900-01-01 00:00:00,x.brown72@gmail.com,No_Name,Unknown,BlueCross,Brown,true,PAT00997,Active,671-348-4224,53702
+45,New York,1900-01-01 00:00:00,susan.harris42@yahoo.com,Susan,Unknown,Aetna,Harris,true,PAT00242,Active,470-194-1008,10644
+45,Philadelphia,1900-01-01 00:00:00,mary.harris30@gmail.com,Mary,Unknown,BlueCross,Harris,true,PAT00390,Inactive,743-197-8436,36473
+45,Philadelphia,1900-01-01 00:00:00,Unknown,Charles,Unknown,Kaiser,White,true,PAT00267,Unknown,478-134-6823,21213
+45,Phoenix,1900-01-01 00:00:00,linda.johnson84@yahoo.com,Linda,Female,BlueCross,Johnson,true,PAT00182,Active,439-853-3928,31845
+46,Chicago,1900-01-01 00:00:00,karen.williams49@yahoo.com,Karen,Female,Medicaid,Williams,true,PAT00676,Active,799-604-6271,85873
+46,Dallas,1900-01-01 00:00:00,jessica.brown64@gmail.com,Jessica,Other,UnitedHealth,Brown,true,PAT00350,Unknown,990-808-6200,33600
+46,Dallas,1900-01-01 00:00:00,Unknown,Karen,Unknown,Humana,Moore,true,PAT00349,Inactive,912-805-2067,14588
+46,Houston,1900-01-01 00:00:00,james.y54@yahoo.com,James,Other,BlueCross,No_Name,true,PAT00446,Unknown,893-263-6086,93704
+46,New York,1900-01-01 00:00:00,david.young38@yahoo.com,David,Female,UnitedHealth,Young,true,PAT00886,Inactive,246-183-6371,45430
+46,New York,1900-01-01 00:00:00,patricia .thomas40@gmail.com,Patricia,Other,Cigna,Thomas,true,PAT00462,Active,8434979402,45401
+46,Philadelphia,1900-01-01 00:00:00,john.taylor86@gmail.com,John,Male,Humana,Taylor,true,PAT00303,Inactive,206-148-2742,425
+46,Phoenix,1900-01-01 00:00:00,john.jones8@gmail.com,John,Female,UnitedHealth,Jones,true,PAT00955,Unknown,278-666-2175,94692
+46,Phoenix,1900-01-01 00:00:00,thomas.smith9@gmail.com,Thomas,Male,Humana,Smith,true,PAT00591,Inactive,860-916-6128,39293
+46,Phoenix,1900-01-01 00:00:00,Unknown,Barbara,Unknown,Unknown,Williams,true,PAT00188,Active,317-252-6680,44532
+46,San Antonio,1900-01-01 00:00:00,michael.miller96@gmail.com,Michael,Male,Self-Pay,Miller,true,PAT00991,Active,842-245-2428,17323
+46,San Antonio,1900-01-01 00:00:00,michael.williams33@gmail.com,Michael,Unknown,Medicare,Williams,true,PAT00148,Active,367-117-4266,70293
+46,Unknown,1900-01-01 00:00:00,james.garcia98@yahoo.com,James,Male,Medicare,Garcia,true,PAT00452,Unknown,585-590-6930,49970
+46,Unknown,1900-01-01 00:00:00,michael.davis8@yahoo.com,Michael,Female,Unknown,Davis,true,PAT00567,Active,904-617-7221,60042
+47,Chicago,1900-01-01 00:00:00,thomas.williams53@gmail.com,Thomas,Female,Cigna,Williams,true,PAT00496,Active,970-694-2232,50153
+47,Chicago,1900-01-01 00:00:00,x.brown60@gmail.com,No_Name,Female,Aetna,Brown,true,PAT00711,Unknown,Unknown,76182
+47,Chicago,1900-01-01 00:00:00,x.young72@gmail.com,No_Name,Unknown,Self-Pay,Young,true,PAT00234,Unknown,746-319-7860,39626
+47,Dallas,1900-01-01 00:00:00,barbara.harris30@gmail.com,Barbara,Unknown,UnitedHealth,Harris,true,PAT00063,Deceased,895-161-4502,75563
+47,Dallas,1900-01-01 00:00:00,patricia .miller34@gmail.com,Patricia,Male,Cigna,Miller,true,PAT00995,Active,220-627-1099,43172
+47,Houston,1900-01-01 00:00:00,joseph.thompson7@gmail.com,Joseph,Unknown,Kaiser,Thompson,true,PAT00112,Unknown,708-616-5104,61472
+47,New York,1900-01-01 00:00:00,robert.miller82@yahoo.com,Robert,Unknown,Self-Pay,Miller,true,PAT00298,Active,855-720-8807,78686
+47,Philadelphia,1900-01-01 00:00:00,john.brown50@yahoo.com,John,Unknown,Cigna,Brown,true,PAT00138,Inactive,508-144-4924,25652
+47,Philadelphia,1900-01-01 00:00:00,joseph.davis94@gmail.com,Joseph,Male,Self-Pay,Davis,true,PAT00177,Unknown,697-262-7735,69434
+47,Phoenix,1900-01-01 00:00:00,Unknown,James,Female,UnitedHealth,No_Name,true,PAT00141,Deceased,835-848-5740,14631
+47,San Antonio,1900-01-01 00:00:00,david.miller79@gmail.com,David,Unknown,Aetna,Miller,true,PAT00721,Unknown,261-735-8550,72767
+47,San Antonio,1900-01-01 00:00:00,james .smith99@gmail.com,James,Unknown,Humana,Smith,true,PAT00209,Active,711-545-2300,93099
+47,San Antonio,1900-01-01 00:00:00,karen.young87@gmail.com,Karen,Female,Unknown,Young,true,PAT00129,Inactive,9116566582,90612
+47,San Antonio,1900-01-01 00:00:00,richard.jones87@gmail.com,Richard,Other,UnitedHealth,Jones,true,PAT00142,Inactive,2133489848,83686
+47,San Antonio,1900-01-01 00:00:00,william.taylor8@gmail.com,William,Male,Cigna,Taylor,true,PAT00062,Inactive,988-399-5925,12054
+48,Chicago,1900-01-01 00:00:00,michael.williams51@gmail.com,Michael,Female,BlueCross,Williams,true,PAT00351,Inactive,901-339-6049,68190
+48,Chicago,1900-01-01 00:00:00,robert.taylor83@gmail.com,Robert,Unknown,Kaiser,Taylor,true,PAT00019,Inactive,622-414-5502,66897
+48,Dallas,1900-01-01 00:00:00,richard.thomas65@gmail.com,Richard,Unknown,Aetna,Thomas,true,PAT00120,Inactive,457-776-7347,95434
+48,Dallas,1900-01-01 00:00:00,sarah.williams75@gmail.com,Sarah,Female,BlueCross,Williams,true,PAT00849,Inactive,348-536-2730,47561
+48,Dallas,1900-01-01 00:00:00,sarah.young62@gmail.com,Sarah,Female,UnitedHealth,Young,true,PAT00715,Deceased,339-144-4738,91090
+48,Houston,1900-01-01 00:00:00,barbara.brown9@yahoo.com,Barbara,Female,UnitedHealth,Brown,true,PAT00723,Active,474-706-8411,52510
+48,Houston,1900-01-01 00:00:00,charles.wilson93@yahoo.com,Charles,Other,Medicare,Wilson,true,PAT00211,Inactive,794-217-2525,79095
+48,Houston,1900-01-01 00:00:00,john.taylor7@gmail.com,John,Female,Aetna,Taylor,true,PAT00688,Unknown,621-832-6041,51559
+48,Houston,1900-01-01 00:00:00,michael.thomas92@yahoo.com,Michael,Female,BlueCross,Thomas,true,PAT00478,Inactive,509-447-9347,70514
+48,Houston,1900-01-01 00:00:00,michael.white85@gmail.com,Michael,Unknown,Humana,White,true,PAT00992,Active,228-260-3585,43446
+48,Houston,1900-01-01 00:00:00,richard.brown86@yahoo.com,Richard,Other,Self-Pay,Brown,true,PAT00927,Unknown,Unknown,35009
+48,Los Angeles,1900-01-01 00:00:00,sarah.moore13@yahoo.com,Sarah,Female,Medicaid,Moore,true,PAT00914,Active,Unknown,63666
+48,New York,1900-01-01 00:00:00,david .moore84@yahoo.com,David,Male,UnitedHealth,Moore,true,PAT00222,Unknown,821-908-6042,95906
+48,Philadelphia,1900-01-01 00:00:00,jessica.allen32@gmail.com,Jessica,Male,Kaiser,Allen,true,PAT00373,Unknown,996-420-4686,95558
+48,Philadelphia,1900-01-01 00:00:00,robert.miller71@yahoo.com,Robert,Male,Humana,Miller,true,PAT00435,Deceased,926-543-7450,84124
+48,Philadelphia,1900-01-01 00:00:00,william.garcia38@gmail.com,William,Female,UnitedHealth,Garcia,true,PAT00620,Unknown,672-311-7595,969
+48,San Antonio,1900-01-01 00:00:00,Unknown,Patricia,Female,Kaiser,Davis,true,PAT00214,Inactive,930-477-8738,34366
+49,Dallas,1900-01-01 00:00:00,david.williams41@yahoo.com,David,Male,Medicaid,Williams,true,PAT00758,Active,748-828-8968,20658
+49,Houston,1900-01-01 00:00:00,james.harris18@gmail.com,James,Unknown,BlueCross,Harris,true,PAT00495,Active,896-195-9389,21438
+49,Houston,1900-01-01 00:00:00,lisa.martin52@gmail.com,Lisa,Female,Humana,Martin,true,PAT00241,Inactive,735-739-9586,51582
+49,Houston,1900-01-01 00:00:00,michael.white49@yahoo.com,Michael,Other,Cigna,White,true,PAT00587,Unknown,658-315-8105,93228
+49,Los Angeles,1900-01-01 00:00:00,joseph.anderson30@yahoo.com,Joseph,Female,UnitedHealth,Anderson,true,PAT00507,Inactive,3007365635,25511
+49,Los Angeles,1900-01-01 00:00:00,x.anderson25@yahoo.com,No_Name,Unknown,Medicaid,Anderson,true,PAT00401,Unknown,8719673532,32289
+49,New York,1900-01-01 00:00:00,karen.taylor96@yahoo.com,Karen,Unknown,Self-Pay,Taylor,true,PAT00162,Active,7674007347,63113
+49,New York,1900-01-01 00:00:00,robert.brown40@gmail.com,Robert,Male,Cigna,Brown,true,PAT00225,Inactive,798-463-9162,90857
+49,New York,1900-01-01 00:00:00,x.miller6@yahoo.com,No_Name,Female,Cigna,Miller,true,PAT00548,Inactive,203-639-6549,28411
+49,Philadelphia,1900-01-01 00:00:00,richard.davis60@yahoo.com,Richard,Male,Aetna,Davis,true,PAT00999,Inactive,8896917318,39606
+49,Philadelphia,1900-01-01 00:00:00,thomas.white96@yahoo.com,Thomas,Other,Unknown,White,true,PAT00844,Active,4473113469,85846
+49,Phoenix,1900-01-01 00:00:00,jessica.brown95@yahoo.com,Jessica,Other,Kaiser,Brown,true,PAT00456,Unknown,949-541-8856,92574
+49,Phoenix,1900-01-01 00:00:00,susan.brown66@gmail.com,Susan,Female,Self-Pay,Brown,true,PAT00070,Unknown,436-867-5868,85131
+49,Phoenix,1900-01-01 00:00:00,william.brown61@yahoo.com,William,Female,Unknown,Brown,true,PAT00487,Active,678-699-5057,60531
+49,San Antonio,1900-01-01 00:00:00,jessica.brown27@yahoo.com,Jessica,Female,UnitedHealth,Brown,true,PAT00983,Unknown,477-467-4691,95431
+49,San Antonio,1900-01-01 00:00:00,john.brown26@yahoo.com,John,Male,Medicare,Brown,true,PAT00340,Active,353-400-1001,838
+49,San Antonio,1900-01-01 00:00:00,robert.jones24@yahoo.com,Robert,Female,Cigna,Jones,true,PAT00107,Active,204-707-3907,24732
+49,San Antonio,1900-01-01 00:00:00,Unknown,Jennifer,Male,Humana,Jones,true,PAT00540,Unknown,278-542-2511,46980
+50,Chicago,1900-01-01 00:00:00,barbara.martin40@yahoo.com,Barbara,Male,UnitedHealth,Martin,true,PAT00347,Deceased,259-862-2273,86037
+50,Chicago,1900-01-01 00:00:00,patricia.davis38@gmail.com,Patricia,Male,BlueCross,Davis,true,PAT00531,Active,910-920-6949,76952
+50,Houston,1900-01-01 00:00:00,patricia .white85@gmail.com,Patricia,Unknown,Kaiser,White,true,PAT00796,Unknown,399-822-2857,33996
+50,Houston,1900-01-01 00:00:00,susan.garcia86@gmail.com,Susan,Male,Aetna,Garcia,true,PAT00655,Active,772-471-2494,71200
+50,Los Angeles,1900-01-01 00:00:00,michael.johnson 16@gmail.com,Michael,Male,Self-Pay,Johnson,true,PAT00883,Deceased,380-474-5054,10510
+50,Los Angeles,1900-01-01 00:00:00,sarah.young30@yahoo.com,Sarah,Unknown,Medicare,Young,true,PAT00858,Active,311-646-2313,93730
+50,New York,1900-01-01 00:00:00,james.harris46@gmail.com,James,Unknown,Self-Pay,Harris,true,PAT00609,Unknown,Unknown,72836
+50,New York,1900-01-01 00:00:00,joseph.garcia3@yahoo.com,Joseph,Male,Unknown,Garcia,true,PAT00275,Unknown,Unknown,19052
+50,New York,1900-01-01 00:00:00,x.davis80@yahoo.com,No_Name,Female,Medicaid,Davis,true,PAT00897,Inactive,396-968-6036,331
+50,Philadelphia,1900-01-01 00:00:00,richard.brown65@yahoo.com,Richard,Unknown,Cigna,Brown,true,PAT00204,Inactive,929-967-1908,35612
+50,San Antonio,1900-01-01 00:00:00,charles.jackson17@gmail.com,Charles,Male,Medicaid,Jackson,true,PAT00824,Inactive,824-141-9923,65951
+50,San Antonio,1900-01-01 00:00:00,karen.allen41@yahoo.com,Karen,Female,Self-Pay,Allen,true,PAT00196,Unknown,548-347-3143,72154
+50,Unknown,1900-01-01 00:00:00,charles.thomas72@gmail.com,Charles,Female,BlueCross,Thomas,true,PAT00147,Active,3577528531,79606
+50,Unknown,1900-01-01 00:00:00,richard.young7@yahoo.com,Richard,Male,UnitedHealth,Young,true,PAT00491,Active,802-478-7833,36438
+51,Chicago,1900-01-01 00:00:00,john.garcia45@yahoo.com,John,Male,Cigna,Garcia,true,PAT00424,Inactive,780-325-4714,34795
+51,Chicago,1900-01-01 00:00:00,mary.wilson26@gmail.com,Mary,Female,Aetna,Wilson,true,PAT00907,Active,524-397-1397,90351
+51,Chicago,1900-01-01 00:00:00,patricia.thomas41@gmail.com,Patricia,Other,Medicare,Thomas,true,PAT00894,Active,872-351-9441,11663
+51,Dallas,1900-01-01 00:00:00,james.white26@yahoo.com,James,Unknown,Self-Pay,White,true,PAT00099,Active,989-166-6475,18910
+51,Dallas,1900-01-01 00:00:00,jennifer.martin73@gmail.com,Jennifer,Male,Medicaid,Martin,true,PAT00475,Deceased,685-124-3078,77914
+51,Dallas,1900-01-01 00:00:00,john.moore40@yahoo.com,John,Unknown,UnitedHealth,Moore,true,PAT00473,Unknown,343-241-2573,84255
+51,Houston,1900-01-01 00:00:00,richard.young17@yahoo.com,Richard,Unknown,UnitedHealth,Young,true,PAT00750,Inactive,369-295-8416,77867
+51,Los Angeles,1900-01-01 00:00:00,mary.garcia79@yahoo.com,Mary,Unknown,BlueCross,Garcia,true,PAT00323,Active,751-187-4648,86049
+51,New York,1900-01-01 00:00:00,thomas.davis98@yahoo.com,Thomas,Male,Medicaid,Davis,true,PAT00574,Unknown,835-556-7907,928
+51,New York,1900-01-01 00:00:00,Unknown,James,Unknown,Humana,Thomas,true,PAT00318,Deceased,397-842-3281,12754
+51,Phoenix,1900-01-01 00:00:00,lisa.garcia9@gmail.com,Lisa,Female,Medicare,Garcia,true,PAT00417,Active,566-511-4929,67509
+51,Phoenix,1900-01-01 00:00:00,michael.brown25@yahoo.com,Michael,Unknown,BlueCross,Brown,true,PAT00471,Active,391-326-9984,32264
+51,Phoenix,1900-01-01 00:00:00,william.brown83@gmail.com,William,Unknown,Cigna,Brown,true,PAT00427,Unknown,273-246-7927,84504
+51,San Antonio,1900-01-01 00:00:00,linda.martin50@gmail.com,Linda,Female,Aetna,Martin,true,PAT00501,Active,741-934-5957,16897
+51,San Antonio,1900-01-01 00:00:00,patricia.davis47@gmail.com,Patricia,Unknown,Aetna,Davis,true,PAT00598,Inactive,568-129-6716,85299
+52,Chicago,1900-01-01 00:00:00,jessica.white12@gmail.com,Jessica,Unknown,UnitedHealth,White,true,PAT00126,Inactive,697-434-2341,95904
+52,Chicago,1900-01-01 00:00:00,karen.jones3@yahoo.com,Karen,Female,Kaiser,Jones,true,PAT00615,Inactive,7581472258,57630
+52,Dallas,1900-01-01 00:00:00,michael.white32@yahoo.com,Michael,Unknown,BlueCross,White,true,PAT00441,Inactive,990-913-6324,27908
+52,Dallas,1900-01-01 00:00:00,william.white76@gmail.com,William,Male,Kaiser,White,true,PAT00387,Unknown,430-508-8555,12717
+52,Houston,1900-01-01 00:00:00,thomas.moore5@gmail.com,Thomas,Unknown,BlueCross,Moore,true,PAT00744,Active,857-697-3181,85372
+52,Los Angeles,1900-01-01 00:00:00,Unknown,Charles,Male,Medicaid,Smith,true,PAT00284,Unknown,747-327-4215,55258
+52,New York,1900-01-01 00:00:00,mary.smith75@gmail.com,Mary,Unknown,Humana,Smith,true,PAT00771,Active,Unknown,62976
+52,Phoenix,1900-01-01 00:00:00,mary.y7@gmail.com,Mary,Female,Self-Pay,No_Name,true,PAT00601,Inactive,420-657-2897,53649
+53,Chicago,1900-01-01 00:00:00,robert.y20@yahoo.com,Robert,Male,UnitedHealth,No_Name,true,PAT00116,Unknown,650-571-3227,82827
+53,Dallas,1900-01-01 00:00:00,john.allen25@gmail.com,John,Other,Cigna,Allen,true,PAT00808,Deceased,Unknown,85569
+53,Dallas,1900-01-01 00:00:00,sarah.brown80@gmail.com,Sarah,Female,Kaiser,Brown,true,PAT00076,Active,334-340-4435,57287
+53,Dallas,1900-01-01 00:00:00,susan.davis58@gmail.com,Susan,Unknown,UnitedHealth,Davis,true,PAT00202,Inactive,786-480-3365,72200
+53,Los Angeles,1900-01-01 00:00:00,james.garcia 45@gmail.com,James,Unknown,BlueCross,Garcia,true,PAT00697,Deceased,920-920-5485,74211
+53,Los Angeles,1900-01-01 00:00:00,john.young56@yahoo.com,John,Female,Humana,Young,true,PAT00903,Deceased,771-496-5105,30990
+53,Los Angeles,1900-01-01 00:00:00,william.white59@yahoo.com,William,Male,Medicare,White,true,PAT00786,Unknown,900-755-5481,57932
+53,New York,1900-01-01 00:00:00,john.garcia40@yahoo.com,John,Unknown,Humana,Garcia,true,PAT00262,Unknown,891-220-7031,19258
+53,New York,1900-01-01 00:00:00,linda.wilson37@gmail.com,Linda,Female,Humana,Wilson,true,PAT00189,Active,702-971-9393,84686
+53,New York,1900-01-01 00:00:00,robert.harris49@gmail.com,Robert,Other,Humana,Harris,true,PAT00780,Deceased,255-281-3165,73556
+53,Philadelphia,1900-01-01 00:00:00,mary.wilson54@yahoo.com,Mary,Male,BlueCross,Wilson,true,PAT00431,Active,Unknown,44718
+53,Phoenix,1900-01-01 00:00:00,patricia.smith42@gmail.com,Patricia,Male,Unknown,Smith,true,PAT00756,Deceased,Unknown,84793
+53,San Antonio,1900-01-01 00:00:00,mary.young92@gmail.com,Mary,Female,BlueCross,Young,true,PAT00140,Active,204-223-3197,89421
+54,Chicago,1900-01-01 00:00:00,jessica.miller 25@gmail.com,Jessica,Male,UnitedHealth,Miller,true,PAT00159,Deceased,970-991-4037,46768
+54,Chicago,1900-01-01 00:00:00,mary.johnson7@yahoo.com,Mary,Female,BlueCross,Johnson,true,PAT00638,Active,764-476-9612,42765
+54,Dallas,1900-01-01 00:00:00,barbara .smith30@gmail.com,Barbara,Unknown,Kaiser,Smith,true,PAT00057,Inactive,938-583-3404,59515
+54,Dallas,1900-01-01 00:00:00,susan.garcia68@yahoo.com,Susan,Female,Humana,Garcia,true,PAT00195,Active,516-542-1570,49024
+54,Dallas,1900-01-01 00:00:00,Unknown,Barbara,Unknown,Medicaid,White,true,PAT00319,Unknown,212-429-4339,64769
+54,Houston,1900-01-01 00:00:00,jennifer.thompson 63@gmail.com,Jennifer,Unknown,BlueCross,Thompson,true,PAT00993,Active,775-350-4336,64752
+54,Los Angeles,1900-01-01 00:00:00,james .taylor8@yahoo.com,James,Other,Medicaid,Taylor,true,PAT00925,Unknown,463-562-7099,34753
+54,New York,1900-01-01 00:00:00,john.miller86@gmail.com,John,Male,BlueCross,Miller,true,PAT00231,Deceased,746-326-4103,80851
+54,New York,1900-01-01 00:00:00,patricia.harris88@yahoo.com,Patricia,Male,Humana,Harris,true,PAT00926,Active,636-671-7155,369
+54,New York,1900-01-01 00:00:00,richard.davis49@yahoo.com,Richard,Other,Aetna,Davis,true,PAT00474,Unknown,450-209-5767,46782
+54,New York,1900-01-01 00:00:00,x.young87@gmail.com,No_Name,Male,Medicare,Young,true,PAT00465,Unknown,989-452-8078,88110
+54,Philadelphia,1900-01-01 00:00:00,robert.martin42@gmail.com,Robert,Female,Kaiser,Martin,true,PAT00571,Inactive,578-164-2520,24380
+54,Philadelphia,1900-01-01 00:00:00,x.miller45@yahoo.com,No_Name,Female,Unknown,Miller,true,PAT00868,Active,276-914-2873,79097
+54,Phoenix,1900-01-01 00:00:00,sarah.davis88@yahoo.com,Sarah,Male,Cigna,Davis,true,PAT00779,Unknown,460-869-8910,24502
+54,Unknown,1900-01-01 00:00:00,jennifer.martin44@yahoo.com,Jennifer,Other,Self-Pay,Martin,true,PAT00233,Active,636-756-2626,478
+55,Chicago,1900-01-01 00:00:00,james .martin33@gmail.com,James,Female,Self-Pay,Martin,true,PAT00094,Unknown,700-586-4614,39522
+55,Chicago,1900-01-01 00:00:00,lisa.anderson91@gmail.com,Lisa,Male,Medicaid,Anderson,true,PAT00251,Unknown,567-805-9968,55643
+55,Chicago,1900-01-01 00:00:00,lisa.thompson87@yahoo.com,Lisa,Female,Medicare,Thompson,true,PAT00011,Inactive,583-978-2386,27236
+55,Dallas,1900-01-01 00:00:00,lisa.martin92@gmail.com,Lisa,Unknown,Medicaid,Martin,true,PAT00665,Unknown,710-951-4054,67423
+55,Dallas,1900-01-01 00:00:00,thomas.y86@gmail.com,Thomas,Unknown,UnitedHealth,No_Name,true,PAT00022,Active,533-791-8362,10279
+55,Houston,1900-01-01 00:00:00,linda.brown9@yahoo.com,Linda,Male,Aetna,Brown,true,PAT00938,Active,6496734022,19773
+55,Houston,1900-01-01 00:00:00,michael.davis42@gmail.com,Michael,Unknown,Aetna,Davis,true,PAT00353,Unknown,398-165-2600,11808
+55,Los Angeles,1900-01-01 00:00:00,jennifer.martin90@gmail.com,Jennifer,Male,Kaiser,Martin,true,PAT00748,Unknown,2651871210,30509
+55,Los Angeles,1900-01-01 00:00:00,william.y1@yahoo.com,William,Male,Humana,No_Name,true,PAT00606,Unknown,332-626-8077,95207
+55,Los Angeles,1900-01-01 00:00:00,x.williams5@yahoo.com,No_Name,Unknown,Cigna,Williams,true,PAT00338,Unknown,399-656-1294,19797
+55,New York,1900-01-01 00:00:00,susan.thompson57@yahoo.com,Susan,Unknown,Aetna,Thompson,true,PAT00170,Unknown,999-384-7199,71599
+55,Philadelphia,1900-01-01 00:00:00,karen.y32@gmail.com,Karen,Male,BlueCross,No_Name,true,PAT00055,Deceased,440-933-9725,15836
+55,Philadelphia,1900-01-01 00:00:00,patricia.anderson73@gmail.com,Patricia,Other,Aetna,Anderson,true,PAT00835,Active,659-259-9017,33862
+55,Phoenix,1900-01-01 00:00:00,jessica.johnson26@yahoo.com,Jessica,Male,Medicaid,Johnson,true,PAT00320,Active,787-755-8688,91517
+55,Phoenix,1900-01-01 00:00:00,thomas.brown6@gmail.com,Thomas,Female,Humana,Brown,true,PAT00704,Unknown,554-391-4906,79971
+55,San Antonio,1900-01-01 00:00:00,john.miller54@gmail.com,John,Male,Humana,Miller,true,PAT00185,Unknown,704-533-3613,66561
+55,San Antonio,1900-01-01 00:00:00,karen.young55@yahoo.com,Karen,Male,Kaiser,Young,true,PAT00128,Active,849-279-5485,86651
+55,Unknown,1900-01-01 00:00:00,david.taylor2@gmail.com,David,Unknown,BlueCross,Taylor,true,PAT00904,Active,532-843-4682,71105
+55,Unknown,1900-01-01 00:00:00,karen.moore22@gmail.com,Karen,Male,Aetna,Moore,true,PAT00621,Active,392-202-5288,28212
+56,Chicago,1900-01-01 00:00:00,lisa.taylor18@yahoo.com,Lisa,Male,Humana,Taylor,true,PAT00047,Active,226-197-2611,33990
+56,Dallas,1900-01-01 00:00:00,susan.anderson91@gmail.com,Susan,Other,BlueCross,Anderson,true,PAT00024,Inactive,840-369-4072,36845
+56,Houston,1900-01-01 00:00:00,susan.white89@gmail.com,Susan,Female,Medicare,White,true,PAT00028,Unknown,285-814-9561,85281
+56,Los Angeles,1900-01-01 00:00:00,charles.smith65@gmail.com,Charles,Male,Cigna,Smith,true,PAT00174,Active,930-265-2705,85520
+56,Los Angeles,1900-01-01 00:00:00,joseph.williams41@yahoo.com,Joseph,Female,Self-Pay,Williams,true,PAT00946,Inactive,526-978-4592,15154
+56,New York,1900-01-01 00:00:00,john.martin89@gmail.com,John,Male,Medicare,Martin,true,PAT00412,Inactive,833-524-6211,52111
+56,New York,1900-01-01 00:00:00,patricia.jones63@gmail.com,Patricia,Other,Medicaid,Jones,true,PAT00399,Deceased,816-104-2574,352
+56,New York,1900-01-01 00:00:00,sarah.young10@yahoo.com,Sarah,Female,Medicare,Young,true,PAT00593,Inactive,864-708-1160,171
+56,San Antonio,1900-01-01 00:00:00,david.wilson79@gmail.com,David,Unknown,BlueCross,Wilson,true,PAT00605,Inactive,5145575487,63389
+56,San Antonio,1900-01-01 00:00:00,sarah.martin57@yahoo.com,Sarah,Female,Medicare,Martin,true,PAT00494,Active,298-501-4073,18977
+56,Unknown,1900-01-01 00:00:00,david.jones50@yahoo.com,David,Unknown,Aetna,Jones,true,PAT00400,Active,332-637-1233,11753
+57,Chicago,1900-01-01 00:00:00,karen.smith33@yahoo.com,Karen,Female,Cigna,Smith,true,PAT00642,Unknown,787-502-3288,70451
+57,Los Angeles,1900-01-01 00:00:00,susan.y75@gmail.com,Susan,Male,Cigna,No_Name,true,PAT00045,Active,318-758-2681,21021
+57,Los Angeles,1900-01-01 00:00:00,william.taylor97@yahoo.com,William,Male,Self-Pay,Taylor,true,PAT00950,Active,420-193-7959,38934
+57,New York,1900-01-01 00:00:00,richard.davis72@yahoo.com,Richard,Unknown,BlueCross,Davis,true,PAT00509,Unknown,243-312-5767,63161
+57,New York,1900-01-01 00:00:00,richard.jones53@yahoo.com,Richard,Unknown,Medicare,Jones,true,PAT00770,Unknown,957-240-4799,88935
+57,Philadelphia,1900-01-01 00:00:00,lisa.wilson66@yahoo.com,Lisa,Male,BlueCross,Wilson,true,PAT00067,Active,555-668-7069,778
+57,Philadelphia,1900-01-01 00:00:00,william.smith80@yahoo.com,William,Male,Cigna,Smith,true,PAT00059,Unknown,309-456-8937,283
+57,Phoenix,1900-01-01 00:00:00,richard.thomas91@gmail.com,Richard,Male,Medicare,Thomas,true,PAT00772,Unknown,288-717-4443,32686
+57,San Antonio,1900-01-01 00:00:00,charles.moore19@yahoo.com,Charles,Other,Self-Pay,Moore,true,PAT00584,Active,9272983923,99790
+57,San Antonio,1900-01-01 00:00:00,richard.allen53@gmail.com,Richard,Unknown,Unknown,Allen,true,PAT00372,Active,6908968903,39682
+57,San Antonio,1900-01-01 00:00:00,william .davis68@gmail.com,William,Male,Humana,Davis,true,PAT00597,Active,252-803-7107,16199
+58,Dallas,1900-01-01 00:00:00,john.smith84@gmail.com,John,Female,Kaiser,Smith,true,PAT00876,Inactive,6752224571,13207
+58,Dallas,1900-01-01 00:00:00,joseph.y13@gmail.com,Joseph,Unknown,Medicare,No_Name,true,PAT00180,Unknown,224-804-5818,32013
+58,Dallas,1900-01-01 00:00:00,michael.johnson98@yahoo.com,Michael,Male,Humana,Johnson,true,PAT00902,Inactive,648-382-6625,94060
+58,Dallas,1900-01-01 00:00:00,sarah.harris55@gmail.com,Sarah,Female,Cigna,Harris,true,PAT00344,Inactive,252-150-3378,43328
+58,Houston,1900-01-01 00:00:00,patricia.miller37@gmail.com,Patricia,Female,UnitedHealth,Miller,true,PAT00966,Unknown,681-842-3196,56685
+58,Los Angeles,1900-01-01 00:00:00,richard.miller61@gmail.com,Richard,Female,Cigna,Miller,true,PAT00690,Inactive,996-386-4858,12253
+58,New York,1900-01-01 00:00:00,charles.harris43@gmail.com,Charles,Female,BlueCross,Harris,true,PAT00006,Active,454-610-7737,15881
+58,New York,1900-01-01 00:00:00,jessica.johnson53@gmail.com,Jessica,Female,Kaiser,Johnson,true,PAT00293,Unknown,310-646-8335,30401
+58,New York,1900-01-01 00:00:00,Unknown,Patricia,Male,Medicare,Davis,true,PAT00223,Active,827-745-7667,819
+58,Philadelphia,1900-01-01 00:00:00,james.thomas52@gmail.com,James,Female,Self-Pay,Thomas,true,PAT00906,Active,495-816-2366,94020
+58,Philadelphia,1900-01-01 00:00:00,michael.williams91@yahoo.com,Michael,Unknown,Medicare,Williams,true,PAT00239,Deceased,9802126930,40507
+58,Philadelphia,1900-01-01 00:00:00,susan.white 59@gmail.com,Susan,Female,Cigna,White,true,PAT00987,Active,241-180-6708,22027
+58,Unknown,1900-01-01 00:00:00,james.white63@gmail.com,James,Unknown,Cigna,White,true,PAT00682,Active,652-779-6238,70603
+58,Unknown,1900-01-01 00:00:00,john.young92@yahoo.com,John,Unknown,Cigna,Young,true,PAT00963,Active,474-699-1960,25251
+59,Chicago,1900-01-01 00:00:00,james.jackson36@yahoo.com,James,Male,Aetna,Jackson,true,PAT00415,Deceased,965-484-4408,749
+59,Chicago,1900-01-01 00:00:00,robert.thompson 56@yahoo.com,Robert,Male,BlueCross,Thompson,true,PAT00469,Unknown,916-685-7310,83922
+59,Dallas,1900-01-01 00:00:00,patricia.thompson58@yahoo.com,Patricia,Female,Cigna,Thompson,true,PAT00969,Active,671-213-6099,95267
+59,Houston,1900-01-01 00:00:00,james.davis92@gmail.com,James,Unknown,Medicaid,Davis,true,PAT00765,Deceased,791-673-4063,79359
+59,Los Angeles,1900-01-01 00:00:00,x.martin32@gmail.com,No_Name,Unknown,Humana,Martin,true,PAT00872,Unknown,820-573-9681,50416
+59,New York,1900-01-01 00:00:00,robert.young37@gmail.com,Robert,Female,UnitedHealth,Young,true,PAT00875,Active,290-925-6651,46457
+59,Phoenix,1900-01-01 00:00:00,barbara.jones72@yahoo.com,Barbara,Female,Self-Pay,Jones,true,PAT00920,Unknown,254-442-9228,88036
+59,Phoenix,1900-01-01 00:00:00,linda.brown35@gmail.com,Linda,Other,Medicare,Brown,true,PAT00974,Active,325-351-8557,84941
+59,Phoenix,1900-01-01 00:00:00,lisa.taylor41@gmail.com,Lisa,Unknown,Medicaid,Taylor,true,PAT00685,Unknown,650-872-3594,16162
+59,San Antonio,1900-01-01 00:00:00,james.harris25@gmail.com,James,Other,BlueCross,Harris,true,PAT00669,Active,560-678-2632,77488
+59,San Antonio,1900-01-01 00:00:00,richard.white6@gmail.com,Richard,Unknown,Cigna,White,true,PAT00078,Unknown,431-766-5430,60602
+59,Unknown,1900-01-01 00:00:00,jennifer.brown30@gmail.com,Jennifer,Male,Kaiser,Brown,true,PAT00420,Inactive,Unknown,22649
+59,Unknown,1900-01-01 00:00:00,robert.anderson47@yahoo.com,Robert,Other,UnitedHealth,Anderson,true,PAT00087,Active,807-671-9212,20093
+60,Dallas,1900-01-01 00:00:00,Unknown,Richard,Male,BlueCross,Thomas,true,PAT00695,Inactive,484-844-7131,44581
+60,New York,1900-01-01 00:00:00,jennifer.wilson31@yahoo.com,Jennifer,Unknown,Cigna,Wilson,true,PAT00160,Deceased,752-727-3690,394
+60,New York,1900-01-01 00:00:00,linda.martin37@yahoo.com,Linda,Unknown,Medicare,Martin,true,PAT00654,Unknown,390-383-2912,72423
+60,New York,1900-01-01 00:00:00,robert.williams95@gmail.com,Robert,Other,BlueCross,Williams,true,PAT00172,Inactive,211-314-6863,55314
+60,Philadelphia,1900-01-01 00:00:00,charles.smith52@yahoo.com,Charles,Other,UnitedHealth,Smith,true,PAT00718,Unknown,991-519-8138,82630
+60,Philadelphia,1900-01-01 00:00:00,james.taylor19@gmail.com,James,Other,Humana,Taylor,true,PAT00940,Unknown,396-428-4688,30327
+60,Philadelphia,1900-01-01 00:00:00,susan.davis54@gmail.com,Susan,Unknown,Medicare,Davis,true,PAT00127,Active,804-438-1623,43031
+60,Phoenix,1900-01-01 00:00:00,joseph.taylor94@gmail.com,Joseph,Female,Self-Pay,Taylor,true,PAT00230,Active,700-454-9108,10599
+60,San Antonio,1900-01-01 00:00:00,karen.y75@gmail.com,Karen,Female,Aetna,No_Name,true,PAT00115,Inactive,911-511-8614,15113
+60,Unknown,1900-01-01 00:00:00,karen.jackson1@gmail.com,Karen,Male,Aetna,Jackson,true,PAT00482,Deceased,357-124-4028,31224
+61,Chicago,1900-01-01 00:00:00,patricia.smith92@yahoo.com,Patricia,Other,Self-Pay,Smith,true,PAT00354,Active,887-232-5608,44380
+61,Dallas,1900-01-01 00:00:00,patricia.harris88@gmail.com,Patricia,Male,Kaiser,Harris,true,PAT00411,Inactive,818-258-8184,93344
+61,Dallas,1900-01-01 00:00:00,william.taylor9@yahoo.com,William,Unknown,Unknown,Taylor,true,PAT00281,Unknown,742-651-1992,33170
+61,Houston,1900-01-01 00:00:00,william.jackson56@gmail.com,William,Female,Medicaid,Jackson,true,PAT00020,Active,920-442-5084,30001
+61,Los Angeles,1900-01-01 00:00:00,linda .anderson25@gmail.com,Linda,Female,Unknown,Anderson,true,PAT00052,Active,579-696-6452,64194
+61,Los Angeles,1900-01-01 00:00:00,michael.taylor19@gmail.com,Michael,Unknown,BlueCross,Taylor,true,PAT00814,Active,221-911-9434,69922
+61,New York,1900-01-01 00:00:00,charles.garcia65@yahoo.com,Charles,Male,Humana,Garcia,true,PAT00942,Inactive,867-811-6061,40652
+61,New York,1900-01-01 00:00:00,charles.white58@yahoo.com,Charles,Unknown,Medicare,White,true,PAT00259,Inactive,961-813-9824,93341
+61,Philadelphia,1900-01-01 00:00:00,lisa.davis26@gmail.com,Lisa,Female,Humana,Davis,true,PAT00996,Inactive,966-999-1381,46339
+61,Philadelphia,1900-01-01 00:00:00,michael.thompson21@yahoo.com,Michael,Other,Medicare,Thompson,true,PAT00219,Active,997-881-9452,62309
+61,Philadelphia,1900-01-01 00:00:00,x.anderson62@gmail.com,No_Name,Unknown,Kaiser,Anderson,true,PAT00111,Active,374-275-1668,47082
+61,Phoenix,1900-01-01 00:00:00,thomas.miller11@yahoo.com,Thomas,Female,Kaiser,Miller,true,PAT00119,Unknown,513-308-5438,84400
+61,Phoenix,1900-01-01 00:00:00,william.williams35@gmail.com,William,Unknown,Medicaid,Williams,true,PAT00719,Unknown,771-261-3375,97510
+62,Chicago,1900-01-01 00:00:00,jessica.allen58@yahoo.com,Jessica,Female,Cigna,Allen,true,PAT00038,Active,612-705-4227,67736
+62,Chicago,1900-01-01 00:00:00,thomas.johnson10@yahoo.com,Thomas,Male,Humana,Johnson,true,PAT00662,Unknown,2812463267,20258
+62,Chicago,1900-01-01 00:00:00,william.thompson86@gmail.com,William,Female,Aetna,Thompson,true,PAT00853,Active,313-209-7745,43725
+62,Chicago,1900-01-01 00:00:00,x.y19@yahoo.com,No_Name,Unknown,BlueCross,No_Name,true,PAT00829,Deceased,723-270-3236,95802
+62,Chicago,1900-01-01 00:00:00,x.young29@gmail.com,No_Name,Other,Cigna,Young,true,PAT00253,Unknown,650-631-4360,776
+62,Dallas,1900-01-01 00:00:00,john.white81@yahoo.com,John,Female,Kaiser,White,true,PAT00228,Active,789-783-6760,80931
+62,Dallas,1900-01-01 00:00:00,linda.jones80@gmail.com,Linda,Other,Self-Pay,Jones,true,PAT00048,Inactive,6585857305,65916
+62,Dallas,1900-01-01 00:00:00,linda.wilson30@gmail.com,Linda,Female,Kaiser,Wilson,true,PAT00871,Active,371-335-1879,70465
+62,Houston,1900-01-01 00:00:00,robert.johnson68@gmail.com,Robert,Female,UnitedHealth,Johnson,true,PAT00889,Active,249-203-6347,53557
+62,Houston,1900-01-01 00:00:00,susan.allen22@gmail.com,Susan,Female,Self-Pay,Allen,true,PAT00328,Unknown,976-320-9109,28972
+62,Houston,1900-01-01 00:00:00,thomas.smith69@yahoo.com,Thomas,Unknown,BlueCross,Smith,true,PAT00357,Active,911-131-5066,88870
+62,Houston,1900-01-01 00:00:00,x.y21@gmail.com,No_Name,Female,Cigna,No_Name,true,PAT00422,Inactive,392-224-6478,48204
+62,Los Angeles,1900-01-01 00:00:00,karen.thomas27@gmail.com,Karen,Female,Aetna,Thomas,true,PAT00290,Active,6857886661,21507
+62,Los Angeles,1900-01-01 00:00:00,Unknown,Karen,Other,Humana,Taylor,true,PAT00468,Unknown,222-840-6719,60631
+62,New York,1900-01-01 00:00:00,patricia.jackson56@yahoo.com,Patricia,Female,Medicare,Jackson,true,PAT00044,Inactive,543-376-2996,88286
+62,New York,1900-01-01 00:00:00,x.thomas12@yahoo.com,No_Name,Unknown,Medicaid,Thomas,true,PAT00131,Unknown,385-793-1260,187
+62,Phoenix,1900-01-01 00:00:00,Unknown,No_Name,Unknown,UnitedHealth,Davis,true,PAT00030,Unknown,523-593-7034,44543
+62,Unknown,1900-01-01 00:00:00,lisa.y10@gmail.com,Lisa,Female,Aetna,No_Name,true,PAT00686,Deceased,6345592013,53727
+62,Unknown,1900-01-01 00:00:00,robert.wilson70@gmail.com,Robert,Female,Medicaid,Wilson,true,PAT00146,Inactive,619-984-7473,14451
+63,Chicago,1900-01-01 00:00:00,joseph.thomas83@yahoo.com,Joseph,Unknown,Medicare,Thomas,true,PAT00368,Inactive,698-720-6919,72841
+63,Chicago,1900-01-01 00:00:00,michael.taylor94@yahoo.com,Michael,Unknown,Medicare,Taylor,true,PAT00273,Inactive,8458966316,69499
+63,Houston,1900-01-01 00:00:00,charles.anderson84@gmail.com,Charles,Male,UnitedHealth,Anderson,true,PAT00149,Active,960-449-5432,56371
+63,Houston,1900-01-01 00:00:00,joseph.thompson42@gmail.com,Joseph,Female,BlueCross,Thompson,true,PAT00480,Inactive,855-628-9519,92959
+63,Los Angeles,1900-01-01 00:00:00,joseph.wilson39@gmail.com,Joseph,Unknown,Medicaid,Wilson,true,PAT00358,Deceased,4488943856,98084
+63,Los Angeles,1900-01-01 00:00:00,robert.thompson 32@yahoo.com,Robert,Unknown,Humana,Thompson,true,PAT00265,Deceased,Unknown,69582
+63,Philadelphia,1900-01-01 00:00:00,Unknown,No_Name,Unknown,Kaiser,Davis,true,PAT00933,Active,538-184-8086,40535
+63,Phoenix,1900-01-01 00:00:00,barbara.white53@yahoo.com,Barbara,Female,Medicare,White,true,PAT00066,Active,885-239-6176,21176
+63,Phoenix,1900-01-01 00:00:00,karen.jones31@gmail.com,Karen,Unknown,Self-Pay,Jones,true,PAT00511,Unknown,343-916-6830,89393
+63,San Antonio,1900-01-01 00:00:00,barbara.harris12@yahoo.com,Barbara,Unknown,Unknown,Harris,true,PAT00221,Unknown,887-221-8014,94922
+63,San Antonio,1900-01-01 00:00:00,barbara.harris45@yahoo.com,Barbara,Unknown,Aetna,Harris,true,PAT00802,Active,965-985-3499,59354
+63,San Antonio,1900-01-01 00:00:00,barbara.williams87@gmail.com,Barbara,Male,Medicare,Williams,true,PAT00521,Unknown,Unknown,95774
+63,San Antonio,1900-01-01 00:00:00,thomas.thomas98@gmail.com,Thomas,Unknown,Humana,Thomas,true,PAT00245,Active,971-607-5696,512
+63,Unknown,1900-01-01 00:00:00,patricia.johnson22@gmail.com,Patricia,Female,UnitedHealth,Johnson,true,PAT00064,Inactive,905-488-7088,42208
+64,Chicago,1900-01-01 00:00:00,john.thompson94@gmail.com,John,Female,Medicare,Thompson,true,PAT00881,Inactive,879-105-4010,83155
+64,Dallas,1900-01-01 00:00:00,charles.jackson62@yahoo.com,Charles,Female,Cigna,Jackson,true,PAT00673,Unknown,Unknown,37785
+64,Los Angeles,1900-01-01 00:00:00,joseph.jones25@yahoo.com,Joseph,Male,Medicare,Jones,true,PAT00118,Unknown,845-261-1926,22041
+64,Los Angeles,1900-01-01 00:00:00,sarah.williams83@gmail.com,Sarah,Female,Humana,Williams,true,PAT00448,Inactive,526-172-3938,75034
+64,Los Angeles,1900-01-01 00:00:00,Unknown,Linda,Unknown,Self-Pay,Jones,true,PAT00477,Inactive,641-515-8727,86027
+64,Philadelphia,1900-01-01 00:00:00,james.thompson81@yahoo.com,James,Female,Medicare,Thompson,true,PAT00157,Deceased,696-427-9341,37075
+64,Philadelphia,1900-01-01 00:00:00,mary.taylor74@yahoo.com,Mary,Male,BlueCross,Taylor,true,PAT00666,Deceased,580-625-4501,59546
+64,Philadelphia,1900-01-01 00:00:00,x.allen18@gmail.com,No_Name,Male,Aetna,Allen,true,PAT00519,Unknown,488-371-7262,48488
+64,Phoenix,1900-01-01 00:00:00,linda.davis43@gmail.com,Linda,Male,BlueCross,Davis,true,PAT00819,Active,254-611-1983,80687
+64,San Antonio,1900-01-01 00:00:00,john.thompson21@gmail.com,John,Male,Cigna,Thompson,true,PAT00054,Unknown,967-427-3277,38502
+64,San Antonio,1900-01-01 00:00:00,karen.smith38@yahoo.com,Karen,Unknown,Aetna,Smith,true,PAT00179,Inactive,361-458-7177,70928
+64,San Antonio,1900-01-01 00:00:00,Unknown,James,Unknown,Kaiser,Young,true,PAT00641,Inactive,464-206-6964,10544
+64,San Antonio,1900-01-01 00:00:00,Unknown,Michael,Unknown,BlueCross,Allen,true,PAT00460,Inactive,507-785-6110,27339
+65,Dallas,1900-01-01 00:00:00,david.y96@gmail.com,David,Unknown,Unknown,No_Name,true,PAT00258,Unknown,224-933-8377,893
+65,Dallas,1900-01-01 00:00:00,jennifer.white22@yahoo.com,Jennifer,Other,Medicaid,White,true,PAT00847,Deceased,983-447-1770,48936
+65,Dallas,1900-01-01 00:00:00,jennifer.wilson74@gmail.com,Jennifer,Female,Medicare,Wilson,true,PAT00594,Unknown,829-416-5581,37342
+65,Dallas,1900-01-01 00:00:00,william.taylor82@yahoo.com,William,Female,Aetna,Taylor,true,PAT00193,Deceased,741-541-7995,73185
+65,Houston,1900-01-01 00:00:00,charles.thomas37@yahoo.com,Charles,Male,UnitedHealth,Thomas,true,PAT00213,Inactive,Unknown,472
+65,Houston,1900-01-01 00:00:00,lisa.taylor 32@gmail.com,Lisa,Unknown,Self-Pay,Taylor,true,PAT00773,Active,425-223-3896,18911
+65,Houston,1900-01-01 00:00:00,sarah.young48@gmail.com,Sarah,Unknown,Unknown,Young,true,PAT00545,Active,208-841-3406,83333
+65,Los Angeles,1900-01-01 00:00:00,john.smith65@gmail.com,John,Other,Kaiser,Smith,true,PAT00569,Active,893-695-3377,89158
+65,New York,1900-01-01 00:00:00,lisa.martin22@gmail.com,Lisa,Female,Cigna,Martin,true,PAT00516,Inactive,576-507-6741,49838
+65,New York,1900-01-01 00:00:00,robert.white70@yahoo.com,Robert,Female,BlueCross,White,true,PAT00694,Unknown,500-450-3234,21832
+65,New York,1900-01-01 00:00:00,x.wilson21@gmail.com,No_Name,Male,Medicare,Wilson,true,PAT00097,Inactive,966-896-7855,29693
+65,Philadelphia,1900-01-01 00:00:00,linda.garcia79@gmail.com,Linda,Male,Medicare,Garcia,true,PAT00513,Active,382-808-5914,339
+65,Phoenix,1900-01-01 00:00:00,david.jackson38@gmail.com,David,Unknown,BlueCross,Jackson,true,PAT00444,Inactive,8211649720,39437
+65,Phoenix,1900-01-01 00:00:00,robert.jones53@yahoo.com,Robert,Male,Cigna,Jones,true,PAT00941,Unknown,943-765-7717,92488
+65,Phoenix,1900-01-01 00:00:00,robert.y56@gmail.com,Robert,Male,Aetna,No_Name,true,PAT00271,Active,344-313-8869,10495
+65,Phoenix,1900-01-01 00:00:00,susan.harris88@gmail.com,Susan,Male,BlueCross,Harris,true,PAT00200,Active,535-337-8078,27049
+65,San Antonio,1900-01-01 00:00:00,charles .martin52@gmail.com,Charles,Unknown,Kaiser,Martin,true,PAT00948,Deceased,229-469-8466,60603
+65,San Antonio,1900-01-01 00:00:00,linda.white59@yahoo.com,Linda,Female,BlueCross,White,true,PAT00027,Active,547-622-1363,17096
+65,Unknown,1900-01-01 00:00:00,mary.y56@gmail.com,Mary,Male,Medicaid,No_Name,true,PAT00324,Active,295-986-2190,75605
+66,Dallas,1900-01-01 00:00:00,joseph.thomas43@yahoo.com,Joseph,Female,Aetna,Thomas,true,PAT00013,Deceased,263-619-3197,45587
+66,Dallas,1900-01-01 00:00:00,thomas.thompson70@gmail.com,Thomas,Other,BlueCross,Thompson,true,PAT00960,Inactive,Unknown,67099
+66,Houston,1900-01-01 00:00:00,robert.williams28@yahoo.com,Robert,Female,Medicaid,Williams,true,PAT00958,Inactive,311-340-4458,96013
+66,Los Angeles,1900-01-01 00:00:00,william.moore91@gmail.com,William,Other,Self-Pay,Moore,true,PAT00525,Inactive,909-187-4977,96810
+66,New York,1900-01-01 00:00:00,richard.martin88@gmail.com,Richard,Male,Medicaid,Martin,true,PAT00689,Inactive,482-660-8097,35734
+66,Phoenix,1900-01-01 00:00:00,jennifer.davis84@gmail.com,Jennifer,Unknown,Cigna,Davis,true,PAT00498,Inactive,412-853-6285,67605
+66,San Antonio,1900-01-01 00:00:00,michael.davis45@gmail.com,Michael,Male,Self-Pay,Davis,true,PAT00380,Active,538-797-6968,49522
+66,San Antonio,1900-01-01 00:00:00,michael.williams50@gmail.com,Michael,Male,Medicare,Williams,true,PAT00292,Unknown,520-648-2138,55867
+66,San Antonio,1900-01-01 00:00:00,sarah.thomas70@gmail.com,Sarah,Other,Medicare,Thomas,true,PAT00990,Inactive,302-538-6939,60079
+67,Dallas,1900-01-01 00:00:00,x.moore3@yahoo.com,No_Name,Female,Unknown,Moore,true,PAT00056,Unknown,689-982-1176,50211
+67,Houston,1900-01-01 00:00:00,susan.thomas39@yahoo.com,Susan,Female,Medicaid,Thomas,true,PAT00604,Inactive,204-267-8948,39709
+67,Los Angeles,1900-01-01 00:00:00,patricia.williams95@yahoo.com,Patricia,Other,BlueCross,Williams,true,PAT00317,Active,219-588-6818,70177
+67,Los Angeles,1900-01-01 00:00:00,sarah.harris28@yahoo.com,Sarah,Other,Cigna,Harris,true,PAT00455,Unknown,325-959-7613,74912
+67,Los Angeles,1900-01-01 00:00:00,sarah.y58@gmail.com,Sarah,Female,Aetna,No_Name,true,PAT00322,Unknown,9447732439,80085
+67,New York,1900-01-01 00:00:00,linda.y32@gmail.com,Linda,Unknown,Kaiser,No_Name,true,PAT00106,Active,860-952-4333,30676
+67,New York,1900-01-01 00:00:00,robert.anderson9@yahoo.com,Robert,Unknown,Unknown,Anderson,true,PAT00998,Deceased,216-430-8985,90129
+67,Philadelphia,1900-01-01 00:00:00,joseph.davis88@gmail.com,Joseph,Male,BlueCross,Davis,true,PAT00075,Active,729-448-1846,13512
+67,Philadelphia,1900-01-01 00:00:00,karen.thomas8@gmail.com,Karen,Male,UnitedHealth,Thomas,true,PAT00091,Unknown,334-770-9101,26673
+67,Phoenix,1900-01-01 00:00:00,mary.white63@yahoo.com,Mary,Unknown,Medicare,White,true,PAT00227,Deceased,Unknown,454
+67,Phoenix,1900-01-01 00:00:00,thomas.taylor85@yahoo.com,Thomas,Female,Self-Pay,Taylor,true,PAT00007,Active,559-573-4490,72810
+67,San Antonio,1900-01-01 00:00:00,lisa.thomas73@yahoo.com,Lisa,Unknown,UnitedHealth,Thomas,true,PAT00877,Inactive,474-301-3185,35576
+67,Unknown,1900-01-01 00:00:00,jennifer.martin 75@yahoo.com,Jennifer,Unknown,Medicaid,Martin,true,PAT00915,Active,235-705-3142,55093
+68,Chicago,1900-01-01 00:00:00,barbara.garcia 8@gmail.com,Barbara,Male,Unknown,Garcia,true,PAT00304,Active,784-618-8499,58957
+68,Chicago,1900-01-01 00:00:00,mary.johnson31@yahoo.com,Mary,Unknown,Cigna,Johnson,true,PAT00859,Active,691-266-8453,74504
+68,Chicago,1900-01-01 00:00:00,mary.young1@gmail.com,Mary,Unknown,UnitedHealth,Young,true,PAT00818,Unknown,849-474-2721,51563
+68,Dallas,1900-01-01 00:00:00,john .jackson45@gmail.com,John,Unknown,UnitedHealth,Jackson,true,PAT00489,Unknown,278-933-9050,20115
+68,Houston,1900-01-01 00:00:00,Unknown,William,Female,Aetna,Young,true,PAT00535,Active,664-829-2618,35686
+68,Los Angeles,1900-01-01 00:00:00,charles.thomas 39@yahoo.com,Charles,Unknown,BlueCross,Thomas,true,PAT00976,Active,924-847-9687,232
+68,Los Angeles,1900-01-01 00:00:00,joseph.wilson76@yahoo.com,Joseph,Male,BlueCross,Wilson,true,PAT00396,Unknown,610-628-6424,96120
+68,Los Angeles,1900-01-01 00:00:00,michael.thomas72@gmail.com,Michael,Female,Kaiser,Thomas,true,PAT00534,Deceased,818-387-7054,88858
+68,Los Angeles,1900-01-01 00:00:00,patricia.moore94@yahoo.com,Patricia,Unknown,Cigna,Moore,true,PAT00109,Unknown,8383439514,24844
+68,New York,1900-01-01 00:00:00,x.taylor60@yahoo.com,No_Name,Female,Medicare,Taylor,true,PAT00675,Unknown,359-999-7358,25181
+68,Philadelphia,1900-01-01 00:00:00,john.martin96@gmail.com,John,Female,Aetna,Martin,true,PAT00029,Unknown,351-377-3894,28701
+68,Philadelphia,1900-01-01 00:00:00,Unknown,Susan,Female,Medicare,Young,true,PAT00032,Active,5843949184,48799
+68,Philadelphia,1900-01-01 00:00:00,william.jones73@gmail.com,William,Other,BlueCross,Jones,true,PAT00348,Active,777-220-9793,89263
+68,Philadelphia,1900-01-01 00:00:00,x.thomas96@yahoo.com,No_Name,Male,UnitedHealth,Thomas,true,PAT00984,Unknown,647-465-6973,48883
+68,San Antonio,1900-01-01 00:00:00,richard.taylor83@gmail.com,Richard,Unknown,Unknown,Taylor,true,PAT00629,Deceased,520-391-4321,72828
+68,San Antonio,1900-01-01 00:00:00,sarah.y21@gmail.com,Sarah,Unknown,Unknown,No_Name,true,PAT00033,Active,635-250-3986,18500
+68,San Antonio,1900-01-01 00:00:00,susan.smith 36@gmail.com,Susan,Other,Unknown,Smith,true,PAT00850,Active,4726332175,35458
+68,San Antonio,1900-01-01 00:00:00,Unknown,Michael,Unknown,Medicare,Wilson,true,PAT00533,Inactive,504-170-8913,89184
+68,Unknown,1900-01-01 00:00:00,karen.martin81@yahoo.com,Karen,Unknown,UnitedHealth,Martin,true,PAT00803,Deceased,508-274-9067,13808
+69,Chicago,1900-01-01 00:00:00,richard.brown32@yahoo.com,Richard,Female,Kaiser,Brown,true,PAT00977,Deceased,Unknown,25869
+69,Chicago,1900-01-01 00:00:00,robert.white19@yahoo.com,Robert,Female,Aetna,White,true,PAT00244,Unknown,684-424-5778,18185
+69,Dallas,1900-01-01 00:00:00,patricia.moore88@gmail.com,Patricia,Female,Kaiser,Moore,true,PAT00650,Inactive,499-499-3898,63811
+69,Los Angeles,1900-01-01 00:00:00,joseph.miller91@gmail.com,Joseph,Female,Cigna,Miller,true,PAT00797,Deceased,782-931-4567,99142
+69,Los Angeles,1900-01-01 00:00:00,michael.y44@gmail.com,Michael,Unknown,Medicare,No_Name,true,PAT00754,Deceased,5475836257,34202
+69,Los Angeles,1900-01-01 00:00:00,richard.thompson84@gmail.com,Richard,Male,BlueCross,Thompson,true,PAT00105,Inactive,219-872-5027,52468
+69,Los Angeles,1900-01-01 00:00:00,Unknown,Richard,Unknown,Cigna,Brown,true,PAT00314,Active,776-465-9549,39793
+69,New York,1900-01-01 00:00:00,sarah.anderson67@gmail.com,Sarah,Unknown,UnitedHealth,Anderson,true,PAT00973,Inactive,512-764-7257,85775
+69,New York,1900-01-01 00:00:00,sarah.taylor12@gmail.com,Sarah,Female,BlueCross,Taylor,true,PAT00581,Inactive,473-654-3185,84374
+69,Philadelphia,1900-01-01 00:00:00,linda.jones32@yahoo.com,Linda,Female,Unknown,Jones,true,PAT00210,Active,696-397-4387,479
+69,Philadelphia,1900-01-01 00:00:00,susan.smith82@gmail.com,Susan,Female,Aetna,Smith,true,PAT00980,Inactive,863-806-4351,70859
+69,Phoenix,1900-01-01 00:00:00,patricia.brown24@gmail.com,Patricia,Unknown,Humana,Brown,true,PAT00250,Inactive,866-603-4809,43112
+69,Phoenix,1900-01-01 00:00:00,richard.moore54@yahoo.com,Richard,Unknown,BlueCross,Moore,true,PAT00751,Deceased,974-957-2673,34023
+69,San Antonio,1900-01-01 00:00:00,william.garcia17@gmail.com,William,Other,Medicaid,Garcia,true,PAT00332,Unknown,487-890-7682,68663
+70,Chicago,1900-01-01 00:00:00,charles.miller42@yahoo.com,Charles,Female,BlueCross,Miller,true,PAT00830,Active,527-525-4609,90731
+70,Chicago,1900-01-01 00:00:00,sarah.jones59@yahoo.com,Sarah,Female,Medicaid,Jones,true,PAT00763,Active,787-219-6923,87639
+70,Dallas,1900-01-01 00:00:00,jennifer.williams37@gmail.com,Jennifer,Male,Self-Pay,Williams,true,PAT00749,Unknown,471-775-6734,88604
+70,Dallas,1900-01-01 00:00:00,karen.allen11@gmail.com,Karen,Unknown,Unknown,Allen,true,PAT00678,Unknown,248-608-4078,69233
+70,Dallas,1900-01-01 00:00:00,susan.garcia96@yahoo.com,Susan,Female,Self-Pay,Garcia,true,PAT00110,Inactive,554-842-5753,20936
+70,Dallas,1900-01-01 00:00:00,thomas.allen47@gmail.com,Thomas,Female,Kaiser,Allen,true,PAT00739,Active,405-132-4577,29013
+70,Houston,1900-01-01 00:00:00,david.thompson96@gmail.com,David,Male,Humana,Thompson,true,PAT00093,Unknown,Unknown,86579
+70,Houston,1900-01-01 00:00:00,x.jackson30@gmail.com,No_Name,Female,UnitedHealth,Jackson,true,PAT00761,Deceased,415-627-9531,47437
+70,Los Angeles,1900-01-01 00:00:00,lisa.taylor84@gmail.com,Lisa,Unknown,Medicaid,Taylor,true,PAT00626,Unknown,417-118-1480,59935
+70,New York,1900-01-01 00:00:00,mary.thompson51@yahoo.com,Mary,Male,Medicare,Thompson,true,PAT00918,Unknown,920-831-6959,15853
+70,New York,1900-01-01 00:00:00,richard.williams75@gmail.com,Richard,Male,Medicare,Williams,true,PAT00266,Unknown,864-725-4450,68654
+70,New York,1900-01-01 00:00:00,thomas.smith75@gmail.com,Thomas,Unknown,BlueCross,Smith,true,PAT00646,Active,3268071054,16217
+70,Philadelphia,1900-01-01 00:00:00,david.smith49@yahoo.com,David,Unknown,BlueCross,Smith,true,PAT00631,Active,273-414-2386,34902
+70,Philadelphia,1900-01-01 00:00:00,mary.martin50@gmail.com,Mary,Other,Humana,Martin,true,PAT00649,Unknown,963-995-9792,85232
+70,Phoenix,1900-01-01 00:00:00,jessica.thompson86@yahoo.com,Jessica,Male,Medicare,Thompson,true,PAT00061,Unknown,980-132-1634,26357
+70,Phoenix,1900-01-01 00:00:00,michael.wilson71@yahoo.com,Michael,Other,Self-Pay,Wilson,true,PAT00123,Active,723-332-3189,70567
+70,Phoenix,1900-01-01 00:00:00,michael.young18@gmail.com,Michael,Unknown,Self-Pay,Young,true,PAT00206,Active,494-177-6893,59074
+70,Phoenix,1900-01-01 00:00:00,richard.brown53@gmail.com,Richard,Female,Kaiser,Brown,true,PAT00263,Deceased,259-266-6934,57903
+70,Phoenix,1900-01-01 00:00:00,susan.miller18@gmail.com,Susan,Female,Kaiser,Miller,true,PAT00499,Unknown,7852443410,15446
+70,San Antonio,1900-01-01 00:00:00,lisa .taylor6@gmail.com,Lisa,Female,Cigna,Taylor,true,PAT00367,Unknown,531-438-8201,83009
+70,San Antonio,1900-01-01 00:00:00,lisa.anderson89@yahoo.com,Lisa,Unknown,UnitedHealth,Anderson,true,PAT00518,Active,5651479936,34056
+70,San Antonio,1900-01-01 00:00:00,mary.young36@gmail.com,Mary,Unknown,Cigna,Young,true,PAT00421,Inactive,620-288-5598,80432
+70,San Antonio,1900-01-01 00:00:00,Unknown,Jessica,Female,Cigna,Garcia,true,PAT00483,Unknown,8372993938,54014
+70,San Antonio,1900-01-01 00:00:00,Unknown,Michael,Female,Medicare,Garcia,true,PAT00846,Unknown,205-502-2178,68694
+70,Unknown,1900-01-01 00:00:00,richard.smith92@gmail.com,Richard,Other,Aetna,Smith,true,PAT00667,Active,700-355-8122,95020
+70,Unknown,1900-01-01 00:00:00,william.y12@gmail.com,William,Female,UnitedHealth,No_Name,true,PAT00640,Inactive,505-958-9375,48740
+71,Dallas,1900-01-01 00:00:00,john.jackson5@yahoo.com,John,Unknown,Self-Pay,Jackson,true,PAT00037,Deceased,630-699-4099,94068
+71,Dallas,1900-01-01 00:00:00,michael.taylor4@gmail.com,Michael,Female,Kaiser,Taylor,true,PAT00869,Unknown,641-472-7128,30595
+71,Dallas,1900-01-01 00:00:00,richard.y32@gmail.com,Richard,Other,Aetna,No_Name,true,PAT00451,Unknown,893-437-7989,441
+71,Los Angeles,1900-01-01 00:00:00,susan.williams95@gmail.com,Susan,Female,Medicare,Williams,true,PAT00680,Unknown,495-430-7183,81478
+71,Los Angeles,1900-01-01 00:00:00,william .jackson63@gmail.com,William,Female,Medicaid,Jackson,true,PAT00333,Active,7288487188,95318
+71,New York,1900-01-01 00:00:00,susan.white69@gmail.com,Susan,Male,BlueCross,White,true,PAT00908,Active,378-326-9506,48730
+71,New York,1900-01-01 00:00:00,william.moore71@yahoo.com,William,Unknown,Medicare,Moore,true,PAT00801,Unknown,976-407-2509,76439
+71,Philadelphia,1900-01-01 00:00:00,charles.jones73@yahoo.com,Charles,Other,Cigna,Jones,true,PAT00190,Active,296-290-7770,62017
+71,Philadelphia,1900-01-01 00:00:00,john.davis91@gmail.com,John,Male,Humana,Davis,true,PAT00442,Inactive,614-109-1402,21058
+71,Phoenix,1900-01-01 00:00:00,lisa.garcia92@gmail.com,Lisa,Male,BlueCross,Garcia,true,PAT00989,Unknown,376-615-6170,19070
+71,Phoenix,1900-01-01 00:00:00,michael.williams67@gmail.com,Michael,Unknown,Unknown,Williams,true,PAT00733,Unknown,2258679160,47762
+71,Phoenix,1900-01-01 00:00:00,william.thompson83@gmail.com,William,Female,Self-Pay,Thompson,true,PAT00355,Active,Unknown,62670
+71,Phoenix,1900-01-01 00:00:00,x.jones56@gmail.com,No_Name,Unknown,Self-Pay,Jones,true,PAT00294,Active,996-417-5016,95500
+71,San Antonio,1900-01-01 00:00:00,joseph.anderson11@gmail.com,Joseph,Unknown,BlueCross,Anderson,true,PAT00755,Unknown,395-677-1179,73285
+71,Unknown,1900-01-01 00:00:00,james.garcia 30@yahoo.com,James,Female,UnitedHealth,Garcia,true,PAT00791,Active,788-843-8496,66992
+72,Dallas,1900-01-01 00:00:00,joseph.y34@yahoo.com,Joseph,Unknown,Cigna,No_Name,true,PAT00301,Unknown,643-782-1384,83019
+72,Houston,1900-01-01 00:00:00,barbara.allen1@gmail.com,Barbara,Male,Medicare,Allen,true,PAT00820,Unknown,370-953-9316,61268
+72,Houston,1900-01-01 00:00:00,michael.taylor77@gmail.com,Michael,Female,Cigna,Taylor,true,PAT00627,Inactive,723-775-6259,63258
+72,Houston,1900-01-01 00:00:00,richard.wilson80@yahoo.com,Richard,Other,Aetna,Wilson,true,PAT00457,Unknown,5232549237,54711
+72,Houston,1900-01-01 00:00:00,thomas.johnson70@gmail.com,Thomas,Male,Self-Pay,Johnson,true,PAT00467,Unknown,876-643-3341,813
+72,Houston,1900-01-01 00:00:00,thomas.y12@gmail.com,Thomas,Unknown,BlueCross,No_Name,true,PAT00088,Inactive,366-919-2437,20352
+72,New York,1900-01-01 00:00:00,mary.johnson42@gmail.com,Mary,Other,Aetna,Johnson,true,PAT00895,Inactive,261-965-2810,22055
+72,New York,1900-01-01 00:00:00,michael.white92@yahoo.com,Michael,Female,Medicare,White,true,PAT00428,Active,260-812-4403,63904
+72,Philadelphia,1900-01-01 00:00:00,david.brown24@gmail.com,David,Male,Humana,Brown,true,PAT00746,Deceased,334-265-8788,32024
+72,Phoenix,1900-01-01 00:00:00,james.anderson85@yahoo.com,James,Unknown,BlueCross,Anderson,true,PAT00735,Unknown,357-561-9479,99738
+72,San Antonio,1900-01-01 00:00:00,lisa.jackson71@yahoo.com,Lisa,Female,BlueCross,Jackson,true,PAT00874,Inactive,710-438-4869,26958
+72,Unknown,1900-01-01 00:00:00,michael.martin20@yahoo.com,Michael,Male,Cigna,Martin,true,PAT00101,Deceased,683-147-9931,36255
+73,Chicago,1900-01-01 00:00:00,barbara.jackson83@gmail.com,Barbara,Unknown,Medicare,Jackson,true,PAT00443,Unknown,3355412714,33603
+73,Chicago,1900-01-01 00:00:00,james.johnson67@gmail.com,James,Female,Unknown,Johnson,true,PAT00218,Inactive,660-900-1460,85170
+73,Chicago,1900-01-01 00:00:00,sarah.smith54@gmail.com,Sarah,Other,UnitedHealth,Smith,true,PAT00736,Active,216-114-3822,92775
+73,Chicago,1900-01-01 00:00:00,thomas.garcia4@gmail.com,Thomas,Unknown,Humana,Garcia,true,PAT00845,Active,291-412-7358,92888
+73,Chicago,1900-01-01 00:00:00,Unknown,Charles,Unknown,Cigna,Thomas,true,PAT00561,Deceased,420-342-6544,35602
+73,Dallas,1900-01-01 00:00:00,barbara.brown26@yahoo.com,Barbara,Female,UnitedHealth,Brown,true,PAT00981,Active,516-890-8448,25182
+73,Dallas,1900-01-01 00:00:00,patricia.garcia80@yahoo.com,Patricia,Male,Aetna,Garcia,true,PAT00616,Inactive,308-444-1595,14225
+73,Houston,1900-01-01 00:00:00,jennifer.wilson48@gmail.com,Jennifer,Male,Medicare,Wilson,true,PAT00015,Active,606-469-4233,93488
+73,Houston,1900-01-01 00:00:00,patricia.young27@gmail.com,Patricia,Male,Self-Pay,Young,true,PAT00095,Active,3421706664,67234
+73,Los Angeles,1900-01-01 00:00:00,richard.anderson 22@yahoo.com,Richard,Male,Aetna,Anderson,true,PAT00565,Inactive,210-832-5022,28954
+73,Los Angeles,1900-01-01 00:00:00,susan.martin99@gmail.com,Susan,Male,Aetna,Martin,true,PAT00898,Unknown,695-852-3874,17204
+73,Los Angeles,1900-01-01 00:00:00,Unknown,No_Name,Male,Unknown,Thompson,true,PAT00181,Deceased,Unknown,559
+73,New York,1900-01-01 00:00:00,barbara .young89@yahoo.com,Barbara,Female,Medicare,Young,true,PAT00957,Active,206-297-9114,43351
+73,Philadelphia,1900-01-01 00:00:00,sarah.williams4@gmail.com,Sarah,Female,Unknown,Williams,true,PAT00384,Active,601-525-7886,58060
+73,Phoenix,1900-01-01 00:00:00,thomas.anderson2@gmail.com,Thomas,Female,Unknown,Anderson,true,PAT00012,Deceased,713-564-7351,52642
+73,San Antonio,1900-01-01 00:00:00,james .thompson14@gmail.com,James,Male,Self-Pay,Thompson,true,PAT00570,Inactive,541-231-9492,20541
+73,San Antonio,1900-01-01 00:00:00,joseph.williams6@yahoo.com,Joseph,Male,Aetna,Williams,true,PAT00712,Active,252-270-6313,69397
+74,Chicago,1900-01-01 00:00:00,james.anderson66@gmail.com,James,Other,Medicare,Anderson,true,PAT00289,Active,702-436-5895,30960
+74,Chicago,1900-01-01 00:00:00,jessica.anderson73@gmail.com,Jessica,Female,Kaiser,Anderson,true,PAT00166,Deceased,524-465-5185,33301
+74,Chicago,1900-01-01 00:00:00,Unknown,Lisa,Unknown,Medicaid,Taylor,true,PAT00316,Active,894-688-7297,97141
+74,Dallas,1900-01-01 00:00:00,x.moore24@gmail.com,No_Name,Male,Medicaid,Moore,true,PAT00575,Active,481-136-5022,27722
+74,Houston,1900-01-01 00:00:00,michael.johnson96@yahoo.com,Michael,Male,Self-Pay,Johnson,true,PAT00764,Active,426-403-7148,36861
+74,Los Angeles,1900-01-01 00:00:00,david.thomas1@gmail.com,David,Male,Cigna,Thomas,true,PAT00809,Active,946-564-9297,92736
+74,Los Angeles,1900-01-01 00:00:00,robert.davis7@yahoo.com,Robert,Unknown,Cigna,Davis,true,PAT00672,Unknown,631-934-8161,59966
+74,Los Angeles,1900-01-01 00:00:00,thomas.wilson72@gmail.com,Thomas,Male,Unknown,Wilson,true,PAT00335,Unknown,927-606-9122,76099
+74,New York,1900-01-01 00:00:00,charles.davis8@gmail.com,Charles,Female,Humana,Davis,true,PAT00703,Unknown,470-123-1010,31577
+74,New York,1900-01-01 00:00:00,jessica.smith15@yahoo.com,Jessica,Female,Medicare,Smith,true,PAT00595,Unknown,696-398-1672,88791
+74,Philadelphia,1900-01-01 00:00:00,joseph.thompson48@gmail.com,Joseph,Female,Aetna,Thompson,true,PAT00036,Active,721-560-5622,80391
+74,Philadelphia,1900-01-01 00:00:00,lisa.taylor5@yahoo.com,Lisa,Female,Medicare,Taylor,true,PAT00602,Active,616-194-6588,61844
+74,Philadelphia,1900-01-01 00:00:00,robert .jackson93@yahoo.com,Robert,Female,Humana,Jackson,true,PAT00559,Inactive,945-618-2036,56630
+74,Phoenix,1900-01-01 00:00:00,susan.harris17@gmail.com,Susan,Male,BlueCross,Harris,true,PAT00379,Unknown,982-710-5100,31614
+74,San Antonio,1900-01-01 00:00:00,richard.davis99@yahoo.com,Richard,Male,UnitedHealth,Davis,true,PAT00691,Unknown,961-210-3293,79731
+75,Chicago,1900-01-01 00:00:00,x.allen10@yahoo.com,No_Name,Unknown,UnitedHealth,Allen,true,PAT00838,Unknown,545-728-8268,99741
+75,Chicago,1900-01-01 00:00:00,x.thomas50@gmail.com,No_Name,Female,Cigna,Thomas,true,PAT00658,Inactive,388-496-6050,88786
+75,Dallas,1900-01-01 00:00:00,Unknown,Susan,Male,Humana,Garcia,true,PAT00823,Unknown,787-638-8820,63991
+75,Dallas,1900-01-01 00:00:00,william.moore99@gmail.com,William,Unknown,Aetna,Moore,true,PAT00175,Deceased,363-662-2092,79996
+75,Houston,1900-01-01 00:00:00,david.johnson 63@gmail.com,David,Unknown,Self-Pay,Johnson,true,PAT00580,Inactive,614-833-5121,50805
+75,Houston,1900-01-01 00:00:00,x.garcia77@yahoo.com,No_Name,Male,BlueCross,Garcia,true,PAT00414,Inactive,989-312-6454,30166
+75,New York,1900-01-01 00:00:00,Unknown,David,Unknown,Humana,No_Name,true,PAT00341,Active,930-417-8053,92984
+75,Phoenix,1900-01-01 00:00:00,james.wilson79@yahoo.com,James,Male,Humana,Wilson,true,PAT00169,Inactive,328-316-8645,84448
+75,Phoenix,1900-01-01 00:00:00,richard.y38@gmail.com,Richard,Female,Medicare,No_Name,true,PAT00108,Inactive,550-963-4482,76887
+75,Phoenix,1900-01-01 00:00:00,thomas.garcia15@gmail.com,Thomas,Female,Self-Pay,Garcia,true,PAT00500,Active,302-305-4555,23168
+75,San Antonio,1900-01-01 00:00:00,john.williams64@yahoo.com,John,Unknown,Aetna,Williams,true,PAT00546,Unknown,872-395-2162,30144
+75,San Antonio,1900-01-01 00:00:00,x.thomas61@gmail.com,No_Name,Female,Medicaid,Thomas,true,PAT00463,Active,846-856-3130,91468
+76,Chicago,1900-01-01 00:00:00,charles.davis80@gmail.com,Charles,Male,Aetna,Davis,true,PAT00434,Inactive,809-725-9275,94264
+76,Chicago,1900-01-01 00:00:00,linda.moore63@gmail.com,Linda,Unknown,Aetna,Moore,true,PAT00532,Unknown,711-448-5270,25988
+76,Houston,1900-01-01 00:00:00,john.anderson65@gmail.com,John,Unknown,Cigna,Anderson,true,PAT00582,Inactive,634-424-9704,68793
+76,Houston,1900-01-01 00:00:00,michael .young42@yahoo.com,Michael,Male,Humana,Young,true,PAT00508,Inactive,656-280-1898,90372
+76,Houston,1900-01-01 00:00:00,robert.jones62@gmail.com,Robert,Male,Kaiser,Jones,true,PAT00461,Active,4177576590,25553
+76,Los Angeles,1900-01-01 00:00:00,linda.harris44@gmail.com,Linda,Unknown,BlueCross,Harris,true,PAT00440,Deceased,223-809-1665,94492
+76,New York,1900-01-01 00:00:00,charles.harris92@yahoo.com,Charles,Other,Unknown,Harris,true,PAT00217,Inactive,718-787-9205,54398
+76,New York,1900-01-01 00:00:00,robert.johnson96@gmail.com,Robert,Male,Unknown,Johnson,true,PAT00389,Inactive,901-354-1478,66261
+76,Philadelphia,1900-01-01 00:00:00,sarah.young27@yahoo.com,Sarah,Male,BlueCross,Young,true,PAT00692,Deceased,920-434-3013,81225
+76,Phoenix,1900-01-01 00:00:00,david.jones43@gmail.com,David,Male,Aetna,Jones,true,PAT00375,Active,945-962-4233,82274
+76,Phoenix,1900-01-01 00:00:00,Unknown,Lisa,Unknown,Medicare,Harris,true,PAT00708,Active,518-229-5313,55247
+76,San Antonio,1900-01-01 00:00:00,patricia.johnson92@gmail.com,Patricia,Female,BlueCross,Johnson,true,PAT00578,Deceased,776-389-7120,13968
+76,Unknown,1900-01-01 00:00:00,lisa.y48@gmail.com,Lisa,Unknown,Humana,No_Name,true,PAT00885,Active,768-200-7042,76793
+76,Unknown,1900-01-01 00:00:00,susan.davis53@yahoo.com,Susan,Male,Cigna,Davis,true,PAT00393,Active,982-621-2426,85456
+77,Chicago,1900-01-01 00:00:00,mary.williams37@gmail.com,Mary,Unknown,Aetna,Williams,true,PAT00226,Active,471-368-2716,88127
+77,Chicago,1900-01-01 00:00:00,thomas.brown27@gmail.com,Thomas,Unknown,Humana,Brown,true,PAT00590,Active,443-473-8742,78602
+77,Houston,1900-01-01 00:00:00,michael.johnson77@gmail.com,Michael,Male,Self-Pay,Johnson,true,PAT00485,Unknown,369-246-8647,48411
+77,Houston,1900-01-01 00:00:00,patricia.martin65@gmail.com,Patricia,Male,BlueCross,Martin,true,PAT00137,Active,381-599-6657,62378
+77,New York,1900-01-01 00:00:00,john.y8@yahoo.com,John,Other,Self-Pay,No_Name,true,PAT00010,Active,909-974-7299,17328
+77,New York,1900-01-01 00:00:00,michael .y37@gmail.com,Michael,Male,Unknown,No_Name,true,PAT01000,Active,222-333-7538,15536
+77,Philadelphia,1900-01-01 00:00:00,linda.harris96@gmail.com,Linda,Unknown,Self-Pay,Harris,true,PAT00194,Unknown,835-871-6665,90735
+77,Philadelphia,1900-01-01 00:00:00,mary.johnson51@yahoo.com,Mary,Male,BlueCross,Johnson,true,PAT00644,Inactive,554-493-5559,24696
+77,Philadelphia,1900-01-01 00:00:00,Unknown,John,Female,Cigna,Anderson,true,PAT00760,Active,365-499-7569,87055
+77,Philadelphia,1900-01-01 00:00:00,Unknown,Lisa,Other,Aetna,Taylor,true,PAT00381,Inactive,760-550-9695,76812
+77,San Antonio,1900-01-01 00:00:00,jessica.y48@gmail.com,Jessica,Female,Medicaid,No_Name,true,PAT00935,Inactive,688-913-8047,65463
+77,San Antonio,1900-01-01 00:00:00,karen.anderson67@gmail.com,Karen,Female,Cigna,Anderson,true,PAT00490,Unknown,885-364-6964,83351
+77,San Antonio,1900-01-01 00:00:00,thomas.wilson43@gmail.com,Thomas,Female,Self-Pay,Wilson,true,PAT00636,Active,383-379-1953,23600
+77,San Antonio,1900-01-01 00:00:00,x.anderson86@gmail.com,No_Name,Unknown,Kaiser,Anderson,true,PAT00086,Unknown,579-550-7564,66757
+77,Unknown,1900-01-01 00:00:00,x.williams74@yahoo.com,No_Name,Female,Aetna,Williams,true,PAT00766,Unknown,Unknown,91730
+78,Chicago,1900-01-01 00:00:00,charles.harris44@gmail.com,Charles,Female,Aetna,Harris,true,PAT00986,Unknown,7187862040,25758
+78,Chicago,1900-01-01 00:00:00,linda .moore60@gmail.com,Linda,Male,BlueCross,Moore,true,PAT00663,Unknown,942-541-1435,79722
+78,Chicago,1900-01-01 00:00:00,linda.davis32@gmail.com,Linda,Female,Kaiser,Davis,true,PAT00633,Deceased,834-696-9144,61120
+78,Houston,1900-01-01 00:00:00,patricia.thomas62@gmail.com,Patricia,Female,Medicaid,Thomas,true,PAT00959,Inactive,Unknown,18286
+78,Houston,1900-01-01 00:00:00,thomas.johnson77@gmail.com,Thomas,Female,BlueCross,Johnson,true,PAT00539,Deceased,685-237-6410,16909
+78,Houston,1900-01-01 00:00:00,thomas.taylor58@gmail.com,Thomas,Unknown,Medicaid,Taylor,true,PAT00089,Active,554-565-9573,21664
+78,Houston,1900-01-01 00:00:00,william.miller60@gmail.com,William,Other,Medicaid,Miller,true,PAT00854,Unknown,597-880-6007,71036
+78,New York,1900-01-01 00:00:00,mary.thomas2@gmail.com,Mary,Male,Kaiser,Thomas,true,PAT00439,Inactive,Unknown,25420
+78,Philadelphia,1900-01-01 00:00:00,joseph.thomas14@gmail.com,Joseph,Female,UnitedHealth,Thomas,true,PAT00481,Active,354-582-3819,43860
+78,Philadelphia,1900-01-01 00:00:00,lisa.thompson53@gmail.com,Lisa,Male,Medicare,Thompson,true,PAT00145,Active,623-374-2462,31826
+78,Phoenix,1900-01-01 00:00:00,charles.y53@gmail.com,Charles,Female,Medicare,No_Name,true,PAT00836,Unknown,883-429-1680,76040
+78,San Antonio,1900-01-01 00:00:00,joseph.davis38@yahoo.com,Joseph,Female,Aetna,Davis,true,PAT00870,Unknown,3859369151,370
+78,Unknown,1900-01-01 00:00:00,michael.williams97@gmail.com,Michael,Unknown,UnitedHealth,Williams,true,PAT00635,Deceased,399-121-6531,46999
+79,Dallas,1900-01-01 00:00:00,thomas.jones31@gmail.com,Thomas,Female,Medicare,Jones,true,PAT00956,Unknown,6653111281,57012
+79,Houston,1900-01-01 00:00:00,james.miller90@gmail.com,James,Unknown,Medicaid,Miller,true,PAT00360,Inactive,250-536-6893,41940
+79,Los Angeles,1900-01-01 00:00:00,richard.johnson73@yahoo.com,Richard,Unknown,Self-Pay,Johnson,true,PAT00410,Inactive,860-551-6963,94893
+79,Los Angeles,1900-01-01 00:00:00,robert.y32@yahoo.com,Robert,Female,UnitedHealth,No_Name,true,PAT00419,Deceased,639-973-8689,21915
+79,Philadelphia,1900-01-01 00:00:00,michael.smith14@gmail.com,Michael,Unknown,BlueCross,Smith,true,PAT00256,Inactive,292-202-2131,42099
+79,San Antonio,1900-01-01 00:00:00,joseph.martin27@yahoo.com,Joseph,Female,Medicare,Martin,true,PAT00610,Unknown,245-439-1787,57979
+79,San Antonio,1900-01-01 00:00:00,lisa.taylor77@gmail.com,Lisa,Male,Humana,Taylor,true,PAT00622,Unknown,890-372-8851,32512
+79,San Antonio,1900-01-01 00:00:00,thomas.martin 85@gmail.com,Thomas,Female,Cigna,Martin,true,PAT00573,Unknown,982-781-7213,74276
+79,San Antonio,1900-01-01 00:00:00,Unknown,Jessica,Other,UnitedHealth,Jackson,true,PAT00132,Active,912-356-4310,58688
+79,Unknown,1900-01-01 00:00:00,linda.miller69@yahoo.com,Linda,Unknown,UnitedHealth,Miller,true,PAT00799,Deceased,573-530-2429,89894
+79,Unknown,1900-01-01 00:00:00,thomas.thompson22@yahoo.com,Thomas,Male,UnitedHealth,Thompson,true,PAT00486,Active,794-254-4405,47555
+80,Dallas,1900-01-01 00:00:00,robert.young47@gmail.com,Robert,Female,Aetna,Young,true,PAT00134,Unknown,553-271-1550,81591
+80,Dallas,1900-01-01 00:00:00,susan.white16@yahoo.com,Susan,Female,Medicare,White,true,PAT00081,Unknown,362-580-4413,30224
+80,New York,1900-01-01 00:00:00,jennifer.harris67@gmail.com,Jennifer,Female,Medicare,Harris,true,PAT00017,Unknown,630-136-9577,58733
+80,New York,1900-01-01 00:00:00,john.wilson36@gmail.com,John,Female,Aetna,Wilson,true,PAT00278,Inactive,Unknown,49692
+80,Philadelphia,1900-01-01 00:00:00,barbara.moore56@gmail.com,Barbara,Male,Medicaid,Moore,true,PAT00104,Active,888-796-4947,88577
+80,Philadelphia,1900-01-01 00:00:00,michael.martin62@gmail.com,Michael,Male,Cigna,Martin,true,PAT00004,Inactive,290-121-3933,77862
+80,Phoenix,1900-01-01 00:00:00,karen.thompson88@gmail.com,Karen,Male,Self-Pay,Thompson,true,PAT00947,Active,791-472-6212,67408
+80,Unknown,1900-01-01 00:00:00,jennifer.jones78@gmail.com,Jennifer,Female,Self-Pay,Jones,true,PAT00150,Active,292-898-5814,19219
+81,Chicago,1900-01-01 00:00:00,jennifer.anderson57@yahoo.com,Jennifer,Unknown,Kaiser,Anderson,true,PAT00617,Active,392-188-1575,56400
+81,Chicago,1900-01-01 00:00:00,patricia.wilson16@gmail.com,Patricia,Unknown,Humana,Wilson,true,PAT00072,Unknown,282-267-7189,79716
+81,Dallas,1900-01-01 00:00:00,barbara.davis86@yahoo.com,Barbara,Female,Unknown,Davis,true,PAT00651,Unknown,775-528-2666,91315
+81,Los Angeles,1900-01-01 00:00:00,jennifer.wilson60@gmail.com,Jennifer,Female,Humana,Wilson,true,PAT00537,Unknown,753-315-2396,17385
+81,Los Angeles,1900-01-01 00:00:00,x.harris11@gmail.com,No_Name,Other,Unknown,Harris,true,PAT00404,Unknown,298-381-6378,46642
+81,Philadelphia,1900-01-01 00:00:00,jessica.taylor58@yahoo.com,Jessica,Male,UnitedHealth,Taylor,true,PAT00370,Active,498-366-8642,63997
+81,Philadelphia,1900-01-01 00:00:00,linda.davis12@gmail.com,Linda,Male,Medicare,Davis,true,PAT00528,Unknown,684-687-3794,75645
+81,Philadelphia,1900-01-01 00:00:00,Unknown,Karen,Female,Medicare,Williams,true,PAT00817,Inactive,297-337-4548,61214
+81,Philadelphia,1900-01-01 00:00:00,Unknown,Thomas,Male,BlueCross,Anderson,true,PAT00378,Active,952-424-1302,45315
+81,Phoenix,1900-01-01 00:00:00,lisa.brown90@yahoo.com,Lisa,Female,Unknown,Brown,true,PAT00136,Inactive,857-451-1728,14253
+81,Phoenix,1900-01-01 00:00:00,Unknown,Lisa,Male,Medicaid,Harris,true,PAT00083,Unknown,301-951-5554,96569
+81,San Antonio,1900-01-01 00:00:00,jennifer.anderson81@gmail.com,Jennifer,Female,Humana,Anderson,true,PAT00839,Inactive,543-715-9425,85959
+81,San Antonio,1900-01-01 00:00:00,karen.jackson54@gmail.com,Karen,Male,Medicare,Jackson,true,PAT00837,Active,947-834-5848,27471
+81,Unknown,1900-01-01 00:00:00,x.moore7@gmail.com,No_Name,Female,UnitedHealth,Moore,true,PAT00288,Inactive,205-391-5630,715
+82,Chicago,1900-01-01 00:00:00,linda.davis6@gmail.com,Linda,Female,Medicare,Davis,true,PAT00668,Active,720-582-1087,27204
+82,Chicago,1900-01-01 00:00:00,robert.moore69@yahoo.com,Robert,Male,Humana,Moore,true,PAT00255,Inactive,729-429-1949,56413
+82,Chicago,1900-01-01 00:00:00,susan.johnson22@yahoo.com,Susan,Unknown,BlueCross,Johnson,true,PAT00488,Active,538-110-4368,97496
+82,Dallas,1900-01-01 00:00:00,john.taylor28@gmail.com,John,Unknown,Medicaid,Taylor,true,PAT00102,Inactive,536-302-1891,13151
+82,Dallas,1900-01-01 00:00:00,patricia.thomas3@gmail.com,Patricia,Unknown,Unknown,Thomas,true,PAT00506,Unknown,Unknown,12586
+82,Houston,1900-01-01 00:00:00,charles.y57@gmail.com,Charles,Female,Unknown,No_Name,true,PAT00311,Inactive,853-511-3132,300
+82,Houston,1900-01-01 00:00:00,susan.taylor66@yahoo.com,Susan,Female,Self-Pay,Taylor,true,PAT00276,Active,877-181-1497,38691
+82,Houston,1900-01-01 00:00:00,thomas.wilson24@gmail.com,Thomas,Male,Aetna,Wilson,true,PAT00447,Active,244-240-7626,363
+82,Los Angeles,1900-01-01 00:00:00,michael.williams92@yahoo.com,Michael,Male,Medicaid,Williams,true,PAT00133,Deceased,3419197923,76459
+82,New York,1900-01-01 00:00:00,x.white9@gmail.com,No_Name,Unknown,BlueCross,White,true,PAT00122,Unknown,516-721-2678,20161
+82,Philadelphia,1900-01-01 00:00:00,mary.moore70@gmail.com,Mary,Female,Self-Pay,Moore,true,PAT00832,Inactive,695-732-1609,33659
+82,Phoenix,1900-01-01 00:00:00,barbara.thompson89@yahoo.com,Barbara,Female,Medicaid,Thompson,true,PAT00430,Unknown,997-840-2011,14032
+82,Phoenix,1900-01-01 00:00:00,john.jackson81@gmail.com,John,Male,Cigna,Jackson,true,PAT00003,Active,617-469-9462,94897
+82,Phoenix,1900-01-01 00:00:00,patricia.taylor47@gmail.com,Patricia,Female,Cigna,Taylor,true,PAT00562,Active,655-459-2997,26296
+83,Dallas,1900-01-01 00:00:00,barbara .harris70@gmail.com,Barbara,Male,BlueCross,Harris,true,PAT00220,Active,Unknown,76040
+83,Dallas,1900-01-01 00:00:00,charles.taylor27@gmail.com,Charles,Male,Medicare,Taylor,true,PAT00382,Active,Unknown,53019
+83,Dallas,1900-01-01 00:00:00,mary.brown24@yahoo.com,Mary,Unknown,UnitedHealth,Brown,true,PAT00199,Active,471-746-6784,48403
+83,Houston,1900-01-01 00:00:00,jessica.thompson11@gmail.com,Jessica,Unknown,Medicare,Thompson,true,PAT00405,Deceased,257-670-1368,52179
+83,Houston,1900-01-01 00:00:00,lisa.y44@yahoo.com,Lisa,Male,Cigna,No_Name,true,PAT00187,Active,234-666-2840,96152
+83,Houston,1900-01-01 00:00:00,patricia.brown2@yahoo.com,Patricia,Female,Medicare,Brown,true,PAT00743,Inactive,995-960-4765,67805
+83,Los Angeles,1900-01-01 00:00:00,mary.allen4@gmail.com,Mary,Male,Aetna,Allen,true,PAT00009,Inactive,609-461-5337,17880
+83,Los Angeles,1900-01-01 00:00:00,robert.miller64@gmail.com,Robert,Male,Unknown,Miller,true,PAT00775,Inactive,933-455-6784,89401
+83,Los Angeles,1900-01-01 00:00:00,x.young81@gmail.com,No_Name,Other,Medicaid,Young,true,PAT00224,Active,Unknown,57819
+83,New York,1900-01-01 00:00:00,linda.garcia30@yahoo.com,Linda,Other,Kaiser,Garcia,true,PAT00811,Inactive,860-599-9467,66861
+83,New York,1900-01-01 00:00:00,richard.johnson33@gmail.com,Richard,Male,BlueCross,Johnson,true,PAT00383,Inactive,7062943748,23269
+83,Phoenix,1900-01-01 00:00:00,james.johnson12@gmail.com,James,Female,Self-Pay,Johnson,true,PAT00670,Unknown,262-807-6725,51151
+83,San Antonio,1900-01-01 00:00:00,charles.brown61@gmail.com,Charles,Female,UnitedHealth,Brown,true,PAT00681,Inactive,334-963-7158,59413
+83,San Antonio,1900-01-01 00:00:00,jennifer.jackson89@yahoo.com,Jennifer,Female,Cigna,Jackson,true,PAT00541,Inactive,370-874-3339,58001
+83,San Antonio,1900-01-01 00:00:00,jessica.williams16@gmail.com,Jessica,Other,Kaiser,Williams,true,PAT00905,Active,541-558-5274,16438
+83,San Antonio,1900-01-01 00:00:00,joseph.miller8@gmail.com,Joseph,Other,BlueCross,Miller,true,PAT00656,Deceased,383-609-8970,47057
+83,San Antonio,1900-01-01 00:00:00,joseph.white16@gmail.com,Joseph,Unknown,Humana,White,true,PAT00653,Active,774-317-1358,97168
+83,San Antonio,1900-01-01 00:00:00,Unknown,Joseph,Female,Self-Pay,Moore,true,PAT00502,Unknown,572-452-5042,48661
+84,Dallas,1900-01-01 00:00:00,david.white19@yahoo.com,David,Female,UnitedHealth,White,true,PAT00053,Active,703-343-9136,71095
+84,Dallas,1900-01-01 00:00:00,jessica.moore80@gmail.com,Jessica,Other,UnitedHealth,Moore,true,PAT00406,Active,589-977-3496,55213
+84,Dallas,1900-01-01 00:00:00,robert.allen45@gmail.com,Robert,Male,Medicare,Allen,true,PAT00297,Unknown,470-672-1071,45615
+84,Dallas,1900-01-01 00:00:00,x.harris48@yahoo.com,No_Name,Male,Unknown,Harris,true,PAT00551,Inactive,866-885-3266,68016
+84,Houston,1900-01-01 00:00:00,charles.thomas83@yahoo.com,Charles,Other,Aetna,Thomas,true,PAT00041,Unknown,855-729-7810,52068
+84,Houston,1900-01-01 00:00:00,john.williams85@gmail.com,John,Male,Medicare,Williams,true,PAT00402,Inactive,879-270-6050,61176
+84,Houston,1900-01-01 00:00:00,patricia.taylor6@gmail.com,Patricia,Male,Kaiser,Taylor,true,PAT00082,Active,702-930-9809,42229
+84,Los Angeles,1900-01-01 00:00:00,charles.jones30@gmail.com,Charles,Male,UnitedHealth,Jones,true,PAT00167,Deceased,542-146-6367,41275
+84,New York,1900-01-01 00:00:00,charles.miller25@gmail.com,Charles,Unknown,UnitedHealth,Miller,true,PAT00879,Active,300-763-9862,13824
+84,New York,1900-01-01 00:00:00,patricia.y15@gmail.com,Patricia,Female,Medicare,No_Name,true,PAT00342,Active,818-107-7651,85808
+84,Phoenix,1900-01-01 00:00:00,jennifer.young13@gmail.com,Jennifer,Male,BlueCross,Young,true,PAT00458,Unknown,637-783-4234,35318
+84,Phoenix,1900-01-01 00:00:00,richard.jones29@gmail.com,Richard,Other,Humana,Jones,true,PAT00558,Inactive,368-992-7448,70134
+84,Phoenix,1900-01-01 00:00:00,sarah.johnson75@gmail.com,Sarah,Other,Cigna,Johnson,true,PAT00910,Inactive,728-225-8243,21051
+84,Phoenix,1900-01-01 00:00:00,x.harris14@yahoo.com,No_Name,Other,Cigna,Harris,true,PAT00781,Deceased,941-383-5837,55332
+84,San Antonio,1900-01-01 00:00:00,patricia.taylor67@gmail.com,Patricia,Male,Medicare,Taylor,true,PAT00734,Unknown,971-892-4858,49658
+84,San Antonio,1900-01-01 00:00:00,richard.wilson71@gmail.com,Richard,Unknown,Cigna,Wilson,true,PAT00359,Active,362-138-4302,81373

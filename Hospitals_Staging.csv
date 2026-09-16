@@ -1,0 +1,1001 @@
+﻿Accreditation,Address,Sum of Bed_Count,City,Hospital_ID,Hospital_Name,Hospital_Type,Phone,Sum of Rating,State,Zip_Code
+CARF,1161 Elm St,114,Los Angeles,HOSP00738,Mercy Hospital,Community,(955) 839-2616,1.6,VA,35029
+CARF,1198 Main Ave,116,Unknown,HOSP00494,Lakeside Health,Trauma Center,Unknown,2.3,CA,92705
+CARF,1320 Lake St,583,New York,HOSP00900,General Hospital,Rehabilitation,(366) 896-4790,4,Unknown,51906
+CARF,1354 Oak Ave,733,Unknown,HOSP00070,City Health Clinic,Rehabilitation,(793) 496-3310,2.8,OH,49475
+CARF,1389 Hill Ave,510,Los Angeles,HOSP00285,Sunrise Medical,Specialty,(777) 729-4098,3.9,NJ,34059
+CARF,152 Main St,60,Unknown,HOSP00376,REGIONAL MEDICAL CENTER,Trauma Center,(850) 900-1380,4.1,Unknown,59490
+CARF,1635 Elm St,302,Phoenix,HOSP00202,Metro Medical Center,Psychiatric,(263) 566-8086,1.1,WA,89613
+CARF,1816 Oak Ave,322,Chicago,HOSP00671,St. Mary Medical Center,Community,(406) 657-8329,2.2,Unknown,42315
+CARF,1866 Elm St,539,New York,HOSP00325,General Hospital,General,(473) 276-8653,4.7,NY,41366
+CARF,1923 Lake Ave,67,Los Angeles,HOSP00873,REGIONAL MEDICAL CENTER,Unknown,(356) 696-1169,3.3,OH,14835
+CARF,1939 Hill St,477,New York,HOSP00802,Community Hospital,Trauma Center,(344) 610-5028,3.1,MI,13359
+CARF,2012 Lake St,699,Phoenix,HOSP00033,Valley View Hospital,Community,(668) 880-4425,4.7,NC,90358
+CARF,2039 Oak Ave,922,Los Angeles,HOSP00961,Community Hospital,Trauma Center,(720) 386-2314,0,FL,79546
+CARF,2171 Elm Ave,1011,Phoenix,HOSP00094,Lakeside Health,Community,(402) 829-4018,3.9,VA,86358
+CARF,2412 Lake St,694,Phoenix,HOSP00187,Mercy Hospital,Unknown,(290) 585-3940,2,FL,98419
+CARF,2415 Oak Ave,600,Dallas,HOSP00233,Unknown,General,(524) 778-8506,2.2,Unknown,96945
+CARF,2453 Lake St,914,Dallas,HOSP00011,Lakeside Health,Psychiatric,(265) 999-6200,3.6,TX,85273
+CARF,2473 Main Ave,703,New York,HOSP00179,Unknown,Teaching,(598) 582-5129,4.3,MI,59942
+CARF,262 Main Ave,918,New York,HOSP00698,Metro Medical Center,Community,(236) 313-8178,3.2,MI,66438
+CARF,2668 Elm Ave,557,Phoenix,HOSP00224,Sunrise Medical,Teaching,(891) 469-5674,4.2,NY,12358
+CARF,2682 Lake Ave,659,Los Angeles,HOSP00648,Lakeside Health,Psychiatric,(944) 468-6164,0,FL,0
+CARF,2746 Main St,671,Dallas,HOSP00007,Unknown,Trauma Center,(915) 561-2818,2.8,NC,83402
+CARF,283 Park Ave,265,Houston,HOSP00460,Lakeside Health,Community,(743) 758-9545,3.9,AZ,0
+CARF,2889 Main Ave,1017,Los Angeles ,HOSP00766,Regional Medical Center ,Community,(374) 461-9437,4.6,PA,83787
+CARF,2991 Lake St,299,Dallas,HOSP00237,Valley View Hospital,Specialty,(932) 387-6062,3.9,Unknown,54822
+CARF,2997 Lake Ave,0,New York,HOSP00053,Lakeside Health,Specialty,(214) 502-2567,4.6,WA,75295
+CARF,3009 Hill Ave,351,Phoenix,HOSP00267,Metro Medical Center,Teaching,(420) 121-6890,3.6,NC,50033
+CARF,3058 Elm St,1055,New York,HOSP00472,St. Mary Medical Center,Trauma Center,(441) 661-5185,3.9,NC,44494
+CARF,3242 Elm Ave,60,Unknown,HOSP00532,Sunrise Medical,Specialty,(878) 306-4390,0,TX,39648
+CARF,3243 Elm Ave,315,Houston,HOSP00370,REGIONAL MEDICAL CENTER,Teaching,(799) 465-3049,3.2,GA,35441
+CARF,33 Main Ave,190,Houston,HOSP00547,Lakeside Health,Rehabilitation,(979) 727-9845,4.4,VA,51533
+CARF,3317 Hill St,0,Phoenix,HOSP00295,Valley View Hospital,Community,(675) 333-5169,3.6,WA,96355
+CARF,3323 Oak St,249,Los Angeles,HOSP00065,General Hospital,Psychiatric ,(669) 465-3137,1.8,VA,81981
+CARF,3424 Park St,0,Dallas,HOSP00719,City Health Clinic,Unknown,(420) 878-7758,3.3,NC,0
+CARF,3442 Main St,835,Chicago,HOSP00590,REGIONAL MEDICAL CENTER,Specialty,(666) 319-8896,3.9,VA,11189
+CARF,3449 Main Ave,897,Los Angeles,HOSP00850,Sunrise Medical,General,(454) 889-4283,2.2,VA,77127
+CARF,3516 Lake Ave,396,Houston,HOSP00079,Community Hospital,Specialty,Unknown,3.8,NJ,45325
+CARF,3955 Lake St,530,Dallas ,HOSP00170,Sunrise Medical,Rehabilitation,(911) 604-8069,4.7,MA,86716
+CARF,397 Oak Ave,467,Chicago,HOSP00791,Lakeside Health,Specialty,(970) 563-2550,4.8,MA,17189
+CARF,3981 Hill Ave,593,Unknown,HOSP00056,City Health Clinic,General,(535) 582-8908,1.6,VA,10107
+CARF,3991 Oak St,808,New York,HOSP00268,St. Mary Medical Center,Trauma Center,(447) 956-4264,2.2,NC,24301
+CARF,4189 Main Ave,383,Chicago,HOSP00260,Mercy Hospital,General,(518) 988-5818,1.4,WA,13072
+CARF,4461 Oak Ave,1170,Houston,HOSP00872,REGIONAL MEDICAL CENTER,Specialty,(409) 944-4877,1.1,OH,56448
+CARF,4474 Park St,682,Los Angeles,HOSP00157,General Hospital,Teaching,(333) 233-1169,2.7,NJ ,55494
+CARF,449 Main St,441,Los Angeles,HOSP00067,Valley View Hospital,General,(479) 935-4848,4.8,GA,58619
+CARF,450 Main Ave,0,Phoenix,HOSP00919,Lakeside Health,Rehabilitation,(702) 412-8041,2.8,WA,51445
+CARF,451 Elm St,585,Dallas,HOSP00093,Sunrise Medical,Teaching,(351) 771-6252,3.7,MA,82425
+CARF,4587 Hill St,943,Unknown,HOSP00783,Lakeside Health,Community,(366) 528-6989,3.5,NC,85318
+CARF,4726 Lake St,615,Houston,HOSP00907,General Hospital,Unknown,(572) 471-1082,1.5,OH,34386
+CARF,4771 Elm Ave,884,Phoenix,HOSP00272,Lakeside Health,Specialty,(951) 260-6114,3.2,TX,82747
+CARF,4809 Main Ave,180,Chicago,HOSP00027,St. Mary Medical Center,Rehabilitation,(281) 293-7447,3.3,AZ,95046
+CARF,4865 Elm St,684,Houston,HOSP00266,Metro Medical Center,Community,(915) 202-9354,2.8,GA,85626
+CARF,4921 Hill Ave,670,Dallas,HOSP00918,Unknown,Teaching,(754) 567-7947,1.5,AZ,34497
+CARF,4949 Park St,382,Los Angeles,HOSP00683,REGIONAL MEDICAL CENTER,General,(216) 378-6890,4.9,NC,60583
+CARF,5045 Main St,362,Dallas ,HOSP00329,General Hospital,Trauma Center,(553) 153-2569,3.5,AZ,58165
+CARF,516 Hill Ave,1023,Dallas,HOSP00860,Unknown,Trauma Center,(574) 460-2341,4.8,AZ,12649
+CARF,525 Elm St,870,Phoenix,HOSP00183,REGIONAL MEDICAL CENTER,Community,(781) 687-2865,0,NY,85089
+CARF,5298 Main St,247,Los Angeles,HOSP00699,Sunrise Medical,Rehabilitation,(609) 493-2780,4.7,NY,27526
+CARF,542 Park Ave,659,Phoenix,HOSP00548,Community Hospital,Trauma Center,(909) 498-4803,4.8,Unknown,10939
+CARF,5477 Main Ave,872,Dallas,HOSP00121,Sunrise Medical,Teaching,(992) 577-1295,2.8,NY,0
+CARF,5566 Hill St,725,Chicago,HOSP00278,Metro Medical Center,Trauma Center,(432) 421-5876,2.5,MI,18701
+CARF,5627 Hill St,313,New York,HOSP00757,Mercy Hospital,Specialty,(390) 412-7954,4.3,NY,55326
+CARF,5697 Park Ave,340,Dallas,HOSP00211,Metro Medical Center,Trauma Center,(785) 263-7154,2.3,CA,33804
+CARF,5733 Lake St,257,Unknown,HOSP00969,Unknown,Teaching,(778) 244-9398,4.8,CA,18224
+CARF,5756 Elm St,731,New York,HOSP00861,Lakeside Health,Teaching,(501) 535-6190,4.6,OH,99563
+CARF,5859 Lake St,513,Houston,HOSP00956,Lakeside Health,Specialty,(541) 300-6702,1.7,PA,91274
+CARF,6023 Oak Ave,229,Los Angeles,HOSP00902,City Health Clinic,Psychiatric,(207) 783-1586,4.4,PA,78986
+CARF,6057 Main St,98,Dallas,HOSP00296,St. Mary Medical Center,Teaching,(963) 435-8861,1.6,NC,35173
+CARF,6076 Main St,112,Dallas,HOSP00670,Mercy Hospital,Unknown,(909) 720-3147,4.2,TX,40631
+CARF,6119 Hill Ave,311,Chicago,HOSP00892,Community Hospital,Teaching,(293) 245-4686,1.4,Unknown,35861
+CARF,6142 Lake St,294,Los Angeles,HOSP00275,Sunrise Medical,Trauma Center,(621) 167-5266,1.9,VA,66614
+CARF,6164 Main Ave,811,Los Angeles,HOSP00957,Unknown,Psychiatric,(633) 295-8465,3.7,PA,57251
+CARF,6249 Hill St,670,Dallas,HOSP00797,Sunrise Medical,Teaching,(481) 428-3352,3.8,NC,96968
+CARF,6326 Oak Ave,766,New York,HOSP00254,Metro Medical Center,Psychiatric,(688) 241-5219,4,AZ,81615
+CARF,6500 Hill Ave,887,Los Angeles ,HOSP00265,General Hospital,Psychiatric,(722) 593-1932,2.7,NJ,31689
+CARF,6595 Main Ave,1032,New York,HOSP00941,General Hospital,Specialty,(255) 120-4998,1.2,NC,81503
+CARF,6600 Main St,449,Los Angeles,HOSP00859,Metro Medical Center,Psychiatric,(785) 963-5967,3.7,Unknown,51873
+CARF,6663 Park St,587,Los Angeles,HOSP00051,Lakeside Health,Community,(862) 657-7157,4.4,TX,60491
+CARF,6713 Oak Ave,561,Phoenix,HOSP00762,General Hospital,Psychiatric,(705) 320-7111,1.2,IL,0
+CARF,6734 Park St,743,Phoenix,HOSP00901,City Health Clinic,Rehabilitation,(806) 416-5765,3.8,CA,63960
+CARF,694 Park St,314,Unknown,HOSP00587,Metro Medical Center ,Rehabilitation,(361) 414-7556,3.6,PA,47426
+CARF,6993 Hill Ave,715,Chicago,HOSP00282,REGIONAL MEDICAL CENTER,General,(888) 703-8357,2.3,VA,50983
+CARF,7002 Hill Ave,710,Unknown,HOSP00921,City Health Clinic,Trauma Center,(783) 983-9144,4.8,Unknown,61257
+CARF,7045 Lake Ave,1190,New York,HOSP00058,Regional Medical Center ,Teaching,Unknown,3.5,GA,21613
+CARF,7057 Lake St,1153,Phoenix,HOSP00395,St. Mary Medical Center,Teaching,Unknown,4.1,WA,92720
+CARF,7133 Hill Ave,187,Dallas,HOSP00605,Mercy Hospital,Psychiatric,(844) 578-6715,2.9,NC,44033
+CARF,7178 Oak St,351,Los Angeles,HOSP00934,St. Mary Medical Center,Community,(468) 753-3096,4.6,WA,81788
+CARF,7389 Park St,641,Dallas,HOSP00769,Sunrise Medical,Teaching,(542) 246-9769,4.7,OH,71028
+CARF,7416 Lake Ave,608,Dallas,HOSP00647,Unknown,General,(536) 606-8169,3.3,Unknown,99594
+CARF,7493 Oak Ave,1147,Dallas,HOSP00692,Community Hospital,Community,(242) 152-2053,3.5,FL,41324
+CARF,75 Park St,748,Dallas,HOSP00742,Unknown,Specialty,(997) 116-7450,3.4,VA,38828
+CARF,750 Park Ave,94,Dallas,HOSP00006,Community Hospital,Teaching,Unknown,3.5,NJ,70026
+CARF,7695 Oak St,0,Los Angeles,HOSP00676,Lakeside Health ,Teaching,(693) 760-3744,0,NY,62792
+CARF,7756 Elm St,485,New York,HOSP00551,Mercy Hospital,Trauma Center,(936) 995-1043,3,OH,71782
+CARF,7815 Park Ave,88,Phoenix,HOSP00015,Sunrise Medical,Psychiatric,(575) 797-9244,4.6,WA ,72950
+CARF,7867 Main St,0,Phoenix,HOSP00262,REGIONAL MEDICAL CENTER,Community,(846) 358-6045,0,CA,87799
+CARF,7996 Hill Ave,876,Chicago,HOSP00932,Metro Medical Center,Trauma Center,(406) 645-1206,3,WA,43921
+CARF,8027 Elm St,1119,Phoenix,HOSP00527,City Health Clinic,Specialty,(703) 674-4658,2.5,FL,15208
+CARF,8067 Main Ave,626,New York,HOSP00086,Mercy Hospital,General,(782) 821-2709,4.1,NY,70437
+CARF,8071 Main St,189,Houston ,HOSP00323,City Health Clinic,Community,(695) 780-4097,2.3,NY,81605
+CARF,8161 Main Ave,945,Los Angeles,HOSP00542,REGIONAL MEDICAL CENTER,Unknown,(737) 825-9551,1.5,VA,42893
+CARF,8207 Oak Ave,521,Houston,HOSP00196,Community Hospital,Teaching,(974) 817-7741,4.9,NY,25902
+CARF,8231 Hill St,241,New York,HOSP00999,Mercy Hospital,Unknown,(772) 172-1065,3.1,CA,76938
+CARF,8270 Lake St,460,Chicago,HOSP00287,Sunrise Medical,Unknown,(371) 348-2923,1.4,NC,46414
+CARF,8305 Main St,490,Houston,HOSP00369,General Hospital,General,(247) 177-4275,3.1,Unknown,14280
+CARF,8339 Park St,1067,Los Angeles,HOSP00283,Mercy Hospital,Trauma Center ,(693) 571-2093,2.7,OH,12738
+CARF,8352 Elm St,360,New York,HOSP00882,Lakeside Health,General,(345) 758-7807,2.1,IL,10629
+CARF,853 Lake St,178,Chicago,HOSP00798,Community Hospital,Specialty,(725) 150-2196,2.5,VA,26307
+CARF,8548 Oak St,753,Phoenix,HOSP00034,St. Mary Medical Center,Trauma Center,(227) 833-8722,2,MI,11741
+CARF,858 Main St,424,Dallas,HOSP00117,St. Mary Medical Center,Specialty,(811) 543-3073,1.8,CA,45698
+CARF,8652 Lake St,355,Dallas,HOSP00417,Community Hospital,Community,(635) 318-8699,4.7,MA,58704
+CARF,8653 Park St,370,Dallas,HOSP00610,Sunrise Medical,Specialty,(998) 556-5759,3.6,NJ,0
+CARF,8713 Elm St,1112,New York,HOSP00404,General Hospital,General,(472) 478-5799,2.3,NJ,78678
+CARF,8853 Main St,247,Chicago,HOSP00450,Community Hospital,Specialty,Unknown,0,GA,52133
+CARF,8874 Oak St,223,Phoenix,HOSP00373,City Health Clinic,General,(821) 813-3774,4.4,IL,81954
+CARF,895 Elm St,538,Houston,HOSP00979,St. Mary Medical Center,Specialty,(897) 654-3136,4.6,CA,15045
+CARF,8977 Park Ave,658,Dallas,HOSP00733,REGIONAL MEDICAL CENTER,Community,(451) 924-2967,1.1,CA,80005
+CARF,8987 Hill Ave,1185,Phoenix,HOSP00304,Community Hospital,Rehabilitation,(296) 184-8002,4.7,IL,39953
+CARF,8988 Hill Ave,521,Houston,HOSP00732,Unknown,Community,(239) 227-8013,2.7,Unknown,69547
+CARF,8999 Lake St,600,Unknown,HOSP00592,Valley View Hospital,Community,(824) 843-1421,3.8,IL,11251
+CARF,9059 Oak Ave,1091,New York,HOSP00050,Community Hospital,Trauma Center,(949) 183-7157,1.6,CA,69304
+CARF,9060 Park Ave,115,Dallas,HOSP00400,Lakeside Health,Unknown,(417) 816-1734,4.8,NJ,0
+CARF,9214 Oak Ave,876,Dallas,HOSP00927,Lakeside Health,Teaching,(449) 148-9018,1.3,IL,43368
+CARF,9316 Elm St,791,Phoenix,HOSP00913,REGIONAL MEDICAL CENTER,Trauma Center,(571) 289-1059,2.5,TX,64174
+CARF,9371 Hill Ave,172,Chicago,HOSP00081,General Hospital,Psychiatric,(505) 328-8781,4.1,OH,34207
+CARF,9483 Hill St,1014,Unknown,HOSP00844,Valley View Hospital,Community,(280) 228-5101,1.2,VA,25720
+CARF,9516 Park Ave,712,Dallas,HOSP01000,Metro Medical Center,Specialty,(879) 363-5957,2.6,IL,63262
+CARF,9538 Main St,703,Phoenix,HOSP00085,St. Mary Medical Center,Trauma Center,(408) 251-5422,3.5,VA,98674
+CARF,9707 Park St,1120,Houston,HOSP00355,General Hospital,Specialty,(228) 193-7670,2.8,NJ,28748
+CARF,9974 Hill Ave,1048,Unknown,HOSP00787,Sunrise Medical,Specialty,(752) 434-1646,3.5,AZ,65337
+CARF ,5557 Hill St,455,Los Angeles,HOSP00574,Sunrise Medical,General,(389) 245-9531,3.6,NY,87694
+DNV,1066 Main Ave,614,Houston,HOSP00156,Metro Medical Center,Trauma Center,(561) 619-5939,3.1,MA,57694
+DNV,1282 Park Ave,862,Chicago,HOSP00139,Lakeside Health,Psychiatric,(794) 542-7304,2.5,TX,52524
+DNV,1469 Elm Ave,370,Dallas,HOSP00635,Valley View Hospital,Unknown,(641) 255-6288,2.1,CA,64878
+DNV,1493 Hill St,226,Houston,HOSP00331,Mercy Hospital,Specialty,(420) 464-2269,3.5,TX,12866
+DNV,1532 Main St,400,Dallas,HOSP00468,Mercy Hospital,Unknown,(270) 492-9313,2.8,MI,64246
+DNV,1567 Lake Ave,930,Houston,HOSP00565,Community Hospital,Rehabilitation,(886) 895-4100,3.8,NJ,54490
+DNV,1635 Park Ave,339,Houston,HOSP00122,St. Mary Medical Center,Trauma Center,(284) 671-6142,1.7,Unknown,92128
+DNV,177 Elm Ave,796,Phoenix,HOSP00044,Community Hospital ,Specialty,(678) 635-4140,4.2,IL,17075
+DNV,1797 Elm St,0,Dallas,HOSP00761,General Hospital,Teaching,(820) 648-8527,3,AZ,28140
+DNV,1856 Elm Ave,300,Chicago,HOSP00107,Mercy Hospital,Trauma Center,(346) 993-8937,3,NY,93687
+DNV,1967 Park Ave,1092,Phoenix,HOSP00837,City Health Clinic,Teaching,(639) 702-1275,2.1,IL,56099
+DNV,2026 Lake Ave,890,Unknown,HOSP00650,Community Hospital,Psychiatric,(608) 232-9538,1.4,FL,74200
+DNV,2087 Main St,106,Chicago,HOSP00938,Sunrise Medical,Rehabilitation,(489) 350-9991,3.6,CA,62170
+DNV,2104 Lake St,131,Los Angeles,HOSP00205,Mercy Hospital,Trauma Center,(825) 600-7104,3.3,NJ,56658
+DNV,2303 Hill Ave,945,Chicago,HOSP00212,REGIONAL MEDICAL CENTER,General,(884) 972-4544,1.8,IL,25414
+DNV,2459 Main St,986,Dallas,HOSP00140,Community Hospital,General,(765) 808-9750,1.1,IL,76266
+DNV,2496 Hill St,647,Chicago,HOSP00521,Unknown,Specialty,(608) 111-1635,3.3,NC,26441
+DNV,2498 Hill Ave,440,Houston,HOSP00274,Community Hospital ,Trauma Center,(739) 560-9450,1.9,MA,35843
+DNV,2523 Oak Ave,1146,Phoenix,HOSP00557,Community Hospital,Psychiatric,(642) 254-2430,3.1,Unknown,76670
+DNV,2576 Hill Ave,502,Los Angeles,HOSP00536,Metro Medical Center,Community,(677) 158-7564,3,OH,73159
+DNV,2637 Main St,0,Phoenix,HOSP00490,Lakeside Health,Teaching,(943) 720-9136,3.9,PA,66154
+DNV,2649 Elm Ave,780,Los Angeles,HOSP00442,City Health Clinic,Psychiatric,(719) 671-2767,4.5,NC,81495
+DNV,2732 Oak Ave,463,Phoenix,HOSP00891,Metro Medical Center,Psychiatric,(828) 315-4850,4.3,CA,26594
+DNV,278 Park Ave,563,Los Angeles,HOSP00821,Sunrise Medical,Specialty,(749) 588-2209,2.2,TX,95830
+DNV,2894 Main St,490,New York,HOSP00666,Mercy Hospital,Teaching,(335) 182-9617,3,Unknown,23428
+DNV,2982 Oak Ave,935,Los Angeles,HOSP00415,Community Hospital,Psychiatric,(298) 835-4650,4.8,OH ,84385
+DNV,3039 Lake Ave,829,Houston,HOSP00049,Metro Medical Center,General,(656) 336-6280,3.1,CA,36955
+DNV,3102 Elm St,800,Los Angeles,HOSP00256,Sunrise Medical ,General,(540) 676-9922,2.5,MI,43359
+DNV,3159 Park St,144,New York,HOSP00588,Valley View Hospital,Specialty,(588) 356-6193,2.7,IL,91947
+DNV,3232 Hill St,469,Los Angeles,HOSP00826,St. Mary Medical Center,Psychiatric,(595) 742-4667,1.6,VA,10414
+DNV,3379 Lake Ave,197,Houston,HOSP00899,St. Mary Medical Center,Trauma Center,(700) 916-5753,1.2,IL,43976
+DNV,3400 Main St,67,New York,HOSP00975,Sunrise Medical,Trauma Center,(460) 385-7072,1.4,WA,53094
+DNV,3487 Hill St,614,Dallas,HOSP00385,Lakeside Health,Rehabilitation,(744) 113-6700,0,WA,47260
+DNV,359 Hill St,497,Los Angeles,HOSP00172,City Health Clinic,Community,(248) 890-1581,0,NJ,26468
+DNV,3615 Oak St,253,Chicago,HOSP00898,Sunrise Medical,General,(244) 421-5621,1.6,FL,77712
+DNV,3624 Lake Ave,553,Unknown,HOSP00591,Metro Medical Center,Rehabilitation,(305) 235-2455,1.7,PA,93222
+DNV,3638 Lake St,215,Los Angeles,HOSP00253,REGIONAL MEDICAL CENTER,Trauma Center,(513) 464-8567,2,MA,63536
+DNV,3646 Hill St,442,Chicago,HOSP00715,Community Hospital,Teaching,(649) 440-9327,2.5,AZ,54848
+DNV,3680 Park St,1108,Unknown,HOSP00384,City Health Clinic,Psychiatric,(351) 261-6583,0,NC,17629
+DNV,3698 Park Ave,118,Los Angeles,HOSP00564,General Hospital,Teaching,(756) 122-9558,3.3,Unknown,44395
+DNV,3752 Main St,497,Unknown,HOSP00575,General Hospital,Specialty,(655) 115-2406,4.9,CA,45167
+DNV,3781 Park St,374,Dallas,HOSP00980,Community Hospital,Rehabilitation,(994) 917-8210,2.3,MI,63939
+DNV,3786 Oak Ave,0,Houston,HOSP00967,Community Hospital,Specialty,(977) 467-7393,1.8,AZ,16900
+DNV,380 Oak St,359,Houston,HOSP00128,REGIONAL MEDICAL CENTER,General,(421) 643-5477,4.3,FL ,27760
+DNV,3808 Oak Ave,1124,Los Angeles,HOSP00251,Lakeside Health,Psychiatric,(829) 656-3515,1.5,GA,93921
+DNV,398 Main Ave,366,Houston,HOSP00248,St. Mary Medical Center,Psychiatric,(708) 178-9305,1.2,FL,49454
+DNV,4047 Elm Ave,848,Phoenix,HOSP00976,General Hospital ,Trauma Center,(574) 132-1272,2.3,PA,28561
+DNV,4058 Park St,0,New York,HOSP00299,General Hospital,Psychiatric,(761) 765-2358,3.4,TX,23402
+DNV,4156 Lake St,112,Houston,HOSP00808,REGIONAL MEDICAL CENTER,Unknown,(271) 692-3064,3.3,FL,66866
+DNV,4216 Oak St,999,Unknown,HOSP00124,REGIONAL MEDICAL CENTER,Specialty,(244) 289-9309,4.6,GA,33315
+DNV,4235 Elm Ave,541,Chicago,HOSP00634,General Hospital,Psychiatric,(279) 512-5136,1.8,IL ,78625
+DNV,4257 Hill Ave,398,Dallas,HOSP00643,Metro Medical Center,Unknown,(457) 874-2067,2.9,AZ,43632
+DNV,4289 Park Ave,73,New York,HOSP00063,REGIONAL MEDICAL CENTER,Unknown,(563) 716-5657,0,OH,71469
+DNV,4343 Elm St,233,Phoenix,HOSP00042,City Health Clinic,Teaching,(655) 457-2516,2.9,MA,97703
+DNV,4351 Lake St,888,Dallas,HOSP00764,General Hospital,Teaching,(935) 916-4689,3.8,CA,89540
+DNV,4393 Oak Ave,369,Unknown,HOSP00255,Valley View Hospital,Community,(723) 737-9088,2.7,VA,84296
+DNV,4413 Lake St,328,Chicago,HOSP00054,Mercy Hospital,Psychiatric,(417) 268-7777,3.2,AZ,36723
+DNV,4614 Oak Ave,861,Chicago,HOSP00016,General Hospital,Specialty,(434) 538-1911,0,Unknown,58282
+DNV,4614 Park Ave,824,Phoenix,HOSP00346,Metro Medical Center,Community,(715) 370-5854,4.3,NY,22119
+DNV,4619 Main St,356,Chicago,HOSP00459,Unknown,Psychiatric,(393) 979-9292,2.8,CA,34733
+DNV,4650 Oak Ave,959,New York,HOSP00685,General Hospital,Teaching,(803) 781-1431,4.4,CA,16913
+DNV,4681 Elm Ave,975,Phoenix,HOSP00612,Mercy Hospital,Rehabilitation,(856) 535-1395,4,MI,80894
+DNV,4684 Elm Ave,331,Phoenix,HOSP00039,Lakeside Health,Psychiatric,(584) 651-5649,2.2,VA,19783
+DNV,4906 Elm St,990,Phoenix,HOSP00829,Valley View Hospital,Community ,(623) 891-5443,4.7,NC,12856
+DNV,4972 Lake St,378,Dallas,HOSP00320,St. Mary Medical Center,Specialty,(752) 430-9761,1.8,CA,56452
+DNV,5009 Main St,1032,New York,HOSP00363,REGIONAL MEDICAL CENTER,Psychiatric,(371) 950-9354,1.5,Unknown,71853
+DNV,521 Oak Ave,1019,Chicago,HOSP00937,St. Mary Medical Center,Psychiatric,(367) 312-9991,4.8,FL,73470
+DNV,5314 Hill Ave,421,Houston,HOSP00789,Lakeside Health,Community,(992) 919-1628,2.8,OH,93992
+DNV,5376 Oak Ave,1077,Chicago,HOSP00367,City Health Clinic,Unknown,(253) 193-2496,2,IL,90816
+DNV,5432 Oak St,511,Chicago,HOSP00529,REGIONAL MEDICAL CENTER,Rehabilitation,(216) 801-4835,2.1,OH,21004
+DNV,5493 Hill Ave,879,Dallas,HOSP00398,Unknown,Trauma Center,(673) 259-4278,3.5,OH,99546
+DNV,5565 Main St,357,Unknown,HOSP00290,Sunrise Medical,Rehabilitation,(255) 289-8769,0,AZ,16477
+DNV,5587 Lake St,299,Dallas,HOSP00953,City Health Clinic,Psychiatric,(940) 115-2135,1.8,WA,65191
+DNV,5590 Main Ave,0,Houston,HOSP00838,Valley View Hospital,Psychiatric,(841) 806-3517,3.6,Unknown,53616
+DNV,5690 Elm St,0,New York,HOSP00568,REGIONAL MEDICAL CENTER,Rehabilitation,(945) 466-8076,2.1,OH,25392
+DNV,5702 Oak St,834,Phoenix,HOSP00665,Lakeside Health,Rehabilitation,(655) 166-3299,2.1,IL,39263
+DNV,5752 Lake St,867,Dallas,HOSP00869,City Health Clinic,Psychiatric,(848) 594-4758,1.7,Unknown,16673
+DNV,5797 Main Ave,1056,Houston,HOSP00209,REGIONAL MEDICAL CENTER,Unknown,(941) 377-3079,1.2,Unknown,10356
+DNV,587 Oak Ave,170,Houston,HOSP00933,REGIONAL MEDICAL CENTER,General,(908) 556-5044,4.9,PA,31040
+DNV,5895 Hill Ave,220,Houston,HOSP00350,Sunrise Medical ,Psychiatric,(770) 220-3741,1.7,GA,13839
+DNV,5972 Main Ave,256,Chicago,HOSP00495,Community Hospital,Teaching,(501) 182-6095,3.7,Unknown,36504
+DNV,6013 Lake St,453,New York,HOSP00353,General Hospital,Psychiatric,(877) 105-3898,3,OH,65011
+DNV,6050 Elm Ave,560,Chicago,HOSP00394,Mercy Hospital,Rehabilitation,(865) 548-1627,3.7,WA,69486
+DNV,6105 Oak St,357,Dallas,HOSP00492,Metro Medical Center,Trauma Center,(715) 406-6302,4.2,MA,0
+DNV,6153 Oak Ave,1040,Los Angeles,HOSP00062,General Hospital,Teaching,(494) 393-5930,4.5,IL,53690
+DNV,6161 Park Ave,0,New York,HOSP00709,Community Hospital,Teaching,(414) 800-7628,1.8,MA,74238
+DNV,6216 Park Ave,0,Unknown,HOSP00911,Sunrise Medical,Community,(603) 460-9531,4.6,NC,28551
+DNV,6267 Oak Ave,938,Los Angeles,HOSP00429,Community Hospital,Community,(383) 458-4638,3.1,Unknown,0
+DNV,6357 Lake Ave,380,Houston,HOSP00948,Mercy Hospital,Trauma Center,(465) 718-7134,2.6,Unknown,22663
+DNV,6489 Hill St,909,New York,HOSP00277,REGIONAL MEDICAL CENTER,Psychiatric,(281) 541-1815,3.2,NC,25582
+DNV,6521 Park St,926,New York,HOSP00582,General Hospital,Psychiatric,(629) 970-9458,2.8,MA,10109
+DNV,6617 Hill St,227,Chicago,HOSP00855,Unknown,Community,(639) 686-7592,3.6,NC,65245
+DNV,6680 Lake St,81,Unknown,HOSP00009,Valley View Hospital,Rehabilitation,(572) 766-1474,0,FL,33773
+DNV,6763 Lake St,1158,Phoenix,HOSP00931,City Health Clinic,Psychiatric,(407) 746-1058,4.8,NJ,72997
+DNV,6925 Oak St,1186,Chicago,HOSP00488,Sunrise Medical,Unknown,(304) 743-2028,4.9,MA,92182
+DNV,7023 Hill St,0,Houston,HOSP00535,Sunrise Medical,Trauma Center,(215) 654-4357,5,Unknown,70244
+DNV,7109 Main Ave,916,Houston,HOSP00632,City Health Clinic,Trauma Center,(432) 761-1254,3.2,IL,99870
+DNV,715 Main St,1027,Dallas,HOSP00868,Lakeside Health,Rehabilitation,(484) 990-6924,3.2,WA,18052
+DNV,7188 Park Ave,797,Phoenix,HOSP00294,Community Hospital,Specialty,(968) 643-1801,3,OH,45233
+DNV,732 Main St,445,Phoenix,HOSP00721,City Health Clinic,Community,(811) 686-6699,1.5,PA,80644
+DNV,7505 Lake Ave,496,Los Angeles,HOSP00270,Unknown,Rehabilitation,(560) 721-4051,3.3,MA,95299
+DNV,7648 Hill St,833,Phoenix,HOSP00239,Metro Medical Center,Rehabilitation,(423) 908-8412,4.2,NJ,82479
+DNV,7694 Elm St,0,Phoenix,HOSP00095,Sunrise Medical,General,(603) 142-4252,3.9,MI,34903
+DNV,7767 Hill Ave,395,Los Angeles,HOSP00003,REGIONAL MEDICAL CENTER,Rehabilitation,(943) 981-7649,3.9,PA ,78945
+DNV,7768 Park St,1053,Houston,HOSP00816,Metro Medical Center,Community,(286) 648-4119,4.2,Unknown,62046
+DNV,7777 Park Ave,849,Chicago,HOSP00279,Regional Medical Center ,Trauma Center,(786) 752-7282,4.6,MI,39846
+DNV,7880 Lake St,625,Phoenix,HOSP00740,REGIONAL MEDICAL CENTER,Unknown,Unknown,3.6,FL,17388
+DNV,7891 Elm Ave,611,Houston,HOSP00727,Metro Medical Center,Psychiatric,(741) 893-4894,1.5,WA ,29202
+DNV,7935 Main St,1013,Houston,HOSP00729,Mercy Hospital,Community,(876) 460-7618,1.5,CA,0
+DNV,8040 Elm Ave,787,Chicago,HOSP00298,St. Mary Medical Center,Trauma Center,(476) 505-8721,4.6,GA,91453
+DNV,8082 Lake Ave,93,Houston,HOSP00681,Unknown,Psychiatric,(208) 110-2383,1.7,CA,15535
+DNV,8084 Elm Ave,181,Houston,HOSP00146,Mercy Hospital,Teaching,(746) 749-4557,1.4,OH ,47463
+DNV,8261 Park Ave,965,Houston,HOSP00804,Community Hospital,Rehabilitation,(806) 364-8362,4.1,VA,86561
+DNV,8324 Elm St,1025,Chicago,HOSP00147,Sunrise Medical,Psychiatric ,(283) 998-4660,4.8,NJ,35176
+DNV,8341 Park Ave,1019,Phoenix,HOSP00537,Unknown,General,(279) 567-5721,4.6,TX,44791
+DNV,8437 Main St,204,Chicago,HOSP00423,Community Hospital,Trauma Center,(520) 623-2866,4.6,CA,48407
+DNV,8513 Hill St,759,Dallas,HOSP00313,Sunrise Medical,Rehabilitation,(473) 169-8978,2.2,NY,83417
+DNV,8554 Oak Ave,1140,Dallas,HOSP00777,City Health Clinic,Community,Unknown,3,GA,64102
+DNV,8567 Park Ave,305,Houston,HOSP00327,Valley View Hospital,Rehabilitation,(485) 658-1056,2.2,NJ,83128
+DNV,8729 Park Ave,678,Los Angeles,HOSP00498,Sunrise Medical,Teaching,(960) 344-8844,3.7,NY,80701
+DNV,8771 Hill Ave,835,Phoenix,HOSP00809,Valley View Hospital,Trauma Center,(521) 274-5220,2.9,PA,0
+DNV,8948 Hill Ave,62,Houston,HOSP00644,Unknown,Trauma Center,(508) 758-2956,1.7,PA,21412
+DNV,8951 Main Ave,431,Phoenix,HOSP00169,Lakeside Health,Psychiatric,(847) 553-6941,1.8,WA,0
+DNV,8994 Hill Ave,1007,Houston,HOSP00446,Unknown,Community,(984) 585-6153,4.3,GA,67539
+DNV,9022 Main St,775,Houston,HOSP00430,Lakeside Health,Specialty,(534) 306-4550,4.1,NC,70167
+DNV,9083 Park St,73,Los Angeles,HOSP00441,Unknown,Trauma Center,(692) 582-2382,1.5,CA,75685
+DNV,9121 Lake St,709,Chicago,HOSP00847,Lakeside Health,Rehabilitation,(863) 693-8217,1.1,GA,11317
+DNV,9242 Elm St,391,Houston,HOSP00463,Valley View Hospital,General,(958) 902-1233,3,IL,27349
+DNV,9358 Oak St,1150,Dallas,HOSP00381,Mercy Hospital,Rehabilitation,(724) 769-1051,0,IL,53596
+DNV,9440 Main Ave,409,Chicago,HOSP00474,Valley View Hospital,Rehabilitation,(870) 126-5863,4.1,GA,20236
+DNV,9457 Oak St,500,Phoenix,HOSP00541,Community Hospital,Psychiatric,(693) 682-1551,3.7,Unknown,14289
+DNV,9468 Lake Ave,1071,New York,HOSP00354,City Health Clinic,Specialty,(527) 708-2616,3.9,Unknown,45100
+DNV,9478 Oak St,924,New York,HOSP00443,Sunrise Medical,Unknown,(912) 258-4578,3,FL,31439
+DNV,9603 Elm St,543,Los Angeles,HOSP00514,REGIONAL MEDICAL CENTER,Trauma Center,(207) 852-8520,3.2,NJ,37535
+DNV,9646 Main Ave,1172,Chicago,HOSP00288,Mercy Hospital,Rehabilitation,Unknown,4,Unknown,92023
+DNV,9669 Main St,730,Phoenix,HOSP00433,Sunrise Medical,Teaching,(258) 390-4230,4,FL,97243
+DNV,9731 Lake St,386,Los Angeles,HOSP00014,Valley View Hospital,Psychiatric,(547) 546-8760,3.8,VA ,99340
+DNV,9770 Lake St,919,Houston,HOSP00431,City Health Clinic,General,(605) 613-6896,2,NY,19255
+DNV,9788 Park Ave,1121,Los Angeles,HOSP00617,Unknown,Trauma Center,(672) 694-2786,0,WA,0
+DNV,9807 Elm Ave,253,Chicago,HOSP00168,City Health Clinic,Specialty,Unknown,4.6,CA,92943
+DNV,9921 Park Ave,364,New York,HOSP00101,Metro Medical Center,Community,(570) 257-3151,0,IL,27785
+DNV,9956 Lake Ave,503,Dallas,HOSP00161,Metro Medical Center,Rehabilitation,(370) 643-6093,4.1,PA,82938
+DNV,9998 Park Ave,773,Unknown,HOSP00894,General Hospital,Teaching,(848) 869-1180,3.1,CA,88332
+DNV ,1835 Elm Ave,584,Houston,HOSP00289,Mercy Hospital,Teaching,(582) 148-5157,1,GA,79794
+DNV ,2391 Oak St,792,New York,HOSP00594,Mercy Hospital,Specialty,(897) 887-7779,2.6,PA,96818
+DNV ,2571 Elm Ave,1144,Los Angeles,HOSP00311,REGIONAL MEDICAL CENTER,Trauma Center,(807) 979-9665,4.1,MI,79134
+DNV ,5414 Hill Ave,472,New York ,HOSP00782,Metro Medical Center,Specialty,(396) 652-7631,3.3,OH,38635
+DNV ,59 Lake Ave,626,Phoenix,HOSP00057,Mercy Hospital,Community,(307) 431-5138,1.7,NC,27454
+DNV ,6558 Main St,838,Phoenix,HOSP00159,Mercy Hospital,Community,(815) 560-9555,4.8,FL,68349
+DNV ,7870 Elm Ave,233,Los Angeles,HOSP00421,St. Mary Medical Center,Teaching,(386) 853-8341,3.9,GA,78851
+DNV ,8292 Park St,168,Dallas,HOSP00029,General Hospital,Rehabilitation,(898) 415-8311,1.5,VA,69022
+JCI,1050 Oak Ave,193,Dallas,HOSP00857,City Health Clinic,Trauma Center,(564) 922-8206,2.4,PA,75455
+JCI,1143 Oak St,265,Houston,HOSP00776,Metro Medical Center,Trauma Center,(572) 329-8198,4.9,NC,27915
+JCI,1171 Oak Ave,383,Phoenix,HOSP00656,REGIONAL MEDICAL CENTER,Specialty,(619) 148-1565,2.7,AZ,62523
+JCI,1256 Hill Ave,554,Dallas,HOSP00422,St. Mary Medical Center ,Teaching,(367) 970-1648,4.6,TX,38505
+JCI,1333 Oak Ave,412,Chicago,HOSP00210,St. Mary Medical Center ,Community,(419) 578-5072,3.3,PA,59033
+JCI,1395 Lake St,1045,New York,HOSP00135,Lakeside Health,Community,(902) 408-7827,2.8,MA,39327
+JCI,1413 Park Ave,480,Los Angeles,HOSP00252,Community Hospital,Psychiatric,(282) 794-1115,2.8,VA,83263
+JCI,1705 Hill Ave,887,Chicago,HOSP00552,Lakeside Health,Unknown,(909) 444-7893,1.6,MA,79744
+JCI,1776 Lake Ave,411,Houston,HOSP00712,MERCY HOSPITAL ,Rehabilitation,(622) 234-4942,1.8,WA,80598
+JCI,1821 Oak St,788,Dallas,HOSP00725,Mercy Hospital,Community,(451) 889-6698,3.7,GA,48740
+JCI,1866 Elm St,729,Houston,HOSP00483,General Hospital,Trauma Center,(920) 782-8542,4.4,VA,53040
+JCI,1901 Oak Ave,397,Phoenix,HOSP00032,REGIONAL MEDICAL CENTER,General,(623) 593-8058,2.4,FL,52502
+JCI,1999 Main St,693,Chicago,HOSP00024,Regional Medical Center ,Psychiatric,(549) 763-1646,1,NC,33464
+JCI,2127 Hill St,528,Unknown,HOSP00876,General Hospital,Unknown,(236) 507-4316,1.5,NC,41969
+JCI,225 Oak Ave,957,Los Angeles,HOSP00704,City Health Clinic,Trauma Center,(876) 548-9985,4.9,FL,10881
+JCI,229 Lake St,678,Phoenix,HOSP00073,REGIONAL MEDICAL CENTER,Rehabilitation,(505) 482-2447,4.9,TX,85875
+JCI,23 Park St,912,Chicago,HOSP00206,St. Mary Medical Center,Specialty ,(574) 219-5499,3.1,IL,36902
+JCI,2398 Park Ave,392,Unknown,HOSP00480,Metro Medical Center,Teaching,(430) 340-5539,2.2,TX,15872
+JCI,2411 Park Ave,922,Houston,HOSP00066,General Hospital,Trauma Center,(338) 948-8818,2.6,NY,36446
+JCI,2456 Park Ave,0,Houston,HOSP00728,Community Hospital,Community,(398) 568-1357,2.2,VA,31028
+JCI,251 Main Ave,1112,Los Angeles,HOSP00420,St. Mary Medical Center,Rehabilitation,(454) 194-7896,4,Unknown,85605
+JCI,2521 Lake Ave,757,Dallas,HOSP00573,Valley View Hospital,Community,(707) 143-8890,4.4,IL,35983
+JCI,2726 Oak St,806,Dallas,HOSP00469,Metro Medical Center ,Trauma Center,(610) 554-7361,3.2,GA,93644
+JCI,2730 Park St,1108,Los Angeles,HOSP00697,Community Hospital,Rehabilitation,(996) 692-8919,2.2,TX,63520
+JCI,2739 Lake Ave,286,Dallas ,HOSP00884,Mercy Hospital,Trauma Center,(946) 440-5849,3.1,OH,70662
+JCI,2752 Elm Ave,208,Dallas,HOSP00240,Community Hospital,Rehabilitation,(508) 638-6638,0,AZ,13617
+JCI,2807 Park Ave,946,Unknown,HOSP00510,St. Mary Medical Center,Teaching,(414) 943-5149,1.1,NY,43526
+JCI,2866 Park Ave,458,Phoenix,HOSP00305,Lakeside Health,Specialty ,(716) 591-3378,1.4,OH,54523
+JCI,2882 Hill St,278,Houston,HOSP00142,General Hospital,Community,(214) 119-3765,1.9,OH,21915
+JCI,2903 Park Ave,259,Dallas,HOSP00664,Metro Medical Center,Trauma Center,(302) 853-1821,4.9,TX,37669
+JCI,2924 Oak St,57,Dallas,HOSP00345,Sunrise Medical,Teaching,(824) 441-2551,1.2,NJ,89575
+JCI,2976 Park Ave,531,Dallas,HOSP00110,Unknown,Specialty,(978) 478-9967,0,NY,32077
+JCI,2987 Elm Ave,223,Los Angeles,HOSP00312,General Hospital,Psychiatric,(562) 189-8889,0,WA,92187
+JCI,3125 Main Ave,827,Phoenix,HOSP00061,Valley View Hospital,Unknown,(768) 872-4752,3.6,AZ,94350
+JCI,3169 Lake St,358,Los Angeles,HOSP00550,Community Hospital,Teaching,(481) 997-3257,1.9,GA,29105
+JCI,3323 Park Ave,793,Chicago,HOSP00448,Sunrise Medical,Teaching,Unknown,2.4,PA,12246
+JCI,340 Main Ave,205,Houston,HOSP00703,General Hospital,Psychiatric,(998) 725-8483,3.2,PA,89119
+JCI,3492 Lake Ave,152,Phoenix,HOSP00639,Lakeside Health,Psychiatric,(896) 432-2514,3.1,PA,25111
+JCI,3523 Lake St,1028,Houston,HOSP00661,MERCY HOSPITAL ,General,(880) 407-7347,3,VA,98378
+JCI,3598 Hill Ave,914,New York,HOSP00694,St. Mary Medical Center,Rehabilitation,(630) 505-3125,2.4,CA ,13669
+JCI,3720 Main St,669,New York,HOSP00005,Lakeside Health,Teaching,(920) 783-9019,1.6,TX,65783
+JCI,3867 Main Ave,644,Phoenix ,HOSP00649,Metro Medical Center,Teaching,(218) 945-2080,4.3,GA,68242
+JCI,3954 Lake St,83,Dallas,HOSP00185,Community Hospital,Specialty,(927) 998-8692,4,OH,47272
+JCI,4125 Park Ave,1009,Houston,HOSP00040,Community Hospital,Specialty,(887) 931-6325,2.1,Unknown,0
+JCI,4188 Lake St,286,Dallas,HOSP00646,St. Mary Medical Center,Community,(642) 109-6772,4.3,NY,21841
+JCI,421 Lake St,690,Phoenix ,HOSP00968,General Hospital,Teaching,(608) 365-3081,3.9,PA,33717
+JCI,4245 Park St,1165,Houston,HOSP00763,Lakeside Health,Psychiatric,(789) 637-6965,1.2,NC,42151
+JCI,4257 Park St,419,New York,HOSP00238,City Health Clinic,Psychiatric,(620) 402-4564,5,PA,63319
+JCI,4276 Oak St,654,Houston,HOSP00538,Sunrise Medical,Rehabilitation ,(872) 127-5611,2.3,WA,50278
+JCI,4277 Lake St,877,New York,HOSP00505,Lakeside Health,Rehabilitation,(944) 512-7151,2.4,NC,68524
+JCI,4284 Oak Ave,697,Los Angeles,HOSP00317,Valley View Hospital ,Community,(532) 987-9967,2,VA,35615
+JCI,4415 Lake Ave,1061,Phoenix,HOSP00796,Sunrise Medical,Unknown,(693) 991-7263,1.2,VA,32295
+JCI,4448 Park St,1009,Phoenix,HOSP00181,Mercy Hospital,Unknown,(587) 401-9613,4.1,IL,98311
+JCI,4472 Oak Ave,248,Los Angeles,HOSP00984,Sunrise Medical,Teaching ,(693) 142-2551,4.6,MA,79656
+JCI,4510 Oak St,521,Houston,HOSP00843,Mercy Hospital,Psychiatric,(535) 592-8873,1.3,VA,23365
+JCI,4529 Lake Ave,194,Dallas,HOSP00165,Lakeside Health,Unknown,(545) 844-9142,4.9,NC,53963
+JCI,4596 Main St,146,Los Angeles,HOSP00601,Unknown,Community,(750) 580-6940,2,AZ,0
+JCI,4650 Main St,738,Phoenix,HOSP00231,Metro Medical Center,Teaching,(268) 575-8179,2.2,WA,52682
+JCI,4697 Elm St,831,Dallas,HOSP00675,General Hospital,Community,(775) 850-2409,4.4,WA,21741
+JCI,4734 Oak Ave,1062,Dallas,HOSP00842,Valley View Hospital,Rehabilitation,(850) 642-3449,1.6,NC,28510
+JCI,50 Park St,219,New York,HOSP00771,Valley View Hospital,Teaching,Unknown,2.6,TX,38379
+JCI,514 Main St,1121,New York,HOSP00143,Metro Medical Center,Rehabilitation,(510) 266-1660,4.2,TX,63996
+JCI,5210 Oak Ave,807,New York,HOSP00839,Mercy Hospital,Community,(808) 452-5909,0,NC,20100
+JCI,5227 Hill Ave,1060,Phoenix,HOSP00945,City Health Clinic,Rehabilitation,(665) 468-3575,1.1,AZ,56532
+JCI,5281 Oak St,1057,Chicago,HOSP00072,Valley View Hospital,Rehabilitation,(275) 442-9745,4.3,MI,96119
+JCI,5332 Elm St,127,Phoenix,HOSP00403,Community Hospital,General,(796) 325-4448,2.2,WA,67163
+JCI,5437 Elm Ave,120,Phoenix,HOSP00123,Metro Medical Center,Specialty,(887) 210-3370,1.3,IL,37636
+JCI,552 Lake Ave,755,New York,HOSP00916,Mercy Hospital,Psychiatric,(863) 110-8086,4.7,PA,23565
+JCI,5673 Lake Ave,766,Houston,HOSP00508,City Health Clinic,Psychiatric,(266) 116-5387,0,WA,71183
+JCI,5704 Elm Ave,1181,Los Angeles,HOSP00603,Metro Medical Center,Teaching,(571) 637-8858,3.7,IL,0
+JCI,5860 Park St,224,Los Angeles,HOSP00996,REGIONAL MEDICAL CENTER,Psychiatric,(322) 544-9470,3.2,PA,87632
+JCI,5867 Main Ave,897,Los Angeles,HOSP00805,Metro Medical Center,Trauma Center,(693) 719-7489,1.4,Unknown,81462
+JCI,5924 Main St,611,Los Angeles,HOSP00475,City Health Clinic,Specialty,(779) 729-9609,1.4,TX,81113
+JCI,6084 Park St,766,Unknown,HOSP00324,Unknown,Teaching,(574) 411-3574,1.1,NJ,44287
+JCI,6114 Main St,1013,Chicago,HOSP00503,Community Hospital,Unknown,(739) 191-8492,4.9,VA,97191
+JCI,6311 Main St,658,Houston,HOSP00581,Metro Medical Center,General,(481) 529-4581,3,WA,92597
+JCI,6319 Park St,91,Chicago,HOSP00597,Mercy Hospital,Specialty,(900) 243-2417,0,MI,72687
+JCI,6461 Lake St,467,Dallas,HOSP00871,Valley View Hospital,Trauma Center,(877) 897-1538,4.4,TX,10135
+JCI,6597 Elm Ave,1096,New York,HOSP00922,Mercy Hospital,Psychiatric,(863) 383-4148,4.2,PA,87889
+JCI,6653 Park Ave,1038,Phoenix,HOSP00045,Lakeside Health,Trauma Center,(925) 621-5815,2.3,PA,56020
+JCI,6831 Hill St,142,Houston,HOSP00576,General Hospital,Psychiatric,(405) 442-6989,2.1,IL,92625
+JCI,6892 Elm Ave,1151,New York,HOSP00435,REGIONAL MEDICAL CENTER,Specialty ,(896) 201-4074,2.3,CA,38913
+JCI,7098 Elm St,819,Unknown,HOSP00642,REGIONAL MEDICAL CENTER,Rehabilitation,(712) 105-5296,1.4,WA,90125
+JCI,7302 Hill Ave,855,Phoenix,HOSP00374,Community Hospital,Community,(584) 783-8166,4.9,AZ,0
+JCI,7357 Park Ave,203,New York,HOSP00997,Valley View Hospital,Rehabilitation,(285) 163-2113,0,VA,22314
+JCI,7443 Oak St,1014,Phoenix,HOSP00682,Metro Medical Center,Community,(685) 339-4045,2.2,AZ,55941
+JCI,7705 Elm Ave,312,Los Angeles,HOSP00657,St. Mary Medical Center,Teaching,(755) 205-6874,2.2,FL ,70747
+JCI,7787 Oak St,0,Los Angeles,HOSP00315,Sunrise Medical,Psychiatric,(464) 350-6724,3.9,MA,36806
+JCI,7830 Oak St,399,Unknown,HOSP00163,Valley View Hospital,Trauma Center,(290) 822-9250,2.8,MI,44386
+JCI,7834 Park St,911,New York,HOSP00824,Mercy Hospital,Specialty,(585) 835-3647,1.1,NC,35483
+JCI,7929 Hill St,1043,Houston,HOSP00264,Metro Medical Center,Unknown,(716) 211-2174,4.1,TX,34290
+JCI,7970 Park St,512,Chicago,HOSP00571,Community Hospital,Community,(848) 775-1657,2.2,VA,87631
+JCI,8028 Park St,608,Los Angeles,HOSP00896,General Hospital,Trauma Center,(878) 934-9366,2.1,FL,53052
+JCI,8034 Main St,243,Los Angeles,HOSP00454,General Hospital,Unknown,(668) 457-2914,4.1,GA,42381
+JCI,8036 Elm Ave,703,Chicago,HOSP00754,Sunrise Medical,Trauma Center,(660) 463-1198,0,GA,91876
+JCI,8266 Oak St,692,Houston,HOSP00711,Valley View Hospital,Trauma Center,(495) 456-6623,4.3,OH,26769
+JCI,8404 Park St,725,Phoenix,HOSP00584,Community Hospital ,Rehabilitation,(463) 607-5482,1.6,NC,24155
+JCI,8553 Hill Ave,592,New York,HOSP00218,St. Mary Medical Center,Teaching,(894) 361-2201,4.1,GA,85662
+JCI,9000 Elm St,635,New York,HOSP00151,REGIONAL MEDICAL CENTER,Rehabilitation,(540) 303-8727,2.2,Unknown,72299
+JCI,9057 Hill Ave,520,Los Angeles,HOSP00226,Community Hospital,Specialty,(927) 372-8123,1.3,NJ,27151
+JCI,9107 Park Ave,358,Houston,HOSP00883,City Health Clinic,Teaching,(850) 699-8858,4.3,CA,72925
+JCI,9177 Lake Ave,610,Los Angeles,HOSP00453,Metro Medical Center ,Trauma Center,(906) 757-9601,1.6,TX,16460
+JCI,9181 Elm St,111,Dallas ,HOSP00119,St. Mary Medical Center,Teaching ,(427) 888-9149,1.8,WA,46344
+JCI,9201 Lake Ave,791,Phoenix,HOSP00486,Valley View Hospital,Teaching,(512) 759-1614,0,IL,37614
+JCI,9265 Hill St,381,Houston,HOSP00091,Mercy Hospital,Specialty,(218) 237-4968,4.7,NY,90639
+JCI,936 Hill St,352,Dallas,HOSP00760,Sunrise Medical,Rehabilitation,(675) 791-2258,2.4,NC,73155
+JCI,9386 Hill Ave,326,Unknown,HOSP00340,Community Hospital,Rehabilitation,(644) 254-3297,2.1,GA,54653
+JCI,9399 Hill Ave,188,Unknown,HOSP00517,St. Mary Medical Center,General,(884) 244-6521,1.6,FL,0
+JCI,9508 Elm St,366,Dallas,HOSP00064,General Hospital ,Unknown,(513) 415-2160,1.9,TX,61459
+JCI,966 Elm Ave,331,Houston,HOSP00225,REGIONAL MEDICAL CENTER,Trauma Center,(888) 271-5487,3.4,MA,22986
+JCI,9733 Lake Ave,1140,Dallas,HOSP00925,Community Hospital,Community,(386) 890-1841,1.2,VA,37918
+JCI,9795 Main Ave,812,New York,HOSP00835,General Hospital,Specialty,(570) 860-1624,1.5,CA,38228
+JCI,9809 Oak Ave,1165,Chicago,HOSP00528,City Health Clinic,Unknown,(333) 106-2383,1.5,MA,54543
+JCI,9833 Oak St,545,New York ,HOSP00566,Sunrise Medical,Rehabilitation,(531) 338-4914,2.3,FL,81227
+JCI,9899 Lake St,937,New York,HOSP00928,REGIONAL MEDICAL CENTER,Trauma Center,(747) 737-7610,4.5,FL,67044
+JCI,9914 Hill Ave,597,Houston ,HOSP00130,General Hospital,Teaching,(841) 407-5623,2.6,TX,39653
+JCI,9921 Hill Ave,306,Los Angeles,HOSP00949,St. Mary Medical Center,Specialty ,(537) 596-4877,1.4,IL,92404
+JCI,9938 Elm Ave,333,Chicago,HOSP00043,Sunrise Medical,Teaching,(586) 350-7324,1.6,CA,91794
+JCI ,1303 Oak Ave,93,Los Angeles,HOSP00242,Mercy Hospital,Trauma Center,(555) 101-1226,3.5,NC,56886
+JCI ,9264 Lake Ave,382,Phoenix,HOSP00018,Metro Medical Center,Rehabilitation,(230) 448-9700,3,GA,57714
+joint commission,1081 Oak Ave,1023,Chicago,HOSP00832,Lakeside Health,Community,(288) 302-6831,2.7,NJ,24875
+joint commission,1104 Oak Ave,849,Houston,HOSP00593,REGIONAL MEDICAL CENTER,Community,(647) 599-6426,2.1,AZ,89649
+joint commission,1127 Park St,559,Los Angeles,HOSP00737,Sunrise Medical ,Teaching,(301) 874-7280,2.2,PA,27315
+joint commission,1201 Elm St,0,Phoenix,HOSP00390,General Hospital,General,(422) 134-9757,2.2,MI,22277
+joint commission,1257 Hill Ave,1191,New York,HOSP00879,Valley View Hospital,General,(664) 415-5295,2.3,NC,41560
+joint commission,1291 Hill Ave,552,Houston,HOSP00377,Mercy Hospital,Specialty,(333) 673-9232,1.3,PA,23717
+joint commission,1384 Lake Ave,244,Chicago,HOSP00864,Metro Medical Center,General,(738) 934-7001,2.1,CA ,85482
+joint commission,140 Lake St,1101,Chicago,HOSP00854,St. Mary Medical Center,Unknown,(543) 558-2803,4.7,OH,97616
+joint commission,1402 Hill St,903,Unknown,HOSP00197,Metro Medical Center,Trauma Center,(215) 190-1566,2.9,TX,22200
+joint commission,1463 Main St,167,Chicago,HOSP00653,Mercy Hospital,General,(868) 829-2638,3.6,CA,0
+joint commission,1464 Oak Ave,607,Phoenix,HOSP00750,City Health Clinic,Specialty,(638) 465-1542,2.7,OH,88348
+joint commission,1494 Lake Ave,557,Houston,HOSP00174,Lakeside Health,Unknown,(860) 171-1941,5,GA,73848
+joint commission,1498 Oak Ave,886,Houston,HOSP00851,General Hospital,Specialty,(450) 164-9090,4.2,MA,29622
+joint commission,1499 Oak Ave,272,Chicago,HOSP00562,Metro Medical Center,Trauma Center,(530) 229-4992,5,PA,27973
+joint commission,1582 Hill Ave,754,Los Angeles,HOSP00127,Unknown,Community,Unknown,4,NY,18643
+joint commission,1583 Main Ave,320,Unknown,HOSP00878,Valley View Hospital,Rehabilitation,(259) 645-9624,0,GA,70749
+joint commission,1644 Main St,438,New York,HOSP00365,General Hospital,Teaching,(732) 700-1366,1.3,OH ,49010
+joint commission,1695 Park Ave,615,Unknown,HOSP00795,Community Hospital,Rehabilitation,(234) 207-4549,1.5,GA,21431
+joint commission,1790 Main Ave,780,Los Angeles,HOSP00713,City Health Clinic,Community,(417) 228-6009,3.7,TX,69635
+joint commission,1845 Hill St,811,Dallas,HOSP00176,Sunrise Medical,Specialty,(758) 394-3689,2.7,IL,11211
+joint commission,1870 Park Ave,656,Phoenix,HOSP00586,Lakeside Health,Psychiatric,(286) 194-6672,3.2,GA,15761
+joint commission,1905 Main St,1079,Houston,HOSP00636,City Health Clinic,Rehabilitation,(855) 806-6793,3.1,FL,54844
+joint commission,1972 Park St,266,Unknown,HOSP00667,Community Hospital,General,(918) 301-6093,3.9,WA,31970
+joint commission,2039 Park Ave,286,Houston,HOSP00964,REGIONAL MEDICAL CENTER,Teaching,(986) 475-5535,4.6,TX,83060
+joint commission,2057 Main Ave,609,New York,HOSP00623,Lakeside Health,Specialty,(785) 292-3016,3,IL,64772
+joint commission,2124 Lake Ave,1110,Dallas,HOSP00457,REGIONAL MEDICAL CENTER,Teaching,(725) 440-6635,4.6,NJ,47110
+joint commission,2155 Hill St,629,Chicago,HOSP00134,REGIONAL MEDICAL CENTER,Rehabilitation,(210) 716-1817,2.9,NJ,87589
+joint commission,2159 Oak Ave,1000,New York,HOSP00722,REGIONAL MEDICAL CENTER,Trauma Center,(427) 396-1741,2.7,IL,87825
+joint commission,2202 Oak St,125,Chicago,HOSP00687,St. Mary Medical Center,Psychiatric,(525) 229-1040,1.8,Unknown,17269
+joint commission,2308 Main Ave,584,Dallas,HOSP00520,Metro Medical Center,Specialty,(765) 705-5184,1.5,IL,45746
+joint commission,2320 Elm Ave,382,Chicago,HOSP00227,Metro Medical Center,Specialty,(881) 410-3600,1.1,IL,29702
+joint commission,237 Main St,974,Houston,HOSP00068,General Hospital,Psychiatric,(873) 140-5307,4,MI,12899
+joint commission,238 Park St,271,Unknown,HOSP00743,REGIONAL MEDICAL CENTER,Specialty,Unknown,4.2,Unknown,22596
+joint commission,2380 Park Ave,236,Dallas,HOSP00236,REGIONAL MEDICAL CENTER,Rehabilitation,(631) 662-2350,2.8,CA,42339
+joint commission,2392 Elm Ave,779,Houston,HOSP00929,REGIONAL MEDICAL CENTER,Unknown,(610) 731-1252,3.9,MA,65737
+joint commission,2437 Main St,796,Phoenix,HOSP00545,City Health Clinic,Psychiatric,(376) 319-4731,0,GA,34323
+joint commission,2507 Lake St,302,New York,HOSP00301,City Health Clinic,Teaching,(901) 201-7564,3.6,CA,22462
+joint commission,2567 Lake St,406,Houston,HOSP00819,Valley View Hospital,Teaching,(417) 689-8676,4.6,WA,64642
+joint commission,2607 Elm St,1161,Dallas,HOSP00405,St. Mary Medical Center,Rehabilitation,(332) 393-3874,3.7,TX,0
+joint commission,2619 Oak Ave,0,Los Angeles,HOSP00193,REGIONAL MEDICAL CENTER,Trauma Center,(431) 669-2866,3.5,GA,80188
+joint commission,2626 Main Ave,1115,Phoenix,HOSP00194,City Health Clinic,Psychiatric,(837) 236-3796,3.8,Unknown,39661
+joint commission,2636 Park Ave,1005,Los Angeles,HOSP00204,City Health Clinic,Rehabilitation,Unknown,4.7,OH,22231
+joint commission,2674 Lake St,500,Phoenix,HOSP00818,Unknown,Specialty,(990) 861-2058,2.9,PA,82538
+joint commission,2690 Main Ave,130,Chicago,HOSP00118,Valley View Hospital,Unknown,(471) 556-2588,4,Unknown,29848
+joint commission,2718 Elm Ave,942,Houston,HOSP00083,Community Hospital,Trauma Center,(854) 273-4435,4.2,TX,28918
+joint commission,2745 Oak Ave,0,Chicago,HOSP00449,Unknown,Rehabilitation,(742) 944-3466,3.7,AZ,29455
+joint commission,2754 Park St,635,Houston,HOSP00004,City Health Clinic,Teaching,(869) 862-4167,2.4,NC,50735
+joint commission,2774 Park Ave,1057,Dallas,HOSP00866,Lakeside Health,Community,(560) 124-1757,2.3,IL,65153
+joint commission,2798 Hill St,858,Los Angeles,HOSP00412,Community Hospital,Rehabilitation,(415) 396-7834,3.8,TX,74184
+joint commission,280 Elm Ave,858,Los Angeles,HOSP00991,Community Hospital,Teaching,(758) 436-8068,3.8,MI,70569
+joint commission,2803 Hill St,836,Houston,HOSP00580,Community Hospital,Trauma Center,(734) 954-3592,3.1,AZ,23887
+joint commission,2905 Park Ave,963,Houston ,HOSP00426,REGIONAL MEDICAL CENTER,Rehabilitation,(943) 845-3888,4.6,AZ,56917
+joint commission,293 Park Ave,689,Phoenix,HOSP00190,City Health Clinic,Community,Unknown,3.2,Unknown,93965
+joint commission,2951 Lake St,58,Phoenix,HOSP00030,Mercy Hospital,General,(814) 882-2477,1.2,Unknown,71024
+joint commission,3025 Oak St,148,Dallas,HOSP00300,Mercy Hospital,Unknown,(653) 833-9036,2.4,CA,23193
+joint commission,3079 Oak Ave,175,Chicago,HOSP00401,St. Mary Medical Center,Trauma Center,(358) 380-4859,1.3,AZ,62789
+joint commission,3122 Main St,261,New York,HOSP00409,REGIONAL MEDICAL CENTER,General,(220) 206-9996,4.6,FL,47959
+joint commission,3129 Main Ave,711,Dallas,HOSP00534,Sunrise Medical,Community,(937) 471-8606,3.1,PA,49171
+joint commission,3158 Elm Ave,536,New York,HOSP00856,Mercy Hospital,Trauma Center,Unknown,0,OH,79106
+joint commission,3176 Oak Ave,160,Los Angeles,HOSP00173,MERCY HOSPITAL ,Specialty,(342) 919-1284,3.2,Unknown,15496
+joint commission,3184 Oak Ave,0,New York,HOSP00622,Lakeside Health ,Rehabilitation,(917) 808-1605,1.4,IL,45871
+joint commission,3199 Park Ave,102,Houston,HOSP00214,Lakeside Health,Rehabilitation,(627) 412-9935,1.2,MI,83527
+joint commission,3253 Lake St,889,Houston,HOSP00739,Sunrise Medical,Specialty,(693) 627-5055,4,NY,41653
+joint commission,3255 Main Ave,724,Houston,HOSP00560,Sunrise Medical,Unknown,(799) 199-3307,2.2,NJ,32782
+joint commission,326 Hill Ave,373,Unknown,HOSP00131,City Health Clinic,Teaching,(300) 772-1407,3.2,FL,89879
+joint commission,3267 Hill Ave,656,Los Angeles,HOSP00178,Mercy Hospital,Trauma Center,(940) 100-5005,4.9,FL,79476
+joint commission,3303 Main Ave,859,New York,HOSP00595,City Health Clinic ,Trauma Center,(245) 588-4722,2.3,MI,40895
+joint commission,3306 Elm Ave,365,Dallas,HOSP00895,General Hospital,Psychiatric,(859) 320-9451,4.2,VA,94468
+joint commission,3416 Main Ave,920,New York,HOSP00772,Valley View Hospital,Teaching,(925) 845-1175,2.6,GA,28556
+joint commission,3456 Lake St,130,Unknown,HOSP00954,Community Hospital,General,(440) 262-8930,2.6,TX,91584
+joint commission,3484 Elm St,951,Phoenix,HOSP00436,Sunrise Medical,Specialty,(574) 820-1989,2.7,IL,94659
+joint commission,3582 Park Ave,250,Chicago,HOSP00877,Metro Medical Center,Unknown,(924) 192-3297,2.8,NJ,33388
+joint commission,3695 Oak St,446,Phoenix,HOSP00554,St. Mary Medical Center,Rehabilitation,(480) 510-4695,2.1,IL,25449
+joint commission,3714 Hill Ave,604,Los Angeles,HOSP00970,REGIONAL MEDICAL CENTER,Psychiatric,(978) 234-3661,1.9,VA,13280
+joint commission,3733 Elm Ave,276,Los Angeles,HOSP00393,Unknown,Teaching,(588) 288-9486,2.6,TX,52331
+joint commission,3776 Oak St,0,Phoenix,HOSP00141,Metro Medical Center,Community,(722) 127-3618,1.3,MA,63486
+joint commission,3803 Hill St,378,New York,HOSP00841,REGIONAL MEDICAL CENTER,Trauma Center,(472) 584-2720,2.2,TX,51434
+joint commission,382 Elm St,512,Los Angeles,HOSP00410,Metro Medical Center,Specialty,(262) 320-4532,2.3,MI,72160
+joint commission,3823 Elm St,1171,Houston,HOSP00059,City Health Clinic,Psychiatric,(320) 637-5140,4,OH,41343
+joint commission,3891 Elm Ave,458,Phoenix,HOSP00626,Metro Medical Center,Trauma Center,Unknown,0,VA,72855
+joint commission,3977 Park Ave,464,Los Angeles,HOSP00467,Unknown,Psychiatric,(984) 101-4516,1.2,NY,71030
+joint commission,4068 Park St,794,Chicago,HOSP00914,REGIONAL MEDICAL CENTER,Community,(903) 955-8511,0,TX,30222
+joint commission,4105 Lake St,325,New York,HOSP00998,Sunrise Medical,Community,(542) 833-6808,3.5,NJ,43437
+joint commission,4137 Park Ave,934,Chicago ,HOSP00668,REGIONAL MEDICAL CENTER,Rehabilitation,(614) 802-3142,4.8,IL,33436
+joint commission,4171 Lake St,1061,Los Angeles,HOSP00396,St. Mary Medical Center,Psychiatric,(866) 572-1911,2.1,CA,90220
+joint commission,4185 Lake Ave,1142,New York ,HOSP00989,Valley View Hospital,General,(998) 601-5349,3.4,AZ,44471
+joint commission,4213 Park St,841,Chicago,HOSP00364,Unknown,Psychiatric,(225) 235-1529,0,TX,20136
+joint commission,4233 Oak Ave,289,Phoenix ,HOSP00992,REGIONAL MEDICAL CENTER,Psychiatric ,(537) 810-9492,4.7,AZ,91060
+joint commission,4250 Hill St,53,Dallas,HOSP00476,Lakeside Health,Community,(357) 807-4866,1.7,FL,27604
+joint commission,4265 Park St,664,Chicago,HOSP00563,Valley View Hospital,Trauma Center,(856) 839-2291,2.1,OH,0
+joint commission,428 Park Ave,1141,Phoenix,HOSP00464,Lakeside Health,Specialty,(356) 743-2983,3.7,PA,16135
+joint commission,4282 Park Ave,845,Dallas,HOSP00602,Sunrise Medical,Trauma Center,(743) 404-3566,2.2,CA ,32334
+joint commission,4423 Elm St,0,Los Angeles,HOSP00088,Metro Medical Center,Trauma Center,(895) 478-5257,0,NC,75784
+joint commission,4452 Lake Ave,472,Chicago,HOSP00316,General Hospital,Rehabilitation,Unknown,1.7,OH,14475
+joint commission,4453 Hill Ave,80,New York,HOSP00137,Unknown,General,(307) 701-4009,2.5,AZ,79732
+joint commission,4542 Main St,270,Chicago,HOSP00321,Sunrise Medical,General,(514) 768-5116,2.5,IL,70760
+joint commission,4582 Main Ave,477,Chicago,HOSP00307,General Hospital,Specialty,(846) 564-3465,1.9,NJ,58059
+joint commission,4597 Main Ave,513,New York,HOSP00318,Lakeside Health,Specialty,(535) 805-6728,1.2,VA,84577
+joint commission,4616 Oak St,55,Phoenix,HOSP00347,Lakeside Health,Psychiatric,(307) 937-6941,2.2,OH,99647
+joint commission,4636 Park Ave,452,Unknown,HOSP00335,Valley View Hospital,Specialty,(641) 666-8892,4.3,MA,33161
+joint commission,4642 Elm Ave,493,Chicago,HOSP00572,Lakeside Health ,Psychiatric,(750) 688-6781,3.4,PA,66993
+joint commission,466 Oak Ave,374,Chicago,HOSP00555,General Hospital,Trauma Center,(668) 355-6125,4.5,NJ,37725
+joint commission,4720 Elm St,1146,Dallas,HOSP00858,Lakeside Health,Specialty,Unknown,1.9,IL,46160
+joint commission,4733 Elm St,391,Los Angeles,HOSP00217,Community Hospital ,Unknown,(973) 979-2582,4.6,NY,70434
+joint commission,4735 Main St,638,Houston,HOSP00640,St. Mary Medical Center,General,(652) 894-6444,2.2,TX,30838
+joint commission,4791 Park Ave,426,Dallas,HOSP00292,General Hospital,Community,(988) 792-7180,3.9,NJ,69502
+joint commission,4810 Hill St,205,Los Angeles,HOSP00543,Lakeside Health,Unknown,(478) 116-1215,3.7,CA,37914
+joint commission,490 Lake Ave,408,Dallas,HOSP00419,St. Mary Medical Center,Unknown,Unknown,3.5,FL,96904
+joint commission,4911 Elm St,1058,New York,HOSP00599,Mercy Hospital,Unknown,(323) 322-3030,4,IL,53053
+joint commission,497 Oak Ave,710,Dallas,HOSP00628,Lakeside Health,Trauma Center,(796) 815-1660,0,CA,75672
+joint commission,5022 Main St,876,Phoenix,HOSP00482,Valley View Hospital,Community,(423) 633-6283,1.3,MA,24727
+joint commission,5034 Hill Ave,1125,Dallas,HOSP00132,St. Mary Medical Center,Psychiatric,(700) 699-1202,0,MI,95826
+joint commission,5146 Elm St,867,Chicago,HOSP00556,Unknown,Specialty,(220) 698-1290,5,VA,87844
+joint commission,5156 Lake St,432,Chicago,HOSP00276,REGIONAL MEDICAL CENTER,Rehabilitation,(816) 593-9081,4.9,TX,95364
+joint commission,5197 Lake Ave,0,Los Angeles,HOSP00736,Valley View Hospital,Trauma Center,(323) 413-4699,2.1,MI,37593
+joint commission,5207 Lake St,534,Dallas,HOSP00424,REGIONAL MEDICAL CENTER,Rehabilitation,(281) 666-8951,3.2,IL,63453
+joint commission,5225 Hill Ave,375,Unknown,HOSP00387,Mercy Hospital,Psychiatric,(394) 152-6900,4.3,FL,29197
+joint commission,5261 Park Ave,588,Houston,HOSP00830,Metro Medical Center ,General,(400) 595-7747,2.6,VA,63646
+joint commission,5421 Main Ave,227,Phoenix,HOSP00950,Metro Medical Center,Rehabilitation,(452) 898-9754,4.1,MI,51892
+joint commission,5442 Lake Ave,699,Chicago,HOSP00758,REGIONAL MEDICAL CENTER,General,(258) 483-4848,4.8,FL,59857
+joint commission,5454 Lake St,692,New York,HOSP00002,City Health Clinic,Trauma Center,(691) 605-1601,2.8,MA,66771
+joint commission,5527 Oak Ave,666,Phoenix,HOSP00533,Community Hospital,Teaching,(572) 829-3297,2.4,VA,18331
+joint commission,5571 Lake Ave,905,Phoenix,HOSP00524,Unknown,Rehabilitation,(511) 339-6266,1.6,PA,89242
+joint commission,5743 Park Ave,781,New York,HOSP00935,Unknown,Psychiatric,(848) 374-2619,4.3,OH,87908
+joint commission,5787 Oak Ave,0,Unknown,HOSP00201,REGIONAL MEDICAL CENTER,Unknown,(342) 849-1399,4,NJ,43654
+joint commission,5800 Oak Ave,828,Phoenix,HOSP00499,Sunrise Medical,Trauma Center,(328) 536-8760,3,PA,80818
+joint commission,5823 Lake St,1026,Phoenix,HOSP00509,Mercy Hospital,Community,Unknown,3.7,MI,66788
+joint commission,5878 Hill Ave,864,Dallas,HOSP00720,City Health Clinic,Community,(575) 389-6797,2,OH,44041
+joint commission,5900 Elm Ave,617,Unknown,HOSP00993,Mercy Hospital,Teaching,(555) 503-3304,1.6,WA,65555
+joint commission,5950 Oak Ave,339,Dallas,HOSP00652,Unknown,Trauma Center,(359) 465-2089,3.2,AZ,62224
+joint commission,596 Elm St,0,Dallas,HOSP00465,Community Hospital,Teaching,(643) 563-3748,1.1,PA,23704
+joint commission,6044 Hill St,86,New York,HOSP00001,City Health Clinic,Psychiatric,(526) 775-1533,1.2,Unknown,37870
+joint commission,6170 Lake St,962,Houston,HOSP00608,Community Hospital,Unknown,(417) 391-2899,4.4,NC,57091
+joint commission,6184 Elm Ave,738,Houston,HOSP00845,St. Mary Medical Center ,Rehabilitation,(382) 375-6769,3.1,PA,47543
+joint commission,6186 Main St,461,Los Angeles,HOSP00208,General Hospital,Specialty,(344) 769-6417,4.3,VA,39895
+joint commission,6243 Park St,782,Houston,HOSP00337,Mercy Hospital,Psychiatric,(593) 564-8597,2.6,PA,11342
+joint commission,6265 Hill Ave,1032,Dallas,HOSP00507,City Health Clinic,Community,(692) 260-2494,0,PA,30586
+joint commission,6285 Park Ave,273,New York,HOSP00333,St. Mary Medical Center,Rehabilitation,(740) 123-3440,2.4,Unknown,78961
+joint commission,632 Main Ave,1062,Dallas,HOSP00356,Valley View Hospital,Trauma Center,(299) 496-5409,1.4,OH,31005
+joint commission,641 Park St,335,Dallas,HOSP00836,Unknown,General,(351) 830-1988,4.8,OH,22453
+joint commission,6444 Hill St,926,Los Angeles,HOSP00814,Community Hospital,Teaching,(393) 813-6159,2.1,NY,32503
+joint commission,648 Hill Ave,399,New York,HOSP00207,City Health Clinic,Community,(666) 447-5501,1.2,MI,0
+joint commission,6496 Hill Ave,815,Unknown,HOSP00539,General Hospital,Specialty,(231) 784-6800,2.7,NY,62255
+joint commission,6500 Lake St,0,Los Angeles,HOSP00905,Sunrise Medical,Specialty,(886) 476-3861,1.2,GA,29945
+joint commission,6521 Main St,332,New York,HOSP00942,Metro Medical Center,Trauma Center,(463) 108-5020,1.2,FL,43354
+joint commission,6642 Main Ave,187,Dallas,HOSP00910,City Health Clinic,Unknown,(653) 370-7865,4.8,GA,66358
+joint commission,6698 Hill Ave,929,Los Angeles ,HOSP00478,Metro Medical Center,Rehabilitation ,(867) 464-1656,1.4,WA,20697
+joint commission,6775 Oak St,730,Los Angeles,HOSP00637,General Hospital,Specialty,(878) 856-3155,2.1,Unknown,44113
+joint commission,6860 Park Ave,279,Chicago,HOSP00951,Lakeside Health,Unknown,(447) 193-5142,4.9,NY,95069
+joint commission,6872 Elm Ave,759,Chicago,HOSP00293,Lakeside Health,Specialty,(261) 387-4343,1.1,IL,54696
+joint commission,689 Main Ave,513,Dallas,HOSP00216,Valley View Hospital,Psychiatric,(604) 622-4211,0,NC,35485
+joint commission,6906 Elm St,379,Phoenix,HOSP00775,Community Hospital,Teaching,(617) 646-8342,2.3,OH,17124
+joint commission,6945 Park St,101,New York,HOSP00342,General Hospital,Community ,(901) 833-9050,3.4,NY,34587
+joint commission,6950 Hill St,631,Houston,HOSP00497,Unknown,General,(812) 569-8305,2,GA,71762
+joint commission,6959 Elm Ave,1124,Unknown,HOSP00148,Sunrise Medical,Psychiatric,(675) 406-6052,4.9,GA,11506
+joint commission,6985 Lake Ave,363,Phoenix,HOSP00392,MERCY HOSPITAL ,General,(411) 965-8757,2.3,CA,11394
+joint commission,7030 Lake St,193,Houston ,HOSP00559,REGIONAL MEDICAL CENTER,Psychiatric,(892) 736-9597,1.5,WA,58089
+joint commission,7063 Park St,204,Dallas,HOSP00827,Metro Medical Center,Rehabilitation,(248) 203-1164,0,GA,50020
+joint commission,707 Oak Ave,820,Dallas,HOSP00343,Mercy Hospital,Psychiatric,(955) 366-2903,3,VA,30483
+joint commission,7072 Main St,887,Los Angeles,HOSP00939,Lakeside Health,Trauma Center,(215) 292-5747,2.4,MA,30047
+joint commission,7080 Elm Ave,130,Dallas,HOSP00154,REGIONAL MEDICAL CENTER,Psychiatric,(709) 931-7535,2.3,NJ,24556
+joint commission,7098 Lake St,827,Phoenix,HOSP00341,REGIONAL MEDICAL CENTER,Psychiatric,(888) 469-6471,1.1,Unknown,70569
+joint commission,7150 Park St,799,Dallas,HOSP00749,Community Hospital,Teaching,(881) 802-9330,3,CA,71853
+joint commission,7151 Hill Ave,211,Dallas,HOSP00792,REGIONAL MEDICAL CENTER,Trauma Center,(833) 128-1550,4.7,IL,14184
+joint commission,7199 Park Ave,80,New York,HOSP00133,Community Hospital ,General,(713) 434-2801,3.3,MA,0
+joint commission,7230 Main St,745,Phoenix,HOSP00368,REGIONAL MEDICAL CENTER,Community,(502) 977-2294,3.5,CA,42481
+joint commission,7232 Hill St,626,Dallas,HOSP00888,REGIONAL MEDICAL CENTER,Unknown,(265) 964-1461,3.1,FL,42057
+joint commission,7232 Park St,1194,Phoenix,HOSP00977,Valley View Hospital,Rehabilitation,(587) 795-6832,1.9,PA ,49909
+joint commission,7251 Hill Ave,487,Unknown,HOSP00060,Mercy Hospital,General,(866) 528-4325,2,IL,0
+joint commission,7256 Elm Ave,477,Dallas,HOSP00570,Lakeside Health,Psychiatric,(301) 416-1941,2,OH,17926
+joint commission,7333 Lake Ave,358,Houston,HOSP00553,Lakeside Health,Specialty,(565) 493-8752,2.7,Unknown,83287
+joint commission,7422 Park St,924,Dallas,HOSP00164,Sunrise Medical,Specialty,(724) 473-1563,4,VA ,84867
+joint commission,7437 Hill Ave,0,Los Angeles,HOSP00378,Lakeside Health,Unknown,(451) 191-4105,0,NJ,80193
+joint commission,7448 Hill Ave,1178,New York,HOSP00108,Lakeside Health,Specialty,(314) 688-3730,3.4,NY,21413
+joint commission,7504 Elm St,1163,Phoenix,HOSP00867,Mercy Hospital,Community,(905) 990-4613,3,CA,12315
+joint commission,7508 Elm Ave,236,Dallas,HOSP00784,General Hospital,Psychiatric,(567) 724-5988,3.2,NC,91238
+joint commission,7554 Lake Ave,617,New York,HOSP00886,Valley View Hospital,Teaching,(783) 880-5405,2.1,IL,99410
+joint commission,7562 Main Ave,472,New York,HOSP00259,Mercy Hospital,Community,(642) 435-1786,4,GA,51070
+joint commission,7571 Elm Ave,845,Unknown,HOSP00890,REGIONAL MEDICAL CENTER,General,(569) 528-7689,3.3,TX,19952
+joint commission,7587 Hill Ave,1088,Chicago,HOSP00171,General Hospital,General,(337) 812-5727,4.3,NJ,20343
+joint commission,76 Oak Ave,750,New York,HOSP00526,Valley View Hospital,Community,Unknown,3.7,WA,79785
+joint commission,7645 Lake St,688,Houston,HOSP00104,Unknown,Trauma Center,(262) 140-8663,0,GA,61843
+joint commission,7671 Park Ave,936,Dallas,HOSP00881,General Hospital,Rehabilitation,(762) 343-8093,3.3,MA,64967
+joint commission,7679 Hill St,730,Dallas,HOSP00188,Unknown,Community,(837) 682-7098,1.9,VA,67621
+joint commission,7694 Hill St,0,Los Angeles,HOSP00280,St. Mary Medical Center,Trauma Center,(720) 839-2098,2.1,FL,99946
+joint commission,7704 Oak Ave,842,Phoenix,HOSP00702,Community Hospital,Psychiatric,(552) 321-3433,4.4,NJ,99516
+joint commission,7711 Park Ave,144,Dallas ,HOSP00654,Community Hospital,Rehabilitation,(705) 514-7632,1.7,MA,96511
+joint commission,7717 Oak St,1170,Chicago,HOSP00484,General Hospital,General,(974) 643-9806,4.7,GA,17156
+joint commission,7746 Main St,628,Los Angeles,HOSP00046,Unknown,Trauma Center,(920) 133-7664,2.8,NJ,19061
+joint commission,7777 Main St,363,Dallas,HOSP00136,Community Hospital,General,(747) 413-7536,1.4,GA,46812
+joint commission,7792 Park Ave,1017,Chicago,HOSP00516,Community Hospital,General,(900) 629-9058,1.4,AZ,86757
+joint commission,7805 Lake St,964,Dallas,HOSP00793,REGIONAL MEDICAL CENTER,General,(916) 245-6954,3.3,Unknown,71901
+joint commission,7815 Park St,645,Dallas,HOSP00028,Lakeside Health,Specialty,(438) 763-9402,1.4,GA,42541
+joint commission,7862 Hill Ave,390,New York,HOSP00158,City Health Clinic,General,(544) 752-9231,0,PA,30295
+joint commission,8011 Lake St,377,Phoenix,HOSP00561,Community Hospital,Specialty,(821) 405-4015,3.4,VA,0
+joint commission,8032 Hill St,207,Dallas,HOSP00344,Community Hospital,Specialty,(446) 897-1209,1.9,MI,43085
+joint commission,8071 Oak Ave,926,Houston,HOSP00926,Metro Medical Center,Rehabilitation,(929) 582-9762,1.2,NC,11026
+joint commission,8103 Lake St,50,Phoenix,HOSP00598,Metro Medical Center,Teaching,Unknown,1.3,VA,33822
+joint commission,8116 Hill St,366,Los Angeles,HOSP00235,Sunrise Medical,Teaching,(301) 193-4466,1.8,NJ,96012
+joint commission,813 Lake Ave,740,New York,HOSP00674,City Health Clinic,Teaching,(710) 100-1313,1.1,VA,86919
+joint commission,8143 Oak St,603,Dallas,HOSP00413,St. Mary Medical Center,Community,(452) 277-5340,0,Unknown,27348
+joint commission,8162 Oak Ave,0,New York,HOSP00437,Community Hospital,Specialty,(847) 393-1628,1.2,PA,65761
+joint commission,8182 Main St,661,Chicago,HOSP00116,REGIONAL MEDICAL CENTER,Teaching,(334) 223-7935,4.1,MA,83270
+joint commission,8228 Park Ave,179,Chicago,HOSP00434,Lakeside Health,Teaching,Unknown,3.8,FL,69206
+joint commission,8312 Oak Ave,1104,Phoenix,HOSP00807,Community Hospital,Specialty,(455) 941-5700,3.4,WA,62093
+joint commission,8347 Hill Ave,369,Dallas,HOSP00309,City Health Clinic,Unknown,(863) 362-4064,1.3,GA,16626
+joint commission,8406 Elm St,711,Houston,HOSP00281,Metro Medical Center,Specialty,(687) 766-8561,1.1,NY,59275
+joint commission,8424 Lake Ave,770,Chicago,HOSP00215,Metro Medical Center,Community,(580) 997-1916,4.9,TX,99029
+joint commission,8722 Main St,951,Unknown,HOSP00990,General Hospital,Community,(201) 796-9047,0,VA,53476
+joint commission,8723 Main St,674,New York,HOSP00616,City Health Clinic,Teaching,(855) 285-1727,1.1,OH,50503
+joint commission,8738 Oak St,777,New York,HOSP00613,Mercy Hospital,General,(683) 747-3430,4.6,Unknown,46822
+joint commission,8820 Main Ave,0,Dallas,HOSP00090,Valley View Hospital,Teaching,(318) 868-5521,4.8,OH,59962
+joint commission,8874 Main Ave,790,Los Angeles,HOSP00981,Metro Medical Center,Teaching,(494) 386-1550,1.1,NC,95580
+joint commission,8897 Oak St,897,Chicago,HOSP00840,Metro Medical Center,Psychiatric,(554) 847-7900,4,OH,74550
+joint commission,8903 Park Ave,712,New York,HOSP00411,REGIONAL MEDICAL CENTER,Rehabilitation,(947) 588-9263,1.2,PA,11826
+joint commission,8943 Park Ave,615,Phoenix,HOSP00166,Sunrise Medical,Teaching,Unknown,4.4,Unknown,28106
+joint commission,8958 Hill Ave,142,Chicago,HOSP00008,Mercy Hospital,Teaching,(465) 675-1288,3.1,NC,49971
+joint commission,8970 Park Ave,554,Houston ,HOSP00638,REGIONAL MEDICAL CENTER,Rehabilitation,(603) 468-4151,1.9,NC,87656
+joint commission,8972 Oak St,426,Unknown,HOSP00630,Mercy Hospital,Rehabilitation,(836) 271-8670,4.4,NJ,17599
+joint commission,8975 Main St,905,Los Angeles,HOSP00078,Lakeside Health,Psychiatric,(660) 117-1502,4.2,PA,52464
+joint commission,9114 Main St,744,Phoenix,HOSP00026,Sunrise Medical,General,(992) 295-3525,4.9,FL,36439
+joint commission,923 Park St,705,Houston,HOSP00690,City Health Clinic,Unknown,(607) 835-2210,4.4,MA,88043
+joint commission,9356 Main Ave,254,Dallas,HOSP00767,Mercy Hospital,Community,(750) 142-1741,2.4,NC,31392
+joint commission,9359 Oak St,80,Chicago,HOSP00710,Community Hospital,Teaching,(535) 396-6349,1.8,WA,70342
+joint commission,9450 Elm St,321,New York,HOSP00583,Unknown,Rehabilitation,(798) 262-2155,4.2,OH,15973
+joint commission,9450 Oak Ave,69,New York,HOSP00013,General Hospital,Unknown,(536) 767-3881,4.2,MA,82038
+joint commission,9467 Hill Ave,112,Unknown,HOSP00660,Lakeside Health,Rehabilitation,(702) 944-6226,1.5,MI,76228
+joint commission,9477 Lake Ave,744,Chicago,HOSP00915,REGIONAL MEDICAL CENTER,Community,(928) 280-1232,3.4,WA,18456
+joint commission,9529 Main St,298,New York,HOSP00627,Lakeside Health,Trauma Center ,(262) 162-5646,1.8,CA,50097
+joint commission,9561 Hill St,834,Phoenix,HOSP00619,Mercy Hospital,Teaching,(974) 767-8693,3.7,VA,53486
+joint commission,9569 Lake St,732,Dallas,HOSP00506,City Health Clinic,Trauma Center,(500) 824-7786,0,NY,34127
+joint commission,9592 Elm Ave,0,New York,HOSP00074,Mercy Hospital,Trauma Center,(908) 387-7588,3.5,TX,53554
+joint commission,9640 Hill Ave,555,Houston,HOSP00361,City Health Clinic,Teaching,(239) 529-6065,4.5,NY,51525
+joint commission,9681 Main St,1159,New York,HOSP00917,Community Hospital ,Psychiatric,(592) 575-7603,0,AZ,70508
+joint commission,9685 Main Ave,711,Dallas,HOSP00249,Community Hospital,Rehabilitation,(244) 565-3454,5,NC,20965
+joint commission,9736 Main Ave,1105,Houston,HOSP00663,Mercy Hospital,Unknown,(942) 110-4544,1.2,CA,18217
+joint commission,974 Hill St,781,New York,HOSP00618,REGIONAL MEDICAL CENTER,Community,(877) 597-7345,2.9,Unknown,75711
+joint commission,9775 Oak St,609,Phoenix,HOSP00470,Unknown,Psychiatric,(753) 356-3737,1.2,NJ,0
+joint commission,9819 Oak St,500,Phoenix,HOSP00972,Lakeside Health,Specialty,(804) 918-8929,2.3,MI,19534
+joint commission,9865 Park Ave,860,New York,HOSP00098,City Health Clinic,General,(467) 598-2806,4.8,MI,40104
+joint commission,9888 Hill St,640,Phoenix,HOSP00244,St. Mary Medical Center,Specialty ,(875) 696-3416,1.3,NC,94189
+joint commission,9917 Hill St,643,Unknown,HOSP00810,City Health Clinic,Psychiatric,(856) 995-6689,2.1,WA,63760
+joint commission,9928 Lake St,967,Houston,HOSP00959,St. Mary Medical Center,Community,(420) 470-9413,3.7,NJ ,48746
+joint commission,9972 Park Ave,119,Unknown,HOSP00607,REGIONAL MEDICAL CENTER,Community,(562) 112-7759,2,VA,70398
+joint commission,9989 Hill Ave,51,New York,HOSP00138,Unknown,Teaching,(881) 413-1963,1.4,NC,36612
+Joint Commission ,1427 Elm St,298,Chicago,HOSP00428,REGIONAL MEDICAL CENTER,General,(987) 512-9250,3.5,NJ,99941
+Joint Commission ,2578 Hill St,283,Phoenix,HOSP00659,Sunrise Medical,Rehabilitation,(513) 550-5231,3.2,PA,52757
+Joint Commission ,2778 Park St,134,Houston,HOSP00678,Sunrise Medical,Community,(571) 370-6931,4.7,GA ,91593
+Joint Commission ,3200 Elm Ave,688,Phoenix,HOSP00893,City Health Clinic,General,(735) 484-6266,3,CA,38848
+Joint Commission ,397 Hill Ave,1101,Chicago,HOSP00332,General Hospital,Specialty,(281) 376-4405,2.1,IL,80653
+Joint Commission ,8260 Oak St,768,Los Angeles,HOSP00567,Community Hospital,Psychiatric,(351) 898-8951,3.5,MI,37033
+Joint Commission ,844 Lake St,990,Dallas,HOSP00971,Mercy Hospital,Teaching,(298) 694-7001,4.5,GA,93888
+None,101 Elm Ave,1030,Los Angeles,HOSP00604,Lakeside Health,Rehabilitation,(690) 110-2424,1.8,IL,98112
+None,1081 Lake St,0,Los Angeles,HOSP00811,REGIONAL MEDICAL CENTER,Trauma Center,(990) 459-4615,1.2,NJ,41717
+None,1411 Elm St,373,Phoenix,HOSP00112,REGIONAL MEDICAL CENTER,Community,(584) 318-5865,4.5,NJ,19742
+None,1421 Oak Ave,107,Phoenix,HOSP00328,Lakeside Health,Community,(339) 279-8511,4.6,NY,69751
+None,1459 Park Ave,94,Dallas,HOSP00669,St. Mary Medical Center,General,(451) 649-5022,4,AZ,74276
+None,1465 Main St,80,Houston,HOSP00195,Sunrise Medical,Rehabilitation ,(724) 309-7823,1.5,NJ,98949
+None,1482 Main St,71,Chicago,HOSP00456,Metro Medical Center,Rehabilitation,(906) 807-7208,3.3,Unknown,54067
+None,1554 Park Ave,75,Chicago,HOSP00596,Valley View Hospital,Community,(943) 578-9023,1.9,NC,74426
+None,1582 Park St,255,Dallas,HOSP00645,St. Mary Medical Center,Rehabilitation,(293) 523-6994,4.2,IL,16596
+None,1588 Hill St,260,Phoenix,HOSP00019,Community Hospital,Specialty,(882) 545-2810,4.5,GA,78713
+None,1621 Elm St,819,Los Angeles,HOSP00273,Community Hospital,Community,(734) 494-9504,1.7,OH,91836
+None,1727 Lake Ave,389,Los Angeles,HOSP00397,General Hospital,Trauma Center,(322) 361-7022,4.1,NJ ,86620
+None,188 Lake Ave,1090,Dallas,HOSP00184,Lakeside Health,Psychiatric,(853) 367-8278,4.2,OH,37803
+None,1943 Elm St,622,Los Angeles,HOSP00730,City Health Clinic,Community,(247) 980-6766,4.9,NJ,75581
+None,1946 Oak St,567,Phoenix,HOSP00691,Sunrise Medical,Psychiatric,(525) 482-3706,4,OH,67578
+None,1961 Park St,203,New York,HOSP00382,Metro Medical Center,Teaching,(796) 510-7755,1.8,NC,0
+None,2021 Elm Ave,0,Los Angeles,HOSP00530,City Health Clinic,Psychiatric,(427) 865-5659,3.6,OH,77147
+None,2024 Oak St,497,Chicago,HOSP00447,St. Mary Medical Center,Community,(997) 939-4215,1.8,NC,51969
+None,2032 Lake Ave,506,Los Angeles,HOSP00629,Unknown,Specialty,(532) 441-4543,5,FL,65241
+None,2137 Park St,954,Dallas,HOSP00600,Community Hospital,Specialty,Unknown,2.7,FL,42024
+None,2256 Park Ave,949,Los Angeles,HOSP00473,Unknown,Psychiatric,(624) 656-2160,4,NJ,91678
+None,2417 Oak Ave,559,Houston,HOSP00741,City Health Clinic ,Psychiatric,(783) 539-1609,2.6,NC,91691
+None,2430 Lake St,0,New York,HOSP00870,Unknown,Psychiatric,(525) 829-3692,2.3,MA,88686
+None,2458 Lake St,1055,Dallas,HOSP00887,Lakeside Health,Trauma Center,(755) 580-5382,2.5,OH,51629
+None,2476 Hill St,1030,Unknown,HOSP00471,Community Hospital,Psychiatric,(391) 230-3458,2.4,WA,76533
+None,2610 Hill St,1174,Los Angeles,HOSP00988,Community Hospital,Specialty,(434) 231-6627,3,NJ,0
+None,2612 Park Ave,1014,New York,HOSP00753,Valley View Hospital,Teaching,(271) 197-5921,4.7,GA,79924
+None,2631 Oak St,549,Dallas,HOSP00220,Mercy Hospital,Unknown,Unknown,3.4,PA,28940
+None,2698 Oak St,344,New York,HOSP00751,City Health Clinic,Specialty,(949) 735-5991,3.6,IL,76757
+None,2715 Lake Ave,1133,New York,HOSP00120,Valley View Hospital,General,Unknown,4.7,FL,58023
+None,2778 Oak Ave,321,Unknown,HOSP00427,Lakeside Health,Community,(453) 463-1802,1.3,NC,42003
+None,2822 Oak Ave,457,Chicago,HOSP00734,St. Mary Medical Center,Psychiatric,(509) 836-5721,4.9,NJ,52592
+None,2845 Oak St,194,New York,HOSP00540,Community Hospital,General,(318) 280-2036,2.6,NY,0
+None,2847 Hill St,1173,New York ,HOSP00621,General Hospital,Trauma Center,(432) 923-6215,3.9,MA,66225
+None,2972 Lake Ave,602,New York,HOSP00518,General Hospital,Unknown,(258) 183-1509,0,TX,48409
+None,3024 Elm Ave,1174,New York,HOSP00965,General Hospital,Psychiatric,(659) 455-3227,4.5,VA,77517
+None,3059 Hill St,161,Los Angeles,HOSP00439,Mercy Hospital,Trauma Center,(948) 992-4135,1.3,TX,83072
+None,3250 Hill Ave,814,Phoenix,HOSP00263,Valley View Hospital,Specialty,(877) 666-3248,3,NY,73531
+None,3419 Lake Ave,958,Phoenix,HOSP00286,Unknown,Community,Unknown,1.7,OH,80061
+None,3523 Elm St,1123,Chicago,HOSP00284,Lakeside Health,Community,(682) 293-3435,4.3,OH,28877
+None,3534 Lake Ave,112,Chicago,HOSP00923,Lakeside Health,Specialty,(899) 213-8666,1.2,PA ,75798
+None,3623 Oak St,885,Los Angeles,HOSP00785,Lakeside Health ,Unknown,Unknown,2.6,GA,70647
+None,3839 Lake St,606,Chicago,HOSP00986,General Hospital,Psychiatric,(243) 751-2617,1.8,AZ,32831
+None,384 Park Ave,1004,Phoenix,HOSP00700,Unknown,General,(251) 640-5963,1.1,GA,95745
+None,3941 Oak Ave,280,Los Angeles,HOSP00812,Community Hospital,Psychiatric,(322) 555-6828,2.7,PA,65887
+None,3985 Oak St,592,Dallas ,HOSP00200,Lakeside Health,Rehabilitation,(457) 768-5589,4,VA,92246
+None,3987 Park Ave,0,New York,HOSP00038,St. Mary Medical Center,Teaching,(244) 535-5933,4.2,PA,67230
+None,4065 Park Ave,255,Dallas,HOSP00111,Metro Medical Center,Community,(761) 807-2333,4.2,WA,65445
+None,4112 Main St,1103,Los Angeles,HOSP00585,Community Hospital,Rehabilitation,(284) 894-6154,3.1,NC,77850
+None,4172 Lake St,169,New York,HOSP00089,Lakeside Health,Rehabilitation,(399) 463-1952,2.3,TX,17445
+None,4176 Oak St,720,New York,HOSP00908,Valley View Hospital ,Rehabilitation,(981) 237-8900,1.1,MI,40167
+None,4251 Elm Ave,223,New York,HOSP00569,Valley View Hospital,Psychiatric,(979) 797-8528,2.9,AZ,36340
+None,4327 Park Ave,1121,Los Angeles,HOSP00308,Lakeside Health,General,(893) 908-2764,4.4,WA,54493
+None,4359 Oak Ave,649,Phoenix,HOSP00515,St. Mary Medical Center,General,(514) 157-5023,2.5,Unknown,75233
+None,4401 Oak St,548,Phoenix,HOSP00684,Valley View Hospital,Specialty,(863) 991-4232,3.2,PA,49568
+None,4484 Park St,255,Chicago,HOSP00203,Unknown,Psychiatric,(627) 389-7076,4.1,OH,30572
+None,4672 Hill Ave,940,Chicago,HOSP00781,St. Mary Medical Center,Teaching ,(336) 373-4519,2.6,MA,11749
+None,4694 Lake Ave,545,Chicago,HOSP00778,Unknown,Teaching,(771) 833-4832,1.3,PA,56161
+None,4718 Lake St,703,Phoenix,HOSP00693,City Health Clinic,Unknown,(707) 782-8048,2.1,NY,82777
+None,4816 Oak Ave,921,Chicago,HOSP00479,General Hospital,Rehabilitation,(809) 624-9495,2.3,NC,17399
+None,4917 Oak St,1139,Chicago,HOSP00558,St. Mary Medical Center,Unknown,(839) 907-1976,1.1,PA,28782
+None,4934 Lake Ave,1181,Dallas,HOSP00314,Unknown,Trauma Center,Unknown,2.4,IL,80451
+None,4968 Lake St,409,Houston,HOSP00021,Metro Medical Center,Teaching,(777) 824-4130,4.8,PA,83226
+None,4969 Main St,225,Los Angeles,HOSP00695,Unknown,Community,(829) 572-8220,2.8,FL,18287
+None,497 Park Ave,495,Unknown,HOSP00752,Metro Medical Center,Specialty,(439) 246-3838,1.2,NY,80370
+None,5338 Lake Ave,617,Phoenix,HOSP00880,Community Hospital,Community,(375) 752-8200,3.1,NJ,48529
+None,5462 Lake Ave,1182,Los Angeles,HOSP00833,Mercy Hospital,Trauma Center,(312) 759-2135,1.5,MA,43799
+None,549 Hill Ave,71,Los Angeles,HOSP00689,Sunrise Medical,Rehabilitation,(472) 817-8430,3.5,FL,88346
+None,5534 Lake Ave,213,Chicago,HOSP00186,Sunrise Medical,General,(548) 620-7372,3.4,NY,88591
+None,5563 Oak Ave,340,Los Angeles,HOSP00352,Valley View Hospital,Rehabilitation,(540) 983-3669,2.3,WA,48489
+None,5588 Oak St,0,Unknown,HOSP00082,Mercy Hospital,Teaching,(354) 746-8025,4,MI,73703
+None,5628 Oak St,413,Unknown,HOSP00250,Mercy Hospital,Teaching,(522) 637-9453,2.8,GA,29478
+None,5856 Lake St,714,Dallas,HOSP00020,Mercy Hospital,Teaching,(857) 724-1407,1.1,MA,40438
+None,6184 Hill Ave,337,Houston,HOSP00523,General Hospital,Psychiatric,(712) 376-9201,2,NY,40861
+None,6194 Park Ave,535,Phoenix,HOSP00152,Mercy Hospital,General,(954) 258-9024,1.8,NC,10696
+None,6235 Park St,1199,Dallas,HOSP00092,General Hospital,Community,(493) 925-3988,2.6,IL,25874
+None,6318 Lake Ave,161,Phoenix,HOSP00706,General Hospital,Psychiatric,Unknown,3.5,NY,55894
+None,6505 Park Ave,0,Los Angeles,HOSP00912,REGIONAL MEDICAL CENTER,Unknown,(453) 187-1567,1.2,MI,73378
+None,6526 Oak St,927,Chicago,HOSP00223,Sunrise Medical,General,(476) 600-3026,0,MA,63239
+None,6644 Oak Ave,883,New York,HOSP00047,Unknown,Specialty,(539) 781-3256,1.1,FL,15281
+None,6712 Main Ave,94,Dallas,HOSP00125,Valley View Hospital,Unknown,(337) 308-3114,2,MI,12559
+None,6741 Lake St,1080,Los Angeles,HOSP00759,Mercy Hospital,Rehabilitation,(374) 474-6126,1.3,PA,82050
+None,6849 Oak St,382,Los Angeles,HOSP00162,Unknown,General,(358) 974-5756,2.1,AZ,38944
+None,6860 Main St,245,Chicago,HOSP00232,St. Mary Medical Center,Teaching,(833) 484-2826,4.1,Unknown,80203
+None,6909 Hill St,0,Houston,HOSP00620,General Hospital,Psychiatric,(561) 355-8543,1.9,VA,36034
+None,694 Main St,488,Chicago,HOSP00297,REGIONAL MEDICAL CENTER,Community,(935) 598-1476,1.8,NC,73177
+None,6981 Hill St,301,Unknown,HOSP00834,Lakeside Health,Psychiatric,(428) 899-4192,2.8,FL,17592
+None,7031 Hill St,725,Los Angeles,HOSP00502,St. Mary Medical Center,Community,(388) 507-9899,1,GA,71027
+None,7056 Park Ave,1019,Los Angeles,HOSP00389,Metro Medical Center,Trauma Center,(398) 334-4885,1.8,MA,67509
+None,7087 Hill Ave,692,Houston,HOSP00115,General Hospital,Specialty,(542) 324-7496,1.8,WA,32963
+None,7141 Hill Ave,1145,Dallas,HOSP00875,City Health Clinic,Unknown,(738) 925-3464,1.2,PA,11775
+None,7147 Main St,1056,Houston,HOSP00189,Metro Medical Center,Psychiatric,(566) 158-9329,3.6,NJ,23449
+None,720 Elm St,251,Unknown,HOSP00748,City Health Clinic,Psychiatric,(347) 462-9869,4.6,VA,66422
+None,7206 Lake St,0,Houston,HOSP00418,General Hospital,Rehabilitation,(689) 400-2369,2.8,WA,0
+None,7215 Park Ave,436,Phoenix,HOSP00306,Metro Medical Center,Community,(416) 567-2745,5,NY,90389
+None,7234 Main St,397,Unknown,HOSP00815,Valley View Hospital,General,(746) 169-6896,3.7,Unknown,75409
+None,7240 Main St,80,Houston,HOSP00651,Sunrise Medical,Community,(731) 347-4871,5,PA,35216
+None,7258 Oak St,1199,Houston,HOSP00126,City Health Clinic,Psychiatric,(857) 812-4806,4.2,MI,27128
+None,7414 Elm St,961,Los Angeles,HOSP00458,Metro Medical Center,Trauma Center,(269) 564-4647,2.8,TX,34882
+None,7481 Hill Ave,668,New York,HOSP00241,REGIONAL MEDICAL CENTER,Community,(205) 310-2501,3.6,Unknown,80251
+None,7702 Park St,446,New York,HOSP00723,Mercy Hospital,Rehabilitation,(944) 910-5774,2.2,OH,80200
+None,7724 Elm St,762,New York,HOSP00080,REGIONAL MEDICAL CENTER,Specialty,(231) 779-6624,2.5,WA ,14523
+None,7727 Park Ave,188,Houston,HOSP00920,General Hospital ,Unknown,(497) 442-2748,1.4,NJ,81400
+None,7728 Park St,838,Phoenix,HOSP00192,REGIONAL MEDICAL CENTER,Unknown,(228) 307-4616,4.6,WA,27667
+None,7739 Elm St,396,Los Angeles,HOSP00863,General Hospital,General,(702) 264-8333,2.2,NJ,18242
+None,7843 Park Ave,616,New York,HOSP00076,REGIONAL MEDICAL CENTER,Trauma Center,(966) 713-7419,3.3,CA,0
+None,7906 Lake St,1111,Houston,HOSP00228,Lakeside Health,Psychiatric,(221) 803-9815,3.1,OH,32754
+None,7975 Park Ave,933,Houston,HOSP00359,Metro Medical Center,Trauma Center ,(588) 368-1145,1.2,GA,58656
+None,802 Elm Ave,278,New York,HOSP00075,General Hospital,Trauma Center,Unknown,2.7,GA,94471
+None,8039 Main Ave,634,Chicago,HOSP00386,St. Mary Medical Center,Psychiatric,(600) 226-6878,3.1,AZ,76067
+None,8147 Lake St,601,New York,HOSP00519,Community Hospital,Teaching,(498) 399-3915,4.2,NJ,43807
+None,8214 Hill St,673,Houston,HOSP00718,REGIONAL MEDICAL CENTER,Community,(936) 476-7403,3.3,NY,21831
+None,8426 Oak St,55,Dallas,HOSP00825,REGIONAL MEDICAL CENTER,General,(646) 883-5014,4.3,IL,35435
+None,8579 Park Ave,483,New York,HOSP00291,Lakeside Health,Trauma Center,(596) 322-2954,2.5,OH,93620
+None,8580 Oak Ave,198,Houston,HOSP00822,Regional Medical Center ,Rehabilitation,(886) 403-1076,1.2,NJ,67259
+None,8664 Main St,1001,Los Angeles,HOSP00485,Valley View Hospital ,Community,(519) 373-4462,3.9,FL,89222
+None,8681 Oak St,259,Dallas,HOSP00614,Valley View Hospital,Rehabilitation,Unknown,3.9,WA,48704
+None,8800 Park Ave,898,Houston,HOSP00326,City Health Clinic,Psychiatric,(406) 149-6483,1.6,NJ,88728
+None,9033 Hill St,364,Phoenix,HOSP00451,Metro Medical Center,General,(669) 430-8670,2,CA,12623
+None,914 Lake Ave,997,New York,HOSP00820,City Health Clinic,Rehabilitation,(687) 583-3611,1.1,IL,63345
+None,9185 Lake Ave,404,Los Angeles,HOSP00257,Lakeside Health,General,(819) 656-3037,0,CA,96619
+None,9240 Oak St,688,Houston,HOSP00191,Lakeside Health,General,(950) 280-5591,1.5,NJ,11182
+None,9289 Oak Ave,65,Unknown,HOSP00735,General Hospital,Rehabilitation,(974) 248-7494,2,MA,73486
+None,9441 Main Ave,723,Houston,HOSP00023,REGIONAL MEDICAL CENTER,Rehabilitation,(496) 870-5137,4.5,NY,29155
+None,9591 Park Ave,68,Houston,HOSP00522,Sunrise Medical,Teaching,(293) 992-7294,4.1,AZ ,67528
+None,9661 Lake St,650,Houston,HOSP00673,City Health Clinic,Specialty,(833) 395-2403,1.5,MA ,35592
+None,9676 Elm St,491,New York,HOSP00375,Mercy Hospital,Specialty,(881) 743-8038,5,OH,53969
+None,969 Main St,686,Los Angeles,HOSP00672,City Health Clinic,General,(613) 765-6030,3.4,OH,74263
+None,9778 Elm St,1012,Phoenix,HOSP00113,St. Mary Medical Center ,Psychiatric,(658) 176-2218,1.8,MI,67638
+None,9799 Park St,340,Chicago,HOSP00180,St. Mary Medical Center,Psychiatric,(786) 301-1236,4.7,GA,60872
+None,9947 Main St,1134,New York,HOSP00707,Lakeside Health,General,(745) 428-6115,0,NY,0
+None ,9615 Oak Ave,740,New York,HOSP00577,Lakeside Health,Rehabilitation,(378) 507-1549,1.2,OH,73272
+Unknown,1020 Main Ave,479,Chicago,HOSP00770,Mercy Hospital,Trauma Center,(375) 699-1466,4.6,MA,67928
+Unknown,1029 Hill St,862,New York,HOSP00035,St. Mary Medical Center,Community,(328) 518-2466,3.7,IL,24312
+Unknown,1030 Main Ave,476,Los Angeles,HOSP00799,REGIONAL MEDICAL CENTER,General,(859) 853-3484,3.1,MA,60502
+Unknown,1035 Main St,1150,Dallas,HOSP00513,City Health Clinic,Rehabilitation,(413) 662-3294,3.5,FL,81380
+Unknown,1126 Park St,0,Chicago,HOSP00823,Metro Medical Center,Specialty,(559) 191-4967,3.7,NY,76535
+Unknown,1132 Oak St,702,Phoenix,HOSP00512,Mercy Hospital,Rehabilitation,(362) 765-3647,4.3,MA,15863
+Unknown,1138 Park Ave,1045,Unknown,HOSP00686,Community Hospital,Psychiatric,(273) 221-1785,2.5,FL,11655
+Unknown,1147 Elm St,183,Houston,HOSP00655,Metro Medical Center,General,(955) 292-9568,3.6,NY,82124
+Unknown,1212 Oak Ave,783,Phoenix,HOSP00477,General Hospital ,Teaching,Unknown,2.8,PA,42538
+Unknown,126 Lake St,272,Chicago,HOSP00444,REGIONAL MEDICAL CENTER,General,(202) 369-6773,4.1,VA,56877
+Unknown,1268 Elm Ave,931,Houston,HOSP00578,City Health Clinic,General,(394) 110-8702,1.7,FL,27194
+Unknown,1297 Park St,476,Houston,HOSP00680,Sunrise Medical,Trauma Center,(559) 559-1503,1.9,VA,83643
+Unknown,1317 Main St,462,Phoenix,HOSP00149,St. Mary Medical Center,Specialty,Unknown,3.6,WA,24262
+Unknown,1420 Oak Ave,375,Dallas,HOSP00084,City Health Clinic,Trauma Center,(925) 295-9929,4.7,NY,39347
+Unknown,1450 Main St,325,Phoenix,HOSP00579,Unknown,Community,(387) 341-9178,4.9,VA,57445
+Unknown,1460 Elm Ave,346,Dallas,HOSP00037,General Hospital,General,(497) 501-8083,4.6,MA,25844
+Unknown,148 Lake St,437,Los Angeles,HOSP00606,Community Hospital,Teaching,(672) 175-3337,2.5,NJ,10063
+Unknown,1533 Hill St,530,Unknown,HOSP00493,Valley View Hospital,Trauma Center,(853) 979-2260,2,MA,37765
+Unknown,1555 Oak Ave,879,New York,HOSP00303,Mercy Hospital,Unknown,(248) 542-6513,3.9,VA,12614
+Unknown,1661 Elm Ave,663,Unknown,HOSP00366,Community Hospital,Rehabilitation,(390) 912-3423,2.1,CA,0
+Unknown,1691 Park St,245,Phoenix,HOSP00641,Sunrise Medical,Trauma Center,Unknown,3.6,CA,56134
+Unknown,1713 Lake St,250,Chicago,HOSP00129,General Hospital,Rehabilitation,(760) 276-7567,1.9,VA,96914
+Unknown,1728 Elm Ave,1047,Phoenix,HOSP00103,REGIONAL MEDICAL CENTER,General,(286) 468-1565,2.6,WA,18885
+Unknown,1820 Oak St,567,Phoenix,HOSP00500,Mercy Hospital,Trauma Center,(346) 617-4324,1.5,PA,19390
+Unknown,1843 Lake Ave,224,Houston,HOSP00800,Community Hospital,General,(893) 131-6627,1.8,IL,21828
+Unknown,1927 Lake Ave,1161,New York,HOSP00334,St. Mary Medical Center,Psychiatric,(279) 919-1313,1.5,Unknown,37333
+Unknown,1938 Hill St,103,New York,HOSP00362,Lakeside Health,Psychiatric,(531) 252-7788,2.7,VA,40379
+Unknown,1965 Hill St,1010,Los Angeles,HOSP00696,Metro Medical Center,Specialty,(312) 369-5558,2.5,MA,20329
+Unknown,1992 Main Ave,261,Dallas,HOSP00258,REGIONAL MEDICAL CENTER,Psychiatric,(796) 117-9779,1.3,GA,15989
+Unknown,202 Park St,83,Houston,HOSP00105,Valley View Hospital,Trauma Center,(849) 945-1877,3,NC,30548
+Unknown,2040 Elm Ave,56,Chicago,HOSP00349,City Health Clinic ,Specialty,(836) 160-9923,4,MI,73864
+Unknown,2113 Park Ave,0,Chicago,HOSP00531,Metro Medical Center,Community,(782) 872-1614,4.2,PA,18990
+Unknown,2117 Lake Ave,0,Unknown,HOSP00445,Valley View Hospital,Trauma Center,(843) 877-5022,1.3,NY,81617
+Unknown,2120 Oak Ave,251,New York,HOSP00425,Mercy Hospital,Specialty,(412) 279-1860,1.4,NC,55685
+Unknown,2128 Hill St,876,New York,HOSP00848,Sunrise Medical,Rehabilitation,(516) 374-1092,4.3,NY,99837
+Unknown,2155 Oak Ave,99,Dallas,HOSP00017,REGIONAL MEDICAL CENTER,Community,(719) 520-8765,2.5,AZ,31056
+Unknown,2163 Elm Ave,555,Los Angeles,HOSP00862,Unknown,Unknown,(259) 297-7345,1.4,IL,81084
+Unknown,2193 Elm St,158,Houston,HOSP00755,City Health Clinic,Rehabilitation,(435) 899-9267,4.6,GA,39619
+Unknown,2216 Elm Ave,1186,Chicago,HOSP00269,Unknown,Psychiatric,(670) 112-7488,1.8,Unknown,51460
+Unknown,2235 Hill St,734,Houston,HOSP00452,MERCY HOSPITAL ,Rehabilitation,(441) 937-4692,2.1,WA,40727
+Unknown,2241 Park Ave,593,Chicago,HOSP00371,Regional Medical Center ,Teaching,(952) 504-1419,1.6,IL,52914
+Unknown,2248 Elm St,249,Phoenix,HOSP00973,Lakeside Health,Community,(872) 538-6230,2.4,FL,45258
+Unknown,2323 Main Ave,1070,Chicago,HOSP00432,Valley View Hospital,Trauma Center,(922) 337-4725,0,TX,45364
+Unknown,2422 Lake Ave,1157,Dallas,HOSP00801,Unknown,Unknown,(942) 160-1280,2.6,IL,22175
+Unknown,2433 Elm Ave,1154,Chicago,HOSP00679,REGIONAL MEDICAL CENTER,Trauma Center,(352) 294-9882,1.5,NY,51486
+Unknown,2442 Main St,334,New York,HOSP00360,General Hospital,Psychiatric,(977) 706-6847,3.6,WA,81903
+Unknown,251 Main St,563,New York,HOSP00221,Unknown,Trauma Center,(664) 260-7468,2.8,NY,80201
+Unknown,2510 Lake St,246,Houston,HOSP00416,REGIONAL MEDICAL CENTER,Unknown,(460) 470-1670,3.4,OH,57226
+Unknown,2535 Hill St,770,Phoenix,HOSP00199,REGIONAL MEDICAL CENTER,Community,(315) 784-8156,2.6,MI,44564
+Unknown,2572 Park St,446,Houston,HOSP00167,General Hospital,Community,(539) 476-5230,3.3,NC,41856
+Unknown,2622 Main Ave,168,Chicago,HOSP00813,City Health Clinic,Trauma Center,(963) 996-3556,2.7,GA,64122
+Unknown,2648 Hill Ave,786,New York,HOSP00885,General Hospital,Psychiatric,Unknown,3,NC,78102
+Unknown,2659 Lake Ave,163,Phoenix,HOSP00155,Sunrise Medical,Rehabilitation,(622) 270-2278,2.7,NC,76296
+Unknown,2744 Oak Ave,662,Phoenix,HOSP00974,City Health Clinic,Community,(954) 162-6272,2.9,WA,62794
+Unknown,2779 Hill St,831,Los Angeles,HOSP00462,Lakeside Health,Trauma Center,(267) 775-1169,4,AZ,35775
+Unknown,2854 Hill St,866,Los Angeles,HOSP00022,Community Hospital,Psychiatric,(276) 533-3127,4.7,NJ,19645
+Unknown,2908 Hill St,1116,Houston,HOSP00731,St. Mary Medical Center,Rehabilitation,(468) 642-9029,3.2,IL,45763
+Unknown,2915 Main St,528,Houston,HOSP00788,REGIONAL MEDICAL CENTER,General,(808) 321-1450,2,IL,98739
+Unknown,2973 Elm Ave,1027,Houston,HOSP00010,Unknown,Unknown,(360) 588-4460,1.2,IL,68869
+Unknown,3143 Oak Ave,0,New York,HOSP00399,Metro Medical Center,General,(807) 168-6599,2.3,PA,83928
+Unknown,3227 Elm Ave,786,Phoenix,HOSP00549,Lakeside Health,Teaching,(921) 565-9671,3,FL,58172
+Unknown,3231 Lake Ave,355,Los Angeles,HOSP00438,Community Hospital,Rehabilitation,(451) 484-7914,2.6,MI,71254
+Unknown,3272 Park Ave,737,Chicago,HOSP00615,City Health Clinic,Unknown,(812) 467-6327,3.5,MI,23239
+Unknown,3400 Park St,760,Phoenix,HOSP00889,Valley View Hospital,Community,(692) 511-1643,2.5,GA,77989
+Unknown,3555 Oak St,574,Chicago,HOSP00705,Lakeside Health,Teaching,(697) 667-5156,4.5,OH,77169
+Unknown,3568 Lake St,507,Unknown,HOSP00952,Sunrise Medical,Trauma Center,(964) 708-4587,3,WA,61129
+Unknown,3591 Hill St,345,Dallas,HOSP00114,Metro Medical Center,Teaching,(628) 255-9406,2.2,TX,22265
+Unknown,3634 Main St,300,Dallas,HOSP00779,Valley View Hospital ,Trauma Center,(657) 684-6679,1.4,OH,91053
+Unknown,3650 Park Ave,899,Phoenix,HOSP00716,Sunrise Medical,Psychiatric,(629) 672-6078,3.7,IL,26135
+Unknown,3691 Park Ave,258,New York,HOSP00624,City Health Clinic,Unknown,(366) 641-3069,1.1,WA,83046
+Unknown,3708 Main Ave,763,Chicago,HOSP00963,St. Mary Medical Center,Community,Unknown,4.6,VA,74588
+Unknown,375 Lake Ave,971,Chicago,HOSP00985,Community Hospital ,General,(369) 207-4512,3.8,PA,62372
+Unknown,375 Park St,171,Phoenix,HOSP00069,St. Mary Medical Center,Community,(305) 420-8723,4.4,GA,88198
+Unknown,3832 Oak Ave,203,Phoenix,HOSP00234,Unknown,Psychiatric,(550) 894-5197,4.6,Unknown,36379
+Unknown,3902 Elm Ave,845,Dallas,HOSP00631,General Hospital,Community,(924) 474-8381,1.9,PA,65529
+Unknown,3929 Main Ave,285,Chicago,HOSP00245,Lakeside Health,Community,(288) 640-5976,2.4,Unknown,0
+Unknown,3986 Elm St,57,Houston,HOSP00994,Valley View Hospital,General,(549) 255-3051,2.7,FL,52272
+Unknown,4005 Elm St,716,New York,HOSP00330,Valley View Hospital,Specialty,(821) 421-7753,0,VA,16604
+Unknown,403 Elm St,573,New York,HOSP00909,City Health Clinic,Psychiatric,(955) 402-1463,3.8,NY,94208
+Unknown,4048 Oak Ave,818,Los Angeles,HOSP00897,City Health Clinic,Psychiatric,(781) 238-5121,4.9,NJ,30360
+Unknown,4138 Main Ave,1014,New York,HOSP00261,General Hospital,Trauma Center,(984) 152-1174,2.8,NC,78500
+Unknown,4162 Elm Ave,261,Chicago,HOSP00031,Valley View Hospital,Teaching,(316) 938-2575,3.6,GA,11964
+Unknown,4290 Hill Ave,496,Los Angeles,HOSP00978,Valley View Hospital,Community,(249) 907-7303,1.2,VA,18515
+Unknown,4339 Elm Ave,393,New York,HOSP00633,Community Hospital,Unknown,(934) 491-7293,2.1,MI,68980
+Unknown,4364 Hill Ave,724,Los Angeles,HOSP00936,General Hospital,General,(857) 152-1931,2,GA,21428
+Unknown,4366 Lake Ave,1111,Los Angeles,HOSP00589,City Health Clinic,General,(801) 128-7043,4.1,VA,93413
+Unknown,4395 Lake St,670,Unknown,HOSP00338,REGIONAL MEDICAL CENTER,Teaching,(636) 366-2523,1.2,GA,91690
+Unknown,4402 Main St,873,New York,HOSP00817,General Hospital,General,(510) 636-6904,1,MA,12210
+Unknown,4435 Oak St,479,Unknown,HOSP00790,Community Hospital,Unknown,(727) 881-6811,2.7,PA,60307
+Unknown,4515 Hill St,617,New York,HOSP00414,Valley View Hospital,Teaching,(590) 925-9597,0,WA,35066
+Unknown,458 Hill Ave,185,Houston,HOSP00525,Metro Medical Center,Psychiatric,(716) 206-9952,1.3,NC,43374
+Unknown,4589 Hill St,828,Chicago,HOSP00906,Metro Medical Center,Psychiatric,(860) 217-1383,4.1,GA,98245
+Unknown,4596 Hill St,771,Houston,HOSP00943,Mercy Hospital,Rehabilitation,(471) 401-6531,1.4,WA,72009
+Unknown,4660 Lake Ave,1060,Houston,HOSP00077,Metro Medical Center,Rehabilitation,Unknown,5,NJ,73294
+Unknown,4700 Hill Ave,393,New York,HOSP00688,REGIONAL MEDICAL CENTER,Community,(972) 616-9921,3,CA,71870
+Unknown,474 Hill St,449,New York,HOSP00489,St. Mary Medical Center,General,(623) 817-7735,1,NC,61047
+Unknown,4788 Elm Ave,697,Unknown,HOSP00806,Sunrise Medical,General,(242) 854-7283,3.1,IL,10234
+Unknown,4791 Main Ave,288,New York,HOSP00756,Metro Medical Center,Psychiatric,(391) 394-1068,2.2,Unknown,92712
+Unknown,4817 Oak St,839,Houston,HOSP00904,Metro Medical Center,Teaching,(399) 657-2806,2.5,MI,34987
+Unknown,4823 Elm St,977,Unknown,HOSP00247,Unknown,Rehabilitation,(941) 768-1793,3,MI,35184
+Unknown,4824 Oak Ave,100,New York,HOSP00794,Metro Medical Center,Rehabilitation,(455) 340-1049,4.8,NC,23201
+Unknown,4869 Elm Ave,691,Unknown,HOSP00145,Unknown,General,(667) 485-5548,1.8,Unknown,53573
+Unknown,4906 Main Ave,542,Chicago,HOSP00501,Mercy Hospital,Unknown,(237) 827-4247,1.4,CA,32737
+Unknown,5000 Oak Ave,800,Chicago,HOSP00768,Valley View Hospital,General,(721) 264-1164,4.6,MA,69492
+Unknown,5003 Oak Ave,560,Chicago,HOSP00302,Valley View Hospital,Teaching,(600) 437-9694,4.4,PA,27016
+Unknown,5049 Park St,865,Phoenix,HOSP00357,St. Mary Medical Center,Community,(218) 727-2580,3.8,NJ,64384
+Unknown,5076 Hill St,1153,New York,HOSP00407,General Hospital ,Trauma Center,(315) 389-6595,1.7,Unknown,87259
+Unknown,512 Main Ave,786,Dallas,HOSP00930,Mercy Hospital,Psychiatric,(644) 343-4322,3.4,AZ,97453
+Unknown,5135 Elm Ave,169,Los Angeles,HOSP00958,Valley View Hospital,Psychiatric,(277) 506-3894,1.3,PA,20346
+Unknown,5158 Main St,526,Chicago,HOSP00717,General Hospital,Community,(253) 432-4422,2.5,VA,74787
+Unknown,5187 Lake St,434,Los Angeles,HOSP00849,Mercy Hospital,General,(788) 737-7139,2.4,VA,82213
+Unknown,5258 Main St,201,Chicago,HOSP00924,REGIONAL MEDICAL CENTER,Unknown,(868) 696-9851,2.8,CA,20819
+Unknown,5285 Main Ave,1038,Phoenix,HOSP00144,Lakeside Health,General,(225) 705-2117,0,IL,13866
+Unknown,5333 Elm Ave,162,Los Angeles,HOSP00828,Sunrise Medical,Psychiatric,(461) 461-9694,3.7,NJ,68702
+Unknown,5336 Lake Ave,416,Phoenix,HOSP00853,Metro Medical Center,Rehabilitation,Unknown,3.5,CA,11637
+Unknown,5336 Park St,372,Los Angeles,HOSP00055,Lakeside Health,Teaching,(293) 301-3402,1.8,GA,69077
+Unknown,5406 Hill St,818,Houston,HOSP00243,Lakeside Health,Rehabilitation,(564) 297-2353,4.2,Unknown,43832
+Unknown,5409 Park Ave,82,Dallas,HOSP00358,Mercy Hospital,Community,(864) 664-7870,4.7,MA,34844
+Unknown,545 Main St,1025,Chicago,HOSP00765,General Hospital,Unknown,(637) 172-4965,1.8,IL,18122
+Unknown,5479 Oak St,789,Los Angeles,HOSP00351,Valley View Hospital,Unknown,(365) 353-3589,2.5,NY,68144
+Unknown,5614 Lake Ave,206,Los Angeles,HOSP00052,Metro Medical Center,General,(824) 277-5213,4.3,AZ,28908
+Unknown,5621 Hill St,79,Dallas,HOSP00714,Valley View Hospital,Trauma Center,(595) 112-4460,1.2,WA,92783
+Unknown,5735 Main St,317,Houston,HOSP00380,General Hospital,Trauma Center,(939) 656-4660,3.6,IL,23497
+Unknown,5780 Elm St,275,Dallas,HOSP00099,Community Hospital,Teaching,Unknown,1.8,GA,76260
+Unknown,5789 Lake St,308,Chicago,HOSP00940,St. Mary Medical Center,Teaching,(906) 259-9895,4.6,Unknown,0
+Unknown,5855 Park St,413,Chicago,HOSP00960,Metro Medical Center,Specialty,(909) 583-4426,1.3,NJ,48804
+Unknown,5859 Elm St,911,Phoenix,HOSP00160,General Hospital,Specialty,(930) 716-4617,3.3,MA,60738
+Unknown,5907 Oak St,796,Chicago,HOSP00391,Community Hospital,Community,(261) 834-8321,4.2,AZ,51003
+Unknown,6058 Park Ave,160,Los Angeles,HOSP00150,St. Mary Medical Center,Teaching,(380) 744-6918,3.2,Unknown,32394
+Unknown,6080 Elm Ave,309,Unknown,HOSP00946,Lakeside Health,Psychiatric,(848) 580-3084,1,FL,27369
+Unknown,6114 Elm Ave,389,Chicago,HOSP00177,Community Hospital,Community,(879) 340-4873,1.3,IL,98060
+Unknown,6146 Hill St,668,Phoenix,HOSP00372,Sunrise Medical,Rehabilitation,(588) 265-6808,2.6,VA,47529
+Unknown,6223 Elm Ave,0,Houston,HOSP00496,Valley View Hospital,Psychiatric,(432) 204-9802,2.4,WA,62578
+Unknown,6240 Park St,776,Phoenix,HOSP00198,REGIONAL MEDICAL CENTER,Psychiatric,(645) 481-1214,0,WA,23652
+Unknown,6257 Hill Ave,0,Chicago,HOSP00383,Sunrise Medical,Psychiatric,(473) 416-8619,4.5,NJ,98099
+Unknown,6290 Elm St,748,Phoenix,HOSP00379,Valley View Hospital,Trauma Center,(433) 151-4184,2.6,Unknown,50248
+Unknown,6291 Oak St,774,Houston,HOSP00677,Mercy Hospital,Specialty,(426) 665-7796,3.6,NJ,63188
+Unknown,6293 Hill St,1136,New York,HOSP00747,General Hospital,Specialty,(793) 949-9077,3.3,NC,86636
+Unknown,632 Oak Ave,0,Chicago,HOSP00440,City Health Clinic,Rehabilitation,(830) 228-7530,0,NY,32776
+Unknown,6349 Main St,438,New York,HOSP00780,Unknown,General,(329) 774-9692,0,Unknown,57948
+Unknown,6412 Elm Ave,200,Dallas,HOSP00109,City Health Clinic,Community,(809) 809-3910,0,OH,32162
+Unknown,6450 Park St,1154,Phoenix,HOSP00944,Sunrise Medical,Community,(922) 733-1540,4.9,NY,20612
+Unknown,6486 Park St,629,New York,HOSP00708,Community Hospital,Unknown,(497) 270-1446,1.4,MI,31898
+Unknown,6500 Lake St,803,Phoenix,HOSP00625,Valley View Hospital,Rehabilitation,Unknown,2.8,WA,23213
+Unknown,6536 Hill Ave,401,Unknown,HOSP00461,City Health Clinic,Teaching,(930) 347-4636,4.3,NJ,67864
+Unknown,6683 Main St,164,Dallas,HOSP00182,Metro Medical Center,Unknown,(228) 492-6758,2.6,MA,38985
+Unknown,6811 Hill St,819,Phoenix,HOSP00097,General Hospital,Trauma Center,(975) 482-6618,1.3,FL,50088
+Unknown,6818 Elm St,779,Los Angeles,HOSP00774,General Hospital,Rehabilitation,(839) 101-1637,4.1,GA,82624
+Unknown,6824 Park Ave,1181,Phoenix,HOSP00271,Sunrise Medical,Specialty,(964) 217-5159,3.4,Unknown,29219
+Unknown,6987 Elm Ave,641,Houston,HOSP00966,Community Hospital,Rehabilitation,(492) 438-7156,3.7,AZ,26700
+Unknown,7028 Hill St,664,New York,HOSP00071,St. Mary Medical Center,Community,(331) 504-1588,3.1,VA,28032
+Unknown,7214 Lake Ave,51,Chicago,HOSP00339,Mercy Hospital,Psychiatric,(771) 770-6394,2.1,Unknown,90893
+Unknown,722 Lake St,348,Dallas,HOSP00229,Mercy Hospital,Community,(204) 839-1829,1.1,NC,74796
+Unknown,7252 Elm St,835,Houston,HOSP00036,St. Mary Medical Center ,Trauma Center,(933) 102-4999,4.4,GA,66942
+Unknown,7273 Oak St,1028,Phoenix,HOSP00322,General Hospital,General,(393) 919-5269,4.5,GA,15586
+Unknown,7280 Elm St,287,New York,HOSP00745,REGIONAL MEDICAL CENTER,Specialty,Unknown,1.4,WA,14593
+Unknown,7343 Park St,410,New York,HOSP00230,Sunrise Medical,Community,(897) 932-8820,4,TX,86998
+Unknown,7371 Elm St,1082,Houston,HOSP00096,Lakeside Health,Specialty,(372) 265-8376,1.6,OH,18241
+Unknown,7377 Elm St,466,Houston,HOSP00701,Metro Medical Center,Teaching,(429) 840-9279,4.1,PA,72329
+Unknown,7451 Elm Ave,156,New York,HOSP00402,General Hospital,Rehabilitation,(940) 680-5284,3.5,FL,73295
+Unknown,7520 Hill Ave,571,New York,HOSP00852,Mercy Hospital,Trauma Center,(675) 281-2555,1.7,WA,31515
+Unknown,7622 Hill St,582,New York,HOSP00100,City Health Clinic,Unknown,(284) 510-2235,4,NC,23361
+Unknown,7624 Oak Ave,176,Chicago,HOSP00025,Mercy Hospital,Rehabilitation,Unknown,1.2,OH,18056
+Unknown,7658 Elm St,164,Phoenix,HOSP00962,Mercy Hospital,Psychiatric,(738) 660-1542,4,GA,81151
+Unknown,7667 Elm Ave,1076,Los Angeles,HOSP00175,Community Hospital,Trauma Center,(838) 574-3860,1.4,Unknown,40077
+Unknown,7683 Park Ave,866,Phoenix,HOSP00744,Mercy Hospital,General,(525) 304-4105,4.4,NC,90258
+Unknown,7719 Main St,999,Dallas,HOSP00310,Community Hospital,Psychiatric,(993) 122-8317,3.2,IL,88696
+Unknown,7866 Elm Ave,403,Houston,HOSP00106,Community Hospital,Psychiatric,(423) 652-4653,3.2,Unknown,23341
+Unknown,7910 Elm Ave,102,Chicago,HOSP00408,St. Mary Medical Center,Community,(624) 950-3224,0,TX,66903
+Unknown,7993 Elm Ave,537,Chicago,HOSP00048,St. Mary Medical Center,Community,(973) 153-8450,1.7,IL,67236
+Unknown,8058 Lake Ave,1022,Houston,HOSP00246,Mercy Hospital,Teaching,(255) 684-2971,1.8,AZ,58207
+Unknown,8071 Park Ave,139,Houston,HOSP00983,Sunrise Medical,Community,(516) 818-4074,1.7,TX,76577
+Unknown,8209 Main St,1200,Dallas,HOSP00658,Unknown,Community,(553) 670-4903,4.8,PA,79027
+Unknown,8271 Main Ave,566,Unknown,HOSP00487,General Hospital,General,(304) 260-2267,3.3,NY,34486
+Unknown,8293 Park Ave,485,Phoenix,HOSP00511,Lakeside Health,Psychiatric,(490) 431-5958,4.3,Unknown,47931
+Unknown,8346 Park St,0,Chicago,HOSP00995,Lakeside Health,Teaching,(804) 115-8153,2.5,PA,47502
+Unknown,8367 Main Ave,166,Dallas,HOSP00336,Valley View Hospital,Trauma Center,(968) 799-7116,3.1,NJ,67493
+Unknown,8379 Lake Ave,73,Chicago,HOSP00213,Mercy Hospital,Trauma Center,(950) 692-1039,0,TX,86126
+Unknown,8411 Elm Ave,408,New York,HOSP00348,REGIONAL MEDICAL CENTER,Teaching,(588) 775-7765,2.7,CA,16592
+Unknown,8413 Main Ave,474,Los Angeles,HOSP00491,REGIONAL MEDICAL CENTER,Rehabilitation,(400) 791-2919,1.2,TX,11963
+Unknown,8448 Park Ave,995,Houston,HOSP00947,Valley View Hospital,General,(657) 378-9015,3.1,AZ,41334
+Unknown,8463 Hill St,223,New York,HOSP00222,Unknown,Trauma Center,(578) 280-4577,4.6,FL,46282
+Unknown,8516 Lake Ave,1116,New York,HOSP00903,Lakeside Health,Trauma Center,(871) 914-9675,5,NC,76294
+Unknown,8568 Hill Ave,285,Dallas,HOSP00546,Mercy Hospital,Community,(877) 173-4800,2.6,NY,47063
+Unknown,8572 Main St,839,Houston,HOSP00746,Sunrise Medical,Teaching,(204) 479-4510,1.4,FL,76790
+Unknown,8628 Lake Ave,0,Houston,HOSP00041,REGIONAL MEDICAL CENTER,Rehabilitation,(436) 274-6883,1.2,NC,81123
+Unknown,8661 Park St,771,Houston,HOSP00466,City Health Clinic,Rehabilitation,(221) 414-4317,4,IL,88657
+Unknown,8676 Elm St,677,Phoenix,HOSP00831,City Health Clinic,Specialty,(228) 824-6684,3.6,MA,62916
+Unknown,8691 Hill St,1003,Houston,HOSP00219,Mercy Hospital,Psychiatric,(278) 399-9411,2,OH,93133
+Unknown,8727 Hill St,1113,Phoenix,HOSP00481,General Hospital,Unknown,(614) 146-9674,4.2,TX,61457
+Unknown,8752 Park Ave,287,Los Angeles,HOSP00406,General Hospital,Psychiatric,(864) 108-6305,3,NC,15239
+Unknown,8761 Lake St,954,Houston,HOSP00955,Unknown,Unknown,(803) 348-2586,0,FL,67141
+Unknown,8785 Oak St,353,Phoenix,HOSP00773,Sunrise Medical,Rehabilitation,(358) 761-5880,4.7,CA,25640
+Unknown,8892 Main St,970,Houston,HOSP00455,REGIONAL MEDICAL CENTER,Teaching,(523) 430-7139,4.3,CA,21834
+Unknown,8906 Lake St,835,Chicago,HOSP00087,Mercy Hospital,Specialty,(993) 688-9946,2.7,OH,88339
+Unknown,8993 Lake St,1158,Dallas,HOSP00012,General Hospital,Unknown,(422) 872-7750,1.9,CA,79339
+Unknown,9064 Lake Ave,273,Chicago,HOSP00803,Mercy Hospital,Community,(760) 158-6010,4.2,MA,10393
+Unknown,9259 Hill St,731,Phoenix,HOSP00102,General Hospital,Psychiatric,(972) 317-4180,0,Unknown,98499
+Unknown,9261 Hill Ave,820,Phoenix,HOSP00987,Valley View Hospital,Rehabilitation,(541) 106-5957,2.6,CA,58205
+Unknown,9322 Hill St,80,Dallas,HOSP00388,St. Mary Medical Center,Psychiatric,(264) 504-7285,2.1,WA,37059
+Unknown,9391 Park St,525,New York,HOSP00544,Lakeside Health ,General,(549) 775-8764,2.7,VA,65917
+Unknown,9500 Main Ave,354,Unknown,HOSP00504,Unknown,Psychiatric,(838) 608-9354,1.2,Unknown,10337
+Unknown,9513 Oak Ave,231,New York,HOSP00726,St. Mary Medical Center ,Teaching,(455) 747-8711,2.5,TX,0
+Unknown,9525 Hill Ave,410,Houston,HOSP00609,Lakeside Health,Teaching,(508) 333-9793,4.7,OH,21257
+Unknown,9579 Main Ave,218,New York,HOSP00611,Community Hospital,Unknown,(919) 361-5047,2.7,MA,56807
+Unknown,9649 Oak Ave,381,Dallas,HOSP00153,General Hospital,Specialty,(971) 752-2454,3.7,VA,96603
+Unknown,9678 Lake Ave,0,New York,HOSP00786,Valley View Hospital,Specialty,(966) 354-8431,2.1,Unknown,94726
+Unknown,9705 Elm Ave,266,Dallas,HOSP00846,Community Hospital,Trauma Center,(527) 129-5890,1.1,FL,61056
+Unknown,9725 Oak St,530,Dallas,HOSP00319,Metro Medical Center,Community,(234) 931-7198,2.4,NY,76879
+Unknown,9827 Elm Ave,728,New York,HOSP00982,Metro Medical Center,General,(821) 554-4975,3.3,FL,0
+Unknown,988 Lake St,805,Houston,HOSP00874,Metro Medical Center,Specialty,(529) 449-1430,3,NY,75164
+Unknown,9919 Park St,1009,Los Angeles,HOSP00865,Metro Medical Center,Rehabilitation,(688) 256-8951,1.9,IL,17082
+Unknown,9979 Main St,566,New York,HOSP00662,Metro Medical Center,Specialty,(530) 528-6720,1.5,Unknown,44398
+Unknown,9995 Main Ave,811,Unknown,HOSP00724,REGIONAL MEDICAL CENTER,Psychiatric,(558) 209-8966,2,VA,46405
