@@ -1,26 +1,28 @@
+
+-- cleaning the health database 
 USE [Health]
 GO
 
 SELECT [Patient_ID]
-      ,[Name]
+      ,[First_Name]
       ,[Age]
       ,[Gender]
-      ,[Visit_Date]
-      ,[Diagnosis_Code]
-      ,[Billing_Amount]
-      ,[Hospital]
+      ,[Zip_Code]
+      ,[AuditID]
+      ,[Insurance]
+      ,[Email]
       ,[City]
-  FROM [dbo].[health_raw_data]
+  FROM [dbo].[Patients_Staging]
 
 GO
 SELECT *
-From dbo.health_staging;
+From dbo.Patients_staging;
 
-UPDATE dbo.health_staging
+UPDATE dbo.Patients_staging
 SET Age = 0
 WHERE Age IS NULL;
 
-UPDATE dbo.health_staging
+UPDATE dbo.Patients_Staging
 SET Gender = 
     CASE 
         WHEN Gender IN ('M','Male') THEN 'Male'
@@ -28,21 +30,21 @@ SET Gender =
         ELSE 'Unknown'
     END;
 
-    UPDATE dbo.health_staging
-SET Diagnosis_Code = 'No Code'
-WHERE Diagnosis_Code IS NULL;
+    UPDATE dbo.Visits_staging
+SET Diagnosis = 'No Code'
+WHERE Diagnosis IS NULL;
 
-UPDATE dbo.health_staging
-SET Billing_Amount = 0
-WHERE Billing_Amount IS NULL;
+UPDATE dbo.Claims_staging
+SET Claim_Amount = 0
+WHERE Claim_Amount IS NULL;
 
 
 /* =========================
-   DATA CLEANING - HEALTH TABLE
-   dbo.health_staging
+   DATA CLEANING - HEALTH TABLES
+   
    ========================= */
 
-UPDATE dbo.health_staging
+UPDATE dbo.Patients_Staging
 SET 
     -- Replace NULL Age with 0
     Age = CASE 
@@ -55,13 +57,20 @@ SET
                 WHEN Gender IN ('M', 'Male') THEN 'Male'
                 WHEN Gender IN ('F', 'Female') THEN 'Female'
                 ELSE 'Unknown'
-             END,
+             END;
 
-    -- Replace NULL Diagnosis_Code with default value
-    Diagnosis_Code = ISNULL(Diagnosis_Code, 'No Code'),
+    
+    UPDATE dbo.Visits_Staging
+SET 
 
+    --Replace NULL Diagnosis_Code with default value
+    Diagnosis = ISNULL(Diagnosis, 'No Code');
+
+    
+    UPDATE dbo.Claims_Staging
+SET 
     -- Replace NULL Billing_Amount with 0
-    Billing_Amount = ISNULL(Billing_Amount, 0);
+    Claim_Amount = ISNULL(Claim_Amount, 0);
 
     /* =========================================
    DATA VALIDATION QUERY
@@ -75,7 +84,7 @@ SET
     Select * From dbo.visits_staging;
     Select * from dbo.claims_staging;
     Select * from dbo.patients_staging;
-    Select * from dbo.health_staging;
+    
     
     
     /* =========================================
@@ -83,28 +92,26 @@ SET
    Used for initial load only
    ========================================= */
    SELECT *
-INTO dbo.claims_staging
+INTO dbo.Claims_Staging
 FROM dbo.claims;
 
  SELECT *
-INTO dbo.patients_staging
+INTO dbo.Patients_Staging
 FROM dbo.patients;
 
  SELECT *
-INTO dbo.visits_staging
+INTO dbo.Visits_Staging
 FROM dbo.visits;
 
 
 
-UPDATE dbo.claims_staging
-SET Billing_Amount = 0
-WHERE Billing_Amount IS NULL;
+UPDATE dbo.Claims_Staging
+SET Claim_Amount = 0
+WHERE Claim_Amount IS NULL;
 
-UPDATE dbo.health_staging
-SET Billing_Amount = 0
-WHERE Billing_Amount IS NULL;
 
-UPDATE dbo.patients_staging
+
+UPDATE dbo.Patients_Staging
 SET 
     -- Replace NULL Age with 0
     age = CASE 
@@ -121,5 +128,5 @@ SET
 
              
     UPDATE dbo.visits_staging
-SET diagnosis_code = 'No Code'
-WHERE diagnosis_code IS NULL;
+SET diagnosis = 'No Code'
+WHERE diagnosis IS NULL;
